@@ -23,7 +23,7 @@ Total jobs: **34**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 
 ## CS Roles
@@ -31,12 +31,12 @@ Total jobs: **34**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | NVIDIA | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted Yes | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) |
-| Roblox | [2026] Data Scientist, Social | San Mateo, CA | Entry | Fall 2026 | No sponsorship | 2026-07-10 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
-| Roblox | Software Engineer, User Sharing | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-10 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) |
-| Roblox | Software Engineer, User Co-Experience | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-10 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
-| Roblox | Software Engineer, Storage | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-10 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
-| Roblox | Software Engineer, Data Engineering | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-10 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| Roblox | [2026] Data Scientist, Social | San Mateo, CA | Entry | Fall 2026 | No sponsorship | 2026-07-11 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
+| Roblox | Software Engineer, User Sharing | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-11 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) |
+| Roblox | Software Engineer, User Co-Experience | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-11 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
+| Roblox | Software Engineer, Storage | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-11 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
+| Roblox | Software Engineer, Data Engineering | San Mateo, CA | New Grad | Unknown | No sponsorship | 2026-07-11 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Scale AI | National Security Hackathon 2026 - General Interest | Washington, DC | Entry | 2026 | Unknown | 2026-07-09 | Scale AI |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) |
 | Anduril | Technical Program Manager - SkillBridge | Atlanta, GA (ATL-01), Costa Mesa, CA (OC-00), Quincy, MA, Washington, DC (30th Street) | New Grad | Unknown | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5142785007?gh_jid=5142785007) |
