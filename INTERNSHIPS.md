@@ -1,6 +1,6 @@
 # Internships
 
-Generated from `data/jobs.csv`. Only USA or remote roles are included. Work authorization is inferred from posting text only.
+Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
 Total jobs: **34**
 

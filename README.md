@@ -51,8 +51,8 @@ Total open jobs: **68**
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 5 |
-| No sponsorship | 0 |
+| Sponsors / OPT-CPT likely | 0 |
+| No sponsorship | 5 |
 | US citizen / clearance | 3 |
 | Unknown | 60 |
 
