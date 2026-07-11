@@ -134,7 +134,7 @@ function SearchBar({
         <FilterControl label="Category" field="track" jobs={jobs} value={filters.track} onChange={value => onChange("track", value)} icon={<Stack size={20} weight="bold" />} />
         <FilterControl label="Level" field="role_type" jobs={jobs} value={filters.role_type} onChange={value => onChange("role_type", value)} icon={<GraduationCap size={20} weight="bold" />} />
         <FilterControl label="Company" field="company" jobs={jobs} value={filters.company} onChange={value => onChange("company", value)} icon={<Buildings size={19} weight="bold" />} />
-        <FilterControl label="CPT/OPT/H1B" field="work_auth" jobs={jobs} value={filters.work_auth} onChange={value => onChange("work_auth", value)} icon={<Globe size={20} weight="bold" />} />
+        <FilterControl label="Work Auth" field="work_auth" jobs={jobs} value={filters.work_auth} onChange={value => onChange("work_auth", value)} icon={<Globe size={20} weight="bold" />} />
       </div>
     </section>
   );

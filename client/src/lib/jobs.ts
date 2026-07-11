@@ -262,6 +262,13 @@ export function sectionTone(titleText: string, blocks: DescriptionBlock[]) {
   return "default";
 }
 
+// Newest first: prefer posted_at, fall back to updated_at; undated roles sink last.
+// ISO/`YYYY-MM-DD` strings compare correctly lexicographically.
+export function sortByRecency(jobs: Job[]): Job[] {
+  const key = (job: Job) => job.posted_at || job.updated_at || "";
+  return [...jobs].sort((a, b) => key(b).localeCompare(key(a)));
+}
+
 export async function loadJobs(): Promise<JobsResponse> {
   const endpoints = [apiUrl("/api/jobs"), apiUrl("/data/jobs.json")];
   let lastError = "Could not load jobs";
@@ -272,7 +279,9 @@ export async function loadJobs(): Promise<JobsResponse> {
         lastError = `${endpoint} returned ${response.status}`;
         continue;
       }
-      return await response.json();
+      const data: JobsResponse = await response.json();
+      data.jobs = sortByRecency(data.jobs || []);
+      return data;
     } catch (error) {
       lastError = error instanceof Error ? error.message : String(error);
     }
