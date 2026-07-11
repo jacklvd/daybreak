@@ -2,7 +2,7 @@
 
 Generated from `data/jobs.csv`. Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **35**
+Total jobs: **34**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **35**
 | Sponsors / OPT-CPT likely | 0 |
 | No sponsorship | 0 |
 | US citizen / clearance | 1 |
-| Unknown | 34 |
+| Unknown | 33 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 35 |
+| CS Roles | 34 |
 | Data Analyst + TPM Roles | 0 |
 | Chemistry, Process, QA/QC Roles | 0 |
 
@@ -63,7 +63,6 @@ Total jobs: **35**
 | Optiver | Quantitative Research Intern, PhD (Summer 2027) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
-| Citadel | Software Engineer – Intern (US) Greenwich, Houston, Miami, New York Apply Now |  | Intern | Unknown | Unknown |  | Citadel |  | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 
 ## Data Analyst + TPM Roles
 

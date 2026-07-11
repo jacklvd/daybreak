@@ -22,15 +22,15 @@ explicit non-US locations are excluded.
 
 Generated from `data/jobs.csv`. Work authorization is inferred from posting text only.
 
-Total open jobs: **70**
+Total open jobs: **68**
 
 - [Internships](INTERNSHIPS.md)
 - [New Grad + Entry Level](NEW_GRAD.md)
 
 | Type | Count |
 | --- | ---: |
-| Internships | 35 |
-| New grad | 33 |
+| Internships | 34 |
+| New grad | 32 |
 | Entry level | 2 |
 
 | Work Auth Signal | Count |
@@ -38,11 +38,11 @@ Total open jobs: **70**
 | Sponsors / OPT-CPT likely | 5 |
 | No sponsorship | 0 |
 | US citizen / clearance | 3 |
-| Unknown | 62 |
+| Unknown | 60 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 70 |
+| CS Roles | 68 |
 | Data Analyst + TPM Roles | 0 |
 | Chemistry, Process, QA/QC Roles | 0 |
 <!-- JOBS:END -->
