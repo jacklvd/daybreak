@@ -4,27 +4,86 @@
 
 @layer base {
   :root {
+    --paper: 38 100% 97%;
+    --card: 40 100% 99%;
+    --ink: 24 24% 12%;
+    --line: 24 24% 12%;
+    --muted: 25 14% 38%;
+    --sun: 42 100% 58%;
+    --coral: 12 100% 60%;
+    --peach: 24 100% 76%;
+    --sky: 232 88% 64%;
     color-scheme: light;
-    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
+  }
+
+  [data-theme="dark"] {
+    --paper: 250 32% 9%;
+    --card: 250 26% 14%;
+    --ink: 40 46% 90%;
+    --line: 40 30% 82%;
+    --muted: 250 16% 66%;
+    --sun: 42 95% 62%;
+    --coral: 12 92% 64%;
+    --peach: 24 78% 70%;
+    --sky: 232 90% 74%;
+    color-scheme: dark;
   }
 
   * {
     box-sizing: border-box;
   }
 
+  html {
+    scrollbar-color: hsl(var(--ink)) transparent;
+  }
+
   body {
     margin: 0;
     min-width: 320px;
-    background:
-      linear-gradient(180deg, hsl(169 65% 25% / 0.08), hsl(169 65% 25% / 0) 260px),
-      hsl(180 12% 97%);
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", "Cascadia Code", Menlo, Consolas, monospace;
+    color: hsl(var(--ink));
+    background-color: hsl(var(--paper));
+    /* pixel graph-paper grid — shows through the gutters between cards */
+    background-image:
+      linear-gradient(hsl(var(--ink) / 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--ink) / 0.04) 1px, transparent 1px);
+    background-size: 22px 22px;
   }
 
   button,
   input,
   select {
     font: inherit;
+  }
+
+  ::selection {
+    background: hsl(var(--coral));
+    color: #fff;
+  }
+}
+
+@layer components {
+  /* neo-brutal primitives: hard border + zero-blur offset shadow */
+  .db-box {
+    @apply border-2 border-ink bg-card;
+  }
+
+  .db-pop {
+    @apply border-2 border-ink bg-card shadow-brutal;
+  }
+
+  .db-btn {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-ink bg-card px-3 font-bold uppercase tracking-wide shadow-brutal-sm transition-transform duration-100 hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-none focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-coral focus-visible:ring-offset-2 focus-visible:ring-offset-paper;
+  }
+
+  .db-btn-primary {
+    @apply text-white;
+    background-color: hsl(var(--coral));
+  }
+
+  .db-pill {
+    @apply inline-flex items-center gap-1 border-2 border-ink px-1.5 py-0.5 text-[11px] font-bold uppercase tracking-wide leading-none;
   }
 }

@@ -5,44 +5,33 @@ export default {
   theme: {
     extend: {
       colors: {
-        border: "hsl(150 12% 86%)",
-        input: "hsl(150 12% 86%)",
-        ring: "hsl(167 65% 26%)",
-        background: "hsl(180 12% 97%)",
-        foreground: "hsl(140 14% 11%)",
-        muted: {
-          DEFAULT: "hsl(130 11% 94%)",
-          foreground: "hsl(139 8% 42%)",
-        },
-        primary: {
-          DEFAULT: "hsl(169 65% 25%)",
-          foreground: "hsl(0 0% 100%)",
-        },
-        secondary: {
-          DEFAULT: "hsl(206 38% 94%)",
-          foreground: "hsl(204 56% 31%)",
-        },
-        accent: {
-          DEFAULT: "hsl(137 25% 94%)",
-          foreground: "hsl(153 28% 22%)",
-        },
-        warning: {
-          DEFAULT: "hsl(37 100% 94%)",
-          foreground: "hsl(29 70% 35%)",
-        },
-        card: {
-          DEFAULT: "hsl(0 0% 100%)",
-          foreground: "hsl(140 14% 11%)",
-        },
+        paper: "hsl(var(--paper) / <alpha-value>)",
+        card: "hsl(var(--card) / <alpha-value>)",
+        ink: "hsl(var(--ink) / <alpha-value>)",
+        line: "hsl(var(--line) / <alpha-value>)",
+        muted: "hsl(var(--muted) / <alpha-value>)",
+        sun: "hsl(var(--sun) / <alpha-value>)",
+        coral: "hsl(var(--coral) / <alpha-value>)",
+        peach: "hsl(var(--peach) / <alpha-value>)",
+        sky: "hsl(var(--sky) / <alpha-value>)",
+      },
+      fontFamily: {
+        mono: [
+          "ui-monospace",
+          '"SF Mono"',
+          '"JetBrains Mono"',
+          '"Cascadia Code"',
+          "Menlo",
+          "Consolas",
+          "monospace",
+        ],
       },
       boxShadow: {
-        soft: "0 1px 2px hsl(140 18% 12% / 0.05), 0 10px 28px hsl(140 18% 12% / 0.06)",
+        brutal: "3px 3px 0 0 hsl(var(--ink))",
+        "brutal-sm": "2px 2px 0 0 hsl(var(--ink))",
+        "brutal-lg": "5px 5px 0 0 hsl(var(--ink))",
       },
-      borderRadius: {
-        lg: "8px",
-        md: "7px",
-        sm: "6px",
-      },
+      borderRadius: { lg: "2px", md: "2px", sm: "1px" },
     },
   },
   plugins: [],

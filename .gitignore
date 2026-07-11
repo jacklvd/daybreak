@@ -16,6 +16,9 @@ client/node_modules/
 client/dist/
 *.tsbuildinfo
 
+# Wrangler / Cloudflare local state (from `wrangler pages deploy`)
+.wrangler/
+
 # Local scraper runtime
 *.sqlite
 *.sqlite-*
@@ -23,7 +26,16 @@ client/dist/
 # Full scrape data is served from R2, never committed to the public board
 data/jobs.json
 data/jobs.csv
+# local preview seed (client fetches the Worker/R2 in production)
+client/public/data/
 
 /docs/superpowers/
 .agents/
 .remember/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
