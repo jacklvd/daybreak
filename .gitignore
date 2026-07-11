@@ -32,6 +32,7 @@ client/public/data/
 /docs/superpowers/
 .agents/
 .remember/
+skills-lock.json
 
 # macOS
 .DS_Store
