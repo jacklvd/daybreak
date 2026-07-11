@@ -38,8 +38,6 @@ search and filters, or click any **Apply** link in the tables below.
 <!-- JOBS:START -->
 ## Current Jobs
 
-Generated from `data/jobs.csv`. Work authorization is inferred from posting text only.
-
 Total open jobs: **68**
 
 - [Internships](INTERNSHIPS.md)
