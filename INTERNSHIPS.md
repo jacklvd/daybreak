@@ -2,55 +2,184 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **40**
+Total jobs: **168**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 0 |
-| No sponsorship | 0 |
-| US citizen / clearance | 0 |
-| Unknown | 40 |
+| Sponsors / OPT-CPT likely | 4 |
+| No sponsorship | 4 |
+| US citizen / clearance | 5 |
+| Unknown | 155 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 40 |
-| Data Analyst + TPM Roles | 0 |
-| Chemistry, Process, QA/QC Roles | 0 |
+| CS Roles | 159 |
+| Data Analyst + TPM Roles | 3 |
+| Chemistry, Process, QA/QC Roles | 6 |
+
+## US Citizen / Clearance Required
+
+| Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
+| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
+| Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Intern | Fall 2026 | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
+| Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-06-26 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
+| Varda Space | Flight Software Internship - Fall 2026 | El Segundo, California, United States | Intern | Fall 2026 | US citizen / clearance | 2026-06-24 | Varda Space | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
 
 ## CS Roles
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lucid Motors | Marketing Data & Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136417007) |
+| Lucid Motors | Finance Business Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) |
+| Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-10 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
+| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-10 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
+| Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-10 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
+| Pylon | Software Engineer, Intern |  | Intern | Summer 2026 | Unknown | 2026-07-10 | Pylon | summer | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) |
+| Meshy | Infrastructure Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
+| Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
+| Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
+| Bosch Group | Mandatory Internship Development and Validation of Software Solutions for Automotive SDV | Stuttgart, BW, de | Intern | Unknown | Unknown | 2026-07-10 | Robert Bosch Venture Capital |  | [Apply](https://api.smartrecruiters.com/v1/companies/BoschGroup/postings/744000137099840) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-10 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| Vital Lyfe | Software Engineering Internship - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-07-09 | Vital Lyfe | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) |
+| Uber Freight | Data Scientist Intern - Fall 2026 | Chicago, IL 60607, United States | Intern | Spring 2026 | Unknown | 2026-07-09 | Uber Freight | hybrid, visa, fall, spring | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5194491008) |
 | IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | Intern | 2027 | Unknown | 2026-07-09 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
+| iHerb | Software Development Intern | United States of America - Remote / Home Office | Intern | Unknown | Unknown | 2026-07-08 | iHerb | remote | [Apply](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
+| Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-07-08 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Chicago | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
+| Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-08 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
 | Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-07 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-07 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| WindBorne Systems | Firmware Intern |  | Intern | Unknown | Unknown | 2026-07-06 | WindBorne Systems | summer | [Apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |
+| Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-07-06 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
+| Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York, NY | Intern | Summer 2026 | Unknown | 2026-07-03 | Eulerity | hybrid, summer | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) |
+| Sila Nanotechnologies | Battery Simulation & Computational Scientist Internship | Alameda, CA | Intern | Unknown | Unknown | 2026-07-02 | Sila Nanotechnologies | remote, summer | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) |
+| Apptronik | Robotics Software Intern – Real-Time Controls | Austin, TX | Intern | Unknown | Unknown | 2026-07-02 | Apptronik |  | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
+| The Wonderful Company | Intern, Business Systems Analyst (Summer Internship) | Shafter, CA, us · Del Rey, CA, us | Intern | Unknown | Unknown | 2026-07-01 | The Wonderful Company | summer | [Apply](https://api.smartrecruiters.com/v1/companies/TheWonderfulCompany/postings/744000135343439) |
+| Seven Research | Quantitative Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) |
+| Seven Research | Deep Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) |
+| Seven Research | Core Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) |
+| Seven Research | Algorithmic Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) |
+| Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Intern | Fall 2026 | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-01 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Intern | Unknown | Unknown | 2026-07-01 | Databricks |  | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
+| Podium | Software Engineering Intern | Lehi, Utah | Intern | Unknown | Unknown | 2026-06-30 | Podium | summer | [Apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
+| Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-06-30 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
+| Truveta | Software Engineering Intern | Seattle, WA | Intern | Unknown | No sponsorship | 2026-06-29 | Truveta | hybrid | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
+| Lila Sciences | Co-Op, LS AI, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-29 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
+| ACLU Kentucky | Fall 2026 Undergraduate Intern, Technology and Analytics Department- Educate Pod | Remote/Hybrid- New York City | Intern | Fall 2026 | Unknown | 2026-06-29 | ACLU Kentucky | remote, hybrid, fall | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8612266002) |
+| Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-06-26 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
+| CTGT | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-26 | CTGT | summer | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
+| Prior Labs | Research Scientist Intern (PhD) |  | Intern | Unknown | Unknown | 2026-06-25 | Prior Labs | remote | [Apply](https://jobs.ashbyhq.com/prior-labs/09410424-8e94-4747-8155-bbcd0b1d4f6e) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | Intern | Summer 2027 | Unknown | 2026-06-25 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Point72 | Quantitative Research Intern (NLP) | New York | Intern | Unknown | Unknown | 2026-06-25 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | Point72 | Quantitative Research Intern | New York, Seattle | Intern | Unknown | Unknown | 2026-06-25 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
 | Point72 | Quantitative Developer Intern | New York | Intern | Unknown | Unknown | 2026-06-25 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
 | Point72 | Machine Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-06-25 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
+| Lila Sciences | Co-Op, Next Gen Engineering | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
+| Lila Sciences | Co-Op, ML Scientist for Biology | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) |
+| Lila Sciences | Co-Op, Automation | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009) |
+| Varda Space | Flight Software Internship - Fall 2026 | El Segundo, California, United States | Intern | Fall 2026 | US citizen / clearance | 2026-06-24 | Varda Space | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
+| Phamily | Business Intelligence & Data Analytics Intern (Undergraduate) | New York, NY | Intern | 2026 | Unknown | 2026-06-24 | Phamily | remote, hybrid | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) |
 | Instacart | Machine Learning PhD Intern, Economics (Fall) | United States - Remote | Intern | Unknown | Unknown | 2026-06-24 | Instacart | remote, fall | [Apply](https://instacart.careers/job/?gh_jid=7532267) |
+| Neuralink | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) |
+| Neuralink | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
+| Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) |
+| Neuralink | Software Engineer Intern, Implant | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) |
+| Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) |
+| Neuralink | Machine Learning Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) |
+| Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
+| Neuralink | Embedded Software Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) |
+| Neuralink | Electrical Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) |
+| Lila Sciences | Co-Op, Software Product Management | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-16 | Lila Sciences | fall | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) |
+| AXQ Capital | Quantitative Research Intern | New York | Intern | Unknown | Unknown | 2026-06-15 | AXQ Capital | winter, summer | [Apply](https://job-boards.greenhouse.io/axq/jobs/5575450004) |
+| Lila Sciences | Co-op, Mechanical Engineer | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-12 | Lila Sciences | summer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
+| Lila Sciences | Co-op, Machine Learning for Digital Twins | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-11 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) |
+| Lila Sciences | Co-Op, AI Security | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-11 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280945009) |
+| Etched | SI/PI Intern |  | Intern | Unknown | Unknown | 2026-06-10 | Etched |  | [Apply](https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3) |
+| Centerfield | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-06-09 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) |
+| Output Biosciences | Research Intern (PhD), Machine Learning |  | Intern | Unknown | Unknown | 2026-06-06 | Output Biosciences |  | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| XPENG Motors | AI Infra Onboard Performance Intern | Santa Clara, CA | Intern | Unknown | Unknown | 2026-06-05 | XPENG Motors |  | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) |
+| TransMarket Group | DevOps/SRE Intern | Chicago, Illinois, United States | Intern | Unknown | Unknown | 2026-06-02 | TransMarket Group |  | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
 | Snowflake | Software Engineer Intern - Berlin (2026) |  | Intern | 2026 | Unknown | 2026-06-02 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) |
 | Snowflake | Software Engineer Intern (AI/ML) - 2026 |  | Intern | 2026 | Unknown | 2026-06-02 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034) |
+| NOX METALS | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-06-02 | NOX METALS | remote, summer | [Apply](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f) |
+| Heron Power | Intern, System Integration & Test Software |  | Intern | Unknown | Unknown | 2026-06-02 | Heron Power |  | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
+| Walleye Capital | Volatility Trading Developer Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) |
+| Walleye Capital | Risk Technology Analyst Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
+| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
+| Accel Learning | AI Engineer (Internship) - Intelligent Question Bank Platform | Secaucus, NJ, us | Intern | Unknown | Unknown | 2026-06-01 | Accel Learning |  | [Apply](https://api.smartrecruiters.com/v1/companies/AccelLearning/postings/744000129584829) |
+| Mariana Minerals | Chemical Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-28 | Mariana Minerals |  | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
+| Phia | Full Stack Engineer Intern |  | Intern | Unknown | Unknown | 2026-05-27 | Phia |  | [Apply](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162) |
+| Base Power | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) |
+| Base Power | Quantitative Developer Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
+| Base Power | Firmware Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) |
+| Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management | summer | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
+| Stevens Capital Management | Developer Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management |  | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
+| Skydio | Middleware Software Engineer Intern - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-05-21 | Skydio | fall | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) |
+| Great Question | AI Engineer Intern |  | Intern | Summer 2026 | Unknown | 2026-05-21 | Great Question | remote, summer | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) |
+| Gen Digital | Application Security Fuzzing Intern |  | Intern | Unknown | Unknown | 2026-05-21 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/5230f044-bf53-4ac1-abe8-89df61cfb4c1) |
+| Etched | Supercomputing Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
+| Etched | Chip Simulation Software Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
+| Saronic | Software Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-18 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
+| Docugami | Software Engineering Intern | Kirkland, Washington, United States | Intern | Unknown | Unknown | 2026-05-15 | Docugami |  | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4014838003) |
+| Eulerity | Android Developer Intern | New York, New York | Intern | Unknown | Unknown | 2026-05-14 | Eulerity |  | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) |
+| Saronic | Test Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-13 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/927985ae-7a48-4628-9e03-36510d64fb5f) |
+| Astera | Software Engineering Intern – Distributed Simulation Systems |  | Intern | Unknown | No sponsorship | 2026-05-13 | Astera | hybrid, visa | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) |
 | Snowflake | Software Engineer Intern - Zurich (2026) |  | Intern | 2026 | Unknown | 2026-05-12 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b) |
+| kos.ai | Software Engineer Intern |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-05-07 | kos.ai | visa | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) |
+| Skydio | Software Engineer Intern Fall 2026/Winter 2027 |  | Intern | Winter 2026 | Unknown | 2026-05-05 | Skydio | fall, winter | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
+| Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
+| Atomic Semi | Infrastructure Software Engineering Intern - Fall |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-04-22 | Atomic Semi | visa, fall | [Apply](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) |
+| Blockhouse | Rust Developer Intern (Summer 2026) |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-04-21 | Blockhouse | remote, summer | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
+| Kognitos | Software Engineer Intern (AI-Native) — Summer 2026 |  | Intern | Summer 2026 | Unknown | 2026-04-16 | Kognitos | summer | [Apply](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5) |
+| Gen Digital | Mobile Engineer, Intern - MoneyLion |  | Intern | Unknown | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/f3817f1c-6832-4624-8fc1-fbf96e64721c) |
+| Gen Digital | Data Scientist, Intern - MoneyLion |  | Intern | 2026 | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/020a42a9-7c79-4e6c-958f-726069ff86f0) |
+| Gen Digital | Data Engineer, Intern - MoneyLion |  | Intern | Unknown | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1783723393 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
+| Exowatt | Software Engineering Intern — Inventory Automation & IoT/Robotics | Austin, TX | Intern | Unknown | Unknown | 1783712655 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) |
+| Exowatt | Software Engineering Intern — Agent Platform (AI) | Austin, TX | Intern | Unknown | Unknown | 1783712323 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) |
+| Traackr | Software Engineering Intern (Part-Time, Internal Tooling) | New York City | Intern | Unknown | Unknown | 1783017894 | Traackr | remote | [Apply](https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688) |
 | Palantir | Forward Deployed Software Engineer, Internship - Intel | Washington, D.C. | Intern | Unknown | Unknown | 1782933745 | Palantir |  | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782849666 | Palantir |  | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782328394 | Palantir |  | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| Toyota Research Institute | Energy & Materials Intern- XRD Advanced Analysis | Los Altos, CA | Intern | Fall 2026 | Unknown | 1781747850 | Toyota Research Institute | hybrid, fall | [Apply](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) |
+| SoloPulse | Software Engineer Intern/Co-Op - Fall 2026 | Peachtree Corners, GA | Intern | Fall 2026 | Unknown | 1781636002 | SoloPulse | fall | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) |
+| Fluxergy | Firmware Engineer Intern | Irvine, California | Intern | Unknown | Unknown | 1780358426 | Fluxergy |  | [Apply](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec) |
+| GenBio AI | Software Engineering Intern | Palo Alto, CA | Intern | Unknown | Unknown | 1780341449 | GenBio AI |  | [Apply](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74) |
+| EV Realty | Intern, Data Analytics | San Francisco, CA | Intern | Unknown | Unknown | 1779477657 | EV Realty | summer | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865) |
+| Reply | iOS Developer Intern | Detroit Area, Michigan | Intern | Unknown | Unknown | 1779396710 | Reply |  | [Apply](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5) |
+| Reply | Android Developer Intern | Detroit Area, Michigan | Intern | Unknown | Unknown | 1779396081 | Reply |  | [Apply](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061) |
+| PlusAI | Machine Learning Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1779319017 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266) |
+| PlusAI | Robotics Systems Intern - Sensor Platform | Santa Clara, CA | Intern | Unknown | Unknown | 1779317331 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b) |
+| PlusAI | Machine Learning Engineer Intern - Planning | Santa Clara, CA | Intern | Unknown | Unknown | 1779316802 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc) |
+| PlusAI | Software Engineer Intern- Runtime, Robotics | Santa Clara, CA | Intern | Unknown | Unknown | 1779315796 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4) |
+| PlusAI | Software Engineer Intern - Robotics | Santa Clara, CA | Intern | Unknown | Unknown | 1779315498 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) |
+| PlusAI | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, CA | Intern | Unknown | Unknown | 1779313808 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) |
+| PlusAI | Machine Learning Engineer Intern - Scenario Simulation | Santa Clara, CA | Intern | Unknown | Unknown | 1779312458 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) |
+| PlusAI | Machine Learning Infrastructure Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811789 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4) |
+| PlusAI | Full Stack Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811243 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
+| PlusAI | Software Engineer Intern - Data | Santa Clara, CA | Intern | Unknown | Unknown | 1778810535 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4) |
+| PlusAI | Software Engineer Intern - Data Infrastructure and Tools | Santa Clara, CA | Intern | Unknown | Unknown | 1778809917 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9) |
+| Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
+| Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | Intern | Fall 2026 | Unknown | 1776452842 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |
+| Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1776449704 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) |
+| SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Intern | Unknown | Unknown | 1775149255 | SoloPulse |  | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
+| Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1775012520 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1774033655 | Palantir |  | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY | Intern | 2026 | Unknown | 1773145615 | Palantir |  | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) |
+| Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1772667827 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) |
 | Palantir | Forward Deployed Software Engineer, Internship - Poland | New York, NY | Intern | Unknown | Unknown | 1771501153 | Palantir |  | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) |
+| Symmetry Systems | Full Stack Software Engineer - 2026 Summer Intern | Remote | Intern | Summer 2026 | Unknown | 1765909934 | Symmetry Systems | remote, summer | [Apply](https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1765491974 | Palantir |  | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
 | Palantir | Software Engineer, Internship - Infrastructure | Palo Alto, CA · New York, NY | Intern | Unknown | Unknown | 1755596923 | Palantir |  | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) |
 | Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. · Seattle, WA · New York, NY | Intern | Unknown | Unknown | 1755596487 | Palantir |  | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
@@ -66,8 +195,19 @@ Total jobs: **40**
 
 ## Data Analyst + TPM Roles
 
-_No matching jobs yet._
+| Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | FCC2 Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003) |
+| Fussball Club Cincinnati LLC (“FC Cincinnati”) | Academy Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) |
+| Integra FEC | (FALL) Data Analyst Intern | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134522008) |
 
 ## Chemistry, Process, QA/QC Roles
 
-_No matching jobs yet._
+| Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
+| Lila Sciences | Co-op, Materials Science, Electrosynthesis | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
+| LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990013626030) |
+| Gotion | Process Engineer Intern | Manteno, Illinois | Intern | 2026 | Unknown | 2026-06-11 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8506211002) |
+| Periodic Labs | Nanofabrication Intern - Summer 2026 |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-05-26 | Periodic Labs | visa, summer | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) |
+| LLNL | Materials Science Division Graduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-05-21 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990013250937) |

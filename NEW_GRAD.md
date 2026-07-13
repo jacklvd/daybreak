@@ -2,29 +2,60 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **44**
+Total jobs: **162**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 0 |
-| No sponsorship | 5 |
-| US citizen / clearance | 2 |
-| Unknown | 37 |
+| Sponsors / OPT-CPT likely | 1 |
+| No sponsorship | 14 |
+| US citizen / clearance | 33 |
+| Unknown | 114 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 44 |
-| Data Analyst + TPM Roles | 0 |
-| Chemistry, Process, QA/QC Roles | 0 |
+| CS Roles | 145 |
+| Data Analyst + TPM Roles | 5 |
+| Chemistry, Process, QA/QC Roles | 12 |
 
 ## US Citizen / Clearance Required
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
+| Northwood Space | Electronics Test Engineer (Early Career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) |
+| True Anomaly | Software Engineer I, QA | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-10 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007) |
+| Freedom Technology Solutions Group | Junior Software Engineer 628 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, spring, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5096266007) |
+| Freedom Technology Solutions Group | Junior Software Engineer 621 | St. Louis, MO | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | hybrid, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007) |
+| Freedom Technology Solutions Group | Junior Software Developer 682 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007) |
+| Freedom Technology Solutions Group | Junior Application Developer 675 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
+| Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-09 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
+| Rocket Lab USA | Systems Engineer I/II Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7646310003) |
+| Rocket Lab USA | RF Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
+| Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
+| Rocket Lab USA | Propulsion Systems Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7754178003) |
+| Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
+| Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
+| Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
+| Rocket Lab USA | Avionics Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7753763003) |
+| Accenture | Junior DevOps Engineer | Hanover, MD | New Grad | Unknown | US citizen / clearance | 2026-06-30 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4690994006?gh_jid=4690994006) |
+| Inversion Space | Autonomy Engineer I, Arc Vehicle | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-06-24 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705511005) |
+| Hadrian | Fullstack Software Engineer, New Grad |  | New Grad | Unknown | US citizen / clearance | 2026-06-18 | Hadrian | us-citizen | [Apply](https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3) |
+| Accenture | Junior Systems Engineer | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-06-12 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006) |
+| True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
+| Northwood Space | Software Engineer – General (new grad / early career) |  | New Grad | Unknown | US citizen / clearance | 2026-04-24 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
+| Northwood Space | Infrastructure Engineer - Early Career |  | New Grad | Unknown | US citizen / clearance | 2026-04-22 | Northwood Space | remote, us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) |
+| Wyetech | Software Engineer 1 | Laurel, Maryland · Annapolis Junction, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1782310732 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16) |
+| Wyetech | Software Engineer 1 (API) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1778001612 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8) |
+| Wyetech | Software Engineer 1 (Potential Telework) | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1776880198 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2) |
+| Wyetech | Software Tools Engineer 1 | Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1776699076 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e) |
+| Wyetech | Software Engineer 1 (DM) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1773859846 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7) |
+| PingWind | BI/Dashboard Software Engineer I | Alexandria, VA | New Grad | Unknown | US citizen / clearance | 1773855140 | PingWind | us-citizen | [Apply](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee) |
+| Wyetech | Test Engineer 1 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761236498 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/a00a1955-60ec-4db1-bede-97dddb6890b2) |
+| Wyetech | Software Engineer 0 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761235737 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034) |
 
 ## CS Roles
 
@@ -36,13 +67,38 @@ Total jobs: **44**
 | Roblox | Software Engineer, User Co-Experience | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-12 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
 | Roblox | Software Engineer, Storage | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-12 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
 | Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-12 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
+| Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
+| Northwood Space | Electronics Test Engineer (Early Career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) |
+| Magical | New Grad Software Engineer |  | New Grad | Unknown | Unknown | 2026-07-11 | Magical | hybrid | [Apply](https://jobs.ashbyhq.com/magical/46f06c31-9b98-4963-aabe-f70538908c62) |
+| True Anomaly | Software Engineer I, QA | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-10 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007) |
+| StubHub | Software Engineer I - Open Distribution (New Grad) | Los Angeles, California, United States | New Grad | Unknown | Unknown | 2026-07-10 | StubHub | remote, hybrid | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906365101) |
+| Sandisk | New College Grad, SSD Firmware Engineer | Milpitas, CA, us | New Grad | Unknown | Unknown | 2026-07-10 | Sandisk |  | [Apply](https://api.smartrecruiters.com/v1/companies/Sandisk/postings/744000137191590) |
+| Gen Digital | AI & Machine Learning Engineer I |  | New Grad | Unknown | Unknown | 2026-07-10 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf) |
+| Freedom Technology Solutions Group | Junior Systems Engineer 609 | Annapolis Junction, MD | New Grad | Unknown | Unknown | 2026-07-10 | Freedom Technology Solutions Group | summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5067514007) |
+| Freedom Technology Solutions Group | Junior Software Engineer 628 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, spring, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5096266007) |
+| Freedom Technology Solutions Group | Junior Software Engineer 621 | St. Louis, MO | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | hybrid, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007) |
+| Freedom Technology Solutions Group | Junior Software Engineer 602 | Annapolis Junction, MD | New Grad | Unknown | Unknown | 2026-07-10 | Freedom Technology Solutions Group | summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5049687007) |
+| Freedom Technology Solutions Group | Junior Software Developer 682 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007) |
+| Freedom Technology Solutions Group | Junior Application Developer 675 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007) |
+| mthree | Production Support/SRE Analyst - Houston, New York | Houston, TX; New York, NY; USA | New Grad | Unknown | No sponsorship | 2026-07-09 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006) |
+| mthree | Production Support/SRE Analyst | New York, NY · USA · Houston, TX · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-09 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Scale AI | National Security Hackathon 2026 - General Interest | San Francisco, CA; New York, NY; Washington, DC | Entry | 2026 | Unknown | 2026-07-09 | Scale AI |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) |
+| Pylon | Software Engineer, New Grad |  | New Grad | Summer 2027 | Unknown | 2026-07-09 | Pylon | summer | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) |
+| PlayStation | Systems Engineer I | United States, Bellevue, WA | New Grad | Unknown | Unknown | 2026-07-09 | PlayStation |  | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
+| PlayStation | Software Engineer I | United States, Los Angeles, CA | New Grad | Unknown | Unknown | 2026-07-09 | PlayStation | hybrid | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004) |
+| Iambic Therapeutics | Biological Structures Data Engineer I/II |  | New Grad | Unknown | Unknown | 2026-07-09 | Iambic Therapeutics | hybrid | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) |
+| RoadRunner Recycling | Software Engineer I (Full -Stack) | Remote - USA | New Grad | Unknown | No sponsorship | 2026-07-08 | RoadRunner Recycling | remote, visa | [Apply](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) |
 | IMC Trading | Graduate Quantitative Researcher (PhD) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) |
 | IMC Trading | Graduate Quantitative Researcher (BS/MS) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | New Grad | 2027 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) |
+| Four Hands | Software Engineer - New Grad | Austin, TX | New Grad | Unknown | Sponsors / OPT-CPT likely | 2026-07-08 | Four Hands | hybrid, visa | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
 | Faros AI | Software Engineer - New Grad |  | New Grad | Unknown | Unknown | 2026-07-08 | Faros AI |  | [Apply](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
+| StubHub | Software Engineer I - Core Platform - Streaming & Storage | New York, New York, United States | New Grad | Unknown | Unknown | 2026-07-07 | StubHub | remote, hybrid | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101) |
+| StubHub | Software Engineer I - Core Compute Platform | New York, New York, United States | New Grad | Unknown | Unknown | 2026-07-07 | StubHub | remote, hybrid | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101) |
+| SimpliSafe | Software Engineer I - Video Platform | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049510) |
+| SimpliSafe | Software Engineer I - Device Control | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
 | Anduril | Technical Program Manager - SkillBridge | Atlanta, Georgia, United States; Costa Mesa, California, United States; Quincy, Massachusetts, United States; Washington, District of Columbia, United States | New Grad | Unknown | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5142785007?gh_jid=5142785007) |
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | New Grad | 2027 | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | New Grad | 2027 | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
@@ -53,19 +109,95 @@ Total jobs: **44**
 | Anduril | 2026 Early Career Mechanical Engineer | Costa Mesa, California, United States | New Grad | 2026 | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) |
 | Anduril | 2026 Early Career Manufacturing Engineer | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States | New Grad | 2026 | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007) |
 | Anduril | 2026 Early Career Electrical Engineer | Costa Mesa, California, United States; Fort Collins, Colorado, United States | New Grad | 2026 | Unknown | 2026-07-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) |
+| Torc Robotics | Systems Engineer I - Test Automation | Remote, US | New Grad | Unknown | Unknown | 2026-07-06 | Torc Robotics | remote | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
+| Torc Robotics | Software Engineer I - Device Drivers | Ann Arbor, MI | New Grad | Unknown | Unknown | 2026-07-06 | Torc Robotics |  | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8492431002) |
 | Notion | Software Engineer, Early Career (AI) |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | Notion | Software Engineer, Early Career |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
+| AppLovin | Backend Engineer, New Grad | Palo Alto, CA | New Grad | Unknown | Unknown | 2026-07-06 | AppLovin |  | [Apply](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006) |
+| Clinical Architecture | Product Analyst (Entry Level) | Indianapolis, Indiana, United States | New Grad | Unknown | No sponsorship | 2026-07-02 | Clinical Architecture | visa, winter | [Apply](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5168369007) |
+| Bot Auto | Machine Learning/Deep Learning Engineer(PhD, New Grad) | Houston, TX or SF Bay Area preferred | New Grad | Unknown | Unknown | 2026-07-02 | Bot Auto |  | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5290395008) |
+| The Nuclear Company | AI Engineer 1 – Product Engineering | Washington, DC | New Grad | Unknown | Unknown | 2026-07-01 | The Nuclear Company |  | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285646008) |
+| Rocket Lab USA | Systems Engineer I/II Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7646310003) |
+| Rocket Lab USA | RF Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
+| Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
+| Rocket Lab USA | Propulsion Systems Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7754178003) |
+| Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
+| Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
+| Rocket Lab USA | Avionics Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7753763003) |
+| Relativity Space | Propulsion Test Engineer I | Stennis Space Center, Mississippi | New Grad | Unknown | Unknown | 2026-07-01 | Relativity Space |  | [Apply](https://boards.greenhouse.io/relativity/jobs/8519337002?gh_jid=8519337002) |
 | IMC Trading | Graduate Software Engineer | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-01 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
+| Babel Street | Data Warehouse Software Engineer I | Remote - United States; Reston, VA, United States; Somerville, Massachusetts, United States | New Grad | Unknown | Unknown | 2026-07-01 | Babel Street | remote, hybrid | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) |
+| Accenture | Junior DevOps Engineer | Hanover, MD | New Grad | Unknown | US citizen / clearance | 2026-06-30 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4690994006?gh_jid=4690994006) |
+| mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States · USA | New Grad | Unknown | No sponsorship | 2026-06-29 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006) |
+| mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-06-29 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) |
+| mthree | DevOps Engineer/ Production Support Analyst | USA | New Grad | Unknown | No sponsorship | 2026-06-29 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4605796006) |
+| The Nuclear Company | AI Engineer 1 - Platform Integration & AI/Data | Washington, DC | New Grad | Unknown | Unknown | 2026-06-29 | The Nuclear Company |  | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008) |
+| The Nuclear Company | AI Engineer 1 - Compliance, Quality & Testing | Washington, DC | New Grad | Unknown | Unknown | 2026-06-29 | The Nuclear Company |  | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5286179008) |
+| Alta Resource Technologies | Junior Data Engineer | Boulder, CO | New Grad | Unknown | Unknown | 2026-06-29 | Alta Resource Technologies |  | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009) |
+| SewerAI | Junior Analytics Engineer |  | New Grad | Unknown | Unknown | 2026-06-26 | SewerAI |  | [Apply](https://jobs.ashbyhq.com/sewer-ai/e08c2c76-acea-4742-bd6f-32482c819b8c) |
 | IMC Trading | Software Engineer, Early Career | Chicago, United States | New Grad | Unknown | Unknown | 2026-06-25 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
+| Further | Graduate Leadership Program \| Data Analyst | Cleveland, Ohio | New Grad | Spring 2026 | Unknown | 2026-06-25 | Further | hybrid, visa, fall, spring | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384017002) |
+| Further | Entry Level - Business Operations Analyst | Cleveland, Ohio | New Grad | Spring 2026 | Unknown | 2026-06-25 | Further | hybrid, visa, fall, spring | [Apply](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384027002) |
+| Inversion Space | Autonomy Engineer I, Arc Vehicle | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-06-24 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705511005) |
+| Flashpoint | Data Engineer I |  | New Grad | Unknown | Unknown | 2026-06-24 | Flashpoint | fall | [Apply](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705) |
 | Pure Storage | Software Engineer Grad | Santa Clara, California | New Grad | Unknown | Unknown | 2026-06-22 | Pure Storage |  | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7258968) |
+| Cylake | Software Engineer (2027 University Grad) |  | New Grad | 2027 | Unknown | 2026-06-22 | Cylake |  | [Apply](https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735) |
+| Hadrian | Fullstack Software Engineer, New Grad |  | New Grad | Unknown | US citizen / clearance | 2026-06-18 | Hadrian | us-citizen | [Apply](https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3) |
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning |  | New Grad | Unknown | Unknown | 2026-06-16 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) |
+| Sezzle | Junior Software Engineer with Accounting Experience (Chile) | Chile, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/6668067003) |
+| Sezzle | Junior Software Engineer with Accounting Experience | Türkiye, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/6668069003) |
+| Sezzle | AI Engineer I (Remote) | Türkiye, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7633952003) |
+| Lila Sciences | Senior Engineer I / Technical Program Manager, Hardware & Controls Engineering | Cambridge, MA USA; San Francisco, CA USA | New Grad | Unknown | Unknown | 2026-06-16 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4278296009) |
+| Aquatic Capital Management | Software Engineer, Early Career | Chicago; New York | New Grad | Unknown | Unknown | 2026-06-16 | Aquatic Capital Management |  | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) |
+| Accenture | Junior Systems Engineer | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-06-12 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006) |
+| Collective | Software Engineer (New Grad) |  | New Grad | Unknown | Unknown | 2026-06-10 | Collective | remote, hybrid | [Apply](https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf) |
 | Pinterest | Software Engineer I, Backend | Seattle, WA, US; San Francisco, CA, US | New Grad | Unknown | Unknown | 2026-06-09 | Pinterest Careers | hybrid | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=6816337) |
+| LetsGetChecked | Graduate Software Engineer | Remote - United States | New Grad | Unknown | Unknown | 2026-06-09 | LetsGetChecked | remote | [Apply](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101) |
+| Fuze Health | Graduate Software Engineer - Fuze Services | Remote - United States | New Grad | Unknown | Unknown | 2026-06-09 | Fuze Health | remote | [Apply](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101) |
+| Epic Kids | Junior Software Engineer, Full-Stack | Remote, US | New Grad | Unknown | Unknown | 2026-06-09 | Epic Kids | remote, spring | [Apply](https://job-boards.greenhouse.io/epickids/jobs/7751646003) |
 | Notion | People Analytics & Operations (Rotational Program) |  | New Grad | Unknown | Unknown | 2026-06-05 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/e4229ca4-8210-4282-98ed-2071478f72aa) |
+| Authorium | Software Engineer, New Grad |  | New Grad | 2026 | Unknown | 2026-06-04 | Authorium | hybrid | [Apply](https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222) |
+| TransMarket Group | Junior Software Engineer | Chicago, Illinois, United States | New Grad | Unknown | Unknown | 2026-06-02 | TransMarket Group | remote | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007?gh_jid=5151549007) |
+| LLNL | Machine Learning Physics Graduate Student | Livermore, CA, us | New Grad | Unknown | Unknown | 2026-06-02 | Lawrence Livermore National Laboratory (LLNL) |  | [Apply](https://api.smartrecruiters.com/v1/companies/LLNL/postings/3743990013424486) |
 | Figma | Data Scientist, Core Data - PhD (2026) | San Francisco, CA • New York, NY | New Grad | 2026 | Unknown | 2026-06-02 | Figma |  | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
+| Allen Control Systems | Computer Vision & Machine Learning, Junior |  | New Grad | Unknown | Unknown | 2026-06-02 | Allen Control Systems |  | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9) |
+| Teamworks | Data Engineer I |  | New Grad | Unknown | Unknown | 2026-06-01 | Teamworks | visa | [Apply](https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3) |
+| Julius AI | Software Engineer - Product (New Grad) |  | New Grad | Unknown | Unknown | 2026-05-21 | Julius AI |  | [Apply](https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6) |
+| Perpay | Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4034578007) |
+| Cerebras | Software Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras | hybrid | [Apply](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
+| Cerebras | DevOps Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras |  | [Apply](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
+| True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
 | Notion | Software Engineer, New Grad (AI) |  | New Grad | 2026 | Unknown | 2026-04-27 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) |
+| Mirage | Software Engineer, Early Career |  | New Grad | 2026 | Unknown | 2026-04-27 | Mirage |  | [Apply](https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7) |
+| Northwood Space | Software Engineer – General (new grad / early career) |  | New Grad | Unknown | US citizen / clearance | 2026-04-24 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
 | Notion | Software Engineer, New Grad |  | New Grad | 2026 | Unknown | 2026-04-23 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) |
+| Northwood Space | Infrastructure Engineer - Early Career |  | New Grad | Unknown | US citizen / clearance | 2026-04-22 | Northwood Space | remote, us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) |
+| Stand Together | KAP 2026-2027 - AI-Native Builder / Platform Associate - Mercatus Center | Arlington, VA | Entry | 2026 | Unknown | 1782769057 | Stand Together |  | [Apply](https://jobs.lever.co/standtogether/92015b6f-ac8b-4b60-8afc-b193c95813db) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL · New York, NY | New Grad | Unknown | Unknown | 1782744260 | Palantir |  | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
+| Aledade | Software Engineer I | Remote, United States | New Grad | Unknown | Unknown | 1782323180 | Aledade | remote | [Apply](https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f) |
+| Wyetech | Software Engineer 1 | Laurel, Maryland · Annapolis Junction, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1782310732 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16) |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | New Grad | Unknown | No sponsorship | 1781715537 | Datalab USA | visa | [Apply](https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | New Grad | Unknown | Unknown | 1781539682 | Palantir |  | [Apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
+| Datalab USA | Programmer Analyst - Marketing Analytics | Westminster, CO · Germantown, MD | New Grad | Unknown | No sponsorship | 1780340612 | Datalab USA | visa | [Apply](https://jobs.lever.co/datalabusa/dbd5e732-9d64-42a0-9689-0bc95ac70ee8) |
+| Wyetech | Software Engineer 1 (API) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1778001612 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8) |
+| Stand Together | KAP 2026-2027 - Research Associate for Budget and Entitlement Policy - Cato Institute | Washington, DC | Entry | 2026 | Unknown | 1777472717 | Stand Together | remote, hybrid | [Apply](https://jobs.lever.co/standtogether/3c3668aa-8698-416c-ab60-35dcb84feece) |
+| Wyetech | Software Engineer 1 (Potential Telework) | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1776880198 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2) |
+| Wyetech | Software Tools Engineer 1 | Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1776699076 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e) |
+| Whoop | Software Engineer I (Quality) | Boston, MA | New Grad | Unknown | Unknown | 1776201725 | Whoop |  | [Apply](https://jobs.lever.co/whoop/b7f75849-b5c0-49fe-8d24-50cbb39d284d) |
+| CGS Federal (Contact Government Services) | Physical Security Specialist (PhySS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775506500 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/9eb82118-50c3-4cb9-818b-f15ed1477d6e) |
+| CGS Federal (Contact Government Services) | Program Security Officer (PSO) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775506246 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/372ddd0a-8870-4b88-bfba-5dd62a949308) |
+| CGS Federal (Contact Government Services) | Personnel Security Specialist (PerSS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775505986 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/bc55ce90-bad3-4a26-8b51-6ec64297cfae) |
+| Latitude | Entry Level Software Consultant (Data/Databases) | Baltimore, MD | New Grad | Unknown | Unknown | 1774554775 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/097d57a4-c69f-4a0b-9350-61bf9fea0434) |
+| Wyetech | Software Engineer 1 (DM) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1773859846 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7) |
+| PingWind | BI/Dashboard Software Engineer I | Alexandria, VA | New Grad | Unknown | US citizen / clearance | 1773855140 | PingWind | us-citizen | [Apply](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee) |
+| CGS Federal (Contact Government Services) | Workforce Developer (WD) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1773693511 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/39f4b9c0-fe8a-41cd-9646-692691ab7a42) |
+| Whoop | Software Engineer I (Frontend, Growth) | Boston, MA | New Grad | Unknown | Unknown | 1773692567 | Whoop |  | [Apply](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8) |
+| Latitude | Entry Level Low Code Developer/ Business Consultant (4 Day Work Week) | Baltimore, MD | New Grad | Unknown | Unknown | 1773348900 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/f5ab673a-c116-48c1-a9f6-9af70ae568b1) |
+| Whoop | Software Engineer I (Backend) | Boston, MA | New Grad | Fall 2026 | Unknown | 1771517825 | Whoop | fall | [Apply](https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8) |
+| Latitude | Entry Level Software Developer (Data & Database Focus) | Baltimore, MD | New Grad | Unknown | Unknown | 1771516010 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8) |
+| Ekimetrics | Junior Business Scientist, Data Science and Marketing Effectiveness | New York | New Grad | Unknown | Unknown | 1763654815 | Ekimetrics |  | [Apply](https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065) |
+| Wyetech | Test Engineer 1 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761236498 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/a00a1955-60ec-4db1-bede-97dddb6890b2) |
+| Wyetech | Software Engineer 0 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761235737 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034) |
 | Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1755596738 | Palantir |  | [Apply](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. · Seattle, WA · New York, NY | New Grad | Unknown | Unknown | 1755596238 | Palantir |  | [Apply](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) |
 | Palantir | Software Engineer, New Grad - Defense | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1750297066 | Palantir |  | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) |
@@ -77,8 +209,27 @@ Total jobs: **44**
 
 ## Data Analyst + TPM Roles
 
-_No matching jobs yet._
+| Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Appian | Associate Sales Operations Analyst (2026 Graduates) | McLean, Virginia | Entry | 2026 | Unknown | 2026-07-10 | Appian |  | [Apply](https://job-boards.greenhouse.io/appian/jobs/7939702) |
+| Hire Hangar | Junior Data Analyst |  | New Grad | Unknown | Unknown | 2026-07-09 | Hire Hangar | remote | [Apply](https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf) |
+| Perpay | Junior Strategic Analyst | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4158121007) |
+| CGS Federal (Contact Government Services) | HR Data Analytics & Reporting Specialist (HRDARS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775490854 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed) |
+| CGS Federal (Contact Government Services) | Analytics/Dashboarding Analyst (ADA) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775228156 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/3c087454-4d74-4a3a-afe6-e2b18ca0fbfb) |
 
 ## Chemistry, Process, QA/QC Roles
 
-_No matching jobs yet._
+| Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Eurofins | Wet Chemistry Lab Analyst - Entry-Level (Wed-Sat) | Rensselaer, NY, us | New Grad | Unknown | Unknown | 2026-07-10 | Eurofins |  | [Apply](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000137184096) |
+| Eurofins | Entry-Level Sample Management Lab Technician (2nd Shift, Wed-Sat) | Rensselaer, NY, us | New Grad | Unknown | Unknown | 2026-07-10 | Eurofins |  | [Apply](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000137211229) |
+| Eurofins | Entry Level Microbiologist- 2nd Shift | Lancaster, PA, us | New Grad | Unknown | Unknown | 2026-07-10 | Eurofins |  | [Apply](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000137207358) |
+| Eurofins | Entry Level Chemist- 2nd Shift | Lancaster, PA, us | New Grad | Unknown | Unknown | 2026-07-10 | Eurofins |  | [Apply](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000137212229) |
+| Eurofins | Entry Level Chemist | Lancaster, PA, us | New Grad | Unknown | Unknown | 2026-07-10 | Eurofins |  | [Apply](https://api.smartrecruiters.com/v1/companies/Eurofins/postings/744000137212260) |
+| Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-09 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
+| STEM Healthcare | Junior Business Analyst | York, Pennsylvania | New Grad | Unknown | Unknown | 2026-07-07 | STEM Healthcare | remote, hybrid | [Apply](https://job-boards.greenhouse.io/stemhealthcare/jobs/7921675) |
+| Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
+| Lila Sciences | Contractor, Support Engineer I, Automation (2nd shift) | Cambridge, MA USA | New Grad | Unknown | Unknown | 2026-06-30 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4249657009) |
+| Gotion | Junior Process Engineer | Manteno, Illinois | New Grad | Unknown | Unknown | 2026-06-11 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8483936002) |
+| Lila Sciences | Associate / Engineer I, ResOps, Synthesis | Cambridge, MA USA | New Grad | Unknown | Unknown | 2026-05-19 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4246303009) |
+| Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | New Grad | Unknown | Unknown | 1782314243 | Hermeus |  | [Apply](https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43) |
