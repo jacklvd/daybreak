@@ -20,8 +20,11 @@ export function FilterControl({
   const options = Object.entries(countBy(jobs, field))
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 
+  // max-w caps the box: an inline-flex label sizes to its select's max-content,
+  // which is the longest <option> — long company names would otherwise blow the
+  // box up and wrap the row. The select (min-w-0 flex-1) truncates inside it.
   return (
-    <label className="db-box relative inline-flex h-12 min-w-[164px] items-center text-ink transition-transform duration-100 focus-within:-translate-y-[2px] focus-within:shadow-brutal">
+    <label className="db-box relative inline-flex h-12 min-w-[164px] max-w-[232px] items-center text-ink transition-transform duration-100 focus-within:-translate-y-[2px] focus-within:shadow-brutal">
       <span className="ml-3 shrink-0 text-coral">{icon}</span>
       <select
         aria-label={label}

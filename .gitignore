@@ -40,3 +40,7 @@ skills-lock.json
 ._*
 .Spotlight-V100
 .Trashes
+# local env (API base URL is baked in at build time)
+.env
+.env.*
+!.env.example
