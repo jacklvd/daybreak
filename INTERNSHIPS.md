@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **207**
+Total jobs: **205**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **207**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 4 |
 | US citizen / clearance | 5 |
-| Unknown | 194 |
+| Unknown | 192 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 186 |
+| CS Roles | 184 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -69,7 +69,6 @@ Total jobs: **207**
 | Meshy | Infrastructure Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
 | Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
-| Bosch Group | Mandatory Internship Development and Validation of Software Solutions for Automotive SDV | Stuttgart, BW, de | Intern | Unknown | Unknown | 2026-07-10 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137099840) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-10 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-07-09 | Vital Lyfe | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) |
 | Uber Freight | Data Scientist Intern - Fall 2026 | Chicago, IL 60607, United States | Intern | Spring 2026 | Unknown | 2026-07-09 | Uber Freight | hybrid, visa, fall, spring | [Apply](https://job-boards.greenhouse.io/uberfreight/jobs/5194491008) |
@@ -153,7 +152,6 @@ Total jobs: **207**
 | Stevens Capital Management | Developer Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management |  | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
 | Skydio | Middleware Software Engineer Intern - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-05-21 | Skydio | fall | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) |
 | Great Question | AI Engineer Intern |  | Intern | Summer 2026 | Unknown | 2026-05-21 | Great Question | remote, summer | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) |
-| Gen Digital | Application Security Fuzzing Intern |  | Intern | Unknown | Unknown | 2026-05-21 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/5230f044-bf53-4ac1-abe8-89df61cfb4c1) |
 | Etched | Supercomputing Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
 | Etched | Chip Simulation Software Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | Saronic | Software Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-18 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
