@@ -2,20 +2,20 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **204**
+Total jobs: **206**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 4 |
+| Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
 | US citizen / clearance | 5 |
-| Unknown | 191 |
+| Unknown | 187 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 182 |
+| CS Roles | 184 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 12 |
 
@@ -39,7 +39,6 @@ Total jobs: **204**
 | The Campbell's Company | Data Engineer, DA&AI Co-Op | USA - NJ - Camden | Intern | Unknown | Unknown | Posted 30+ | The Campbell's Company |  | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Intern | Unknown | Unknown | Posted 30+ | The Campbell's Company |  | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843) |
 | The Campbell's Company | Data Engineer - Operational Support (Co-op) | USA - NJ - Camden | Intern | Unknown | Unknown | Posted 30+ | The Campbell's Company |  | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842) |
-| Nightwing Intelligence Solutions | Software / Hardware Engineering - Intern | Annapolis Junction, MD | Intern | Unknown | Unknown | Posted 30+ | Nightwing Intelligence Solutions |  | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | Nidec | Software Engineer Co-Op | North America/USA/Missouri/St. Louis - WPE, MO | Intern | Unknown | Unknown | Posted 30+ | Nidec |  | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
 | Monolithic Power Systems | AI Developer Intern | San Jose - California | Intern | Unknown | Unknown | Posted 30+ | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674) |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 30+ | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
@@ -63,6 +62,12 @@ Total jobs: **204**
 | Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
+| Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
+| Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
+| Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
+| Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital | hybrid, summer | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | Lucid Motors | Marketing Data & Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136417007) |
 | Lucid Motors | Finance Business Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) |
 | Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-10 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
@@ -148,7 +153,6 @@ Total jobs: **204**
 | Base Power | Firmware Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management | summer | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
 | Stevens Capital Management | Developer Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management |  | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
-| Skydio | Middleware Software Engineer Intern - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-05-21 | Skydio | fall | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) |
 | Great Question | AI Engineer Intern |  | Intern | Summer 2026 | Unknown | 2026-05-21 | Great Question | remote, summer | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) |
 | Etched | Supercomputing Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
 | Etched | Chip Simulation Software Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
@@ -163,7 +167,6 @@ Total jobs: **204**
 | Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
 | Atomic Semi | Infrastructure Software Engineering Intern - Fall |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-04-22 | Atomic Semi | visa, fall | [Apply](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) |
 | Blockhouse | Rust Developer Intern (Summer 2026) |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-04-21 | Blockhouse | remote, summer | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
-| Kognitos | Software Engineer Intern (AI-Native) — Summer 2026 |  | Intern | Summer 2026 | Unknown | 2026-04-16 | Kognitos | summer | [Apply](https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5) |
 | Gen Digital | Mobile Engineer, Intern - MoneyLion |  | Intern | Unknown | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/f3817f1c-6832-4624-8fc1-fbf96e64721c) |
 | Gen Digital | Data Scientist, Intern - MoneyLion |  | Intern | 2026 | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/020a42a9-7c79-4e6c-958f-726069ff86f0) |
 | Gen Digital | Data Engineer, Intern - MoneyLion |  | Intern | Unknown | Unknown | 2026-04-15 | Gen Digital |  | [Apply](https://jobs.ashbyhq.com/gen-digital/ec9dc7d0-9ed2-4421-ad61-158462f59e27) |
@@ -212,7 +215,6 @@ Total jobs: **204**
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Optiver | Software Engineer Intern (Summer 2027 - Chicago) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | Optiver | Software Engineer Intern (Summer 2027 - Austin) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
-| Optiver | Quantitative Research Intern, PhD (Summer 2027) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 
