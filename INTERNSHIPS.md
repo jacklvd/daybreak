@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **205**
+Total jobs: **204**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **205**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 4 |
 | US citizen / clearance | 5 |
-| Unknown | 192 |
+| Unknown | 191 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 184 |
+| CS Roles | 182 |
 | Data Analyst + TPM Roles | 10 |
-| Chemistry, Process, QA/QC Roles | 11 |
+| Chemistry, Process, QA/QC Roles | 12 |
 
 ## US Citizen / Clearance Required
 
@@ -60,6 +60,8 @@ Total jobs: **205**
 | Tencent | Cloud Media Services Intern | US-California-Palo Alto | Intern | Unknown | Unknown | Posted 10 | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R106872) |
 | DRW | Quantitative Research Intern | Chicago, New York City | Intern | Summer 2027 | Unknown | 2026-07-13 | DRW | summer | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | Bosch Group | [EPM] DevOps Intern | Tân Bình, Thành phố Hồ Chí Minh, vn | Intern | Unknown | Unknown | 2026-07-13 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000137377966) |
+| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
+| Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-13 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Lucid Motors | Marketing Data & Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136417007) |
 | Lucid Motors | Finance Business Analytics Intern | Amsterdam, NH | Intern | Unknown | Unknown | 2026-07-11 | Lucid Motors |  | [Apply](https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007) |
@@ -80,10 +82,8 @@ Total jobs: **205**
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Chicago | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
 | Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-08 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
-| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-08 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-07 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-07 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | WindBorne Systems | Firmware Intern |  | Intern | Unknown | Unknown | 2026-07-06 | WindBorne Systems | summer | [Apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-07-06 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York, NY | Intern | Summer 2026 | Unknown | 2026-07-03 | Eulerity | hybrid, summer | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) |
@@ -97,7 +97,6 @@ Total jobs: **205**
 | Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Intern | Fall 2026 | US citizen / clearance | 2026-07-01 | Rocket Lab USA | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-01 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Intern | Unknown | Unknown | 2026-07-01 | Databricks |  | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
-| Podium | Software Engineering Intern | Lehi, Utah | Intern | Unknown | Unknown | 2026-06-30 | Podium | summer | [Apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
 | Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-06-30 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Truveta | Software Engineering Intern | Seattle, WA | Intern | Unknown | No sponsorship | 2026-06-29 | Truveta | hybrid | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
 | Lila Sciences | Co-Op, LS AI, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-29 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
@@ -138,7 +137,6 @@ Total jobs: **205**
 | Snowflake | Software Engineer Intern - Berlin (2026) |  | Intern | 2026 | Unknown | 2026-06-02 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27) |
 | Snowflake | Software Engineer Intern (AI/ML) - 2026 |  | Intern | 2026 | Unknown | 2026-06-02 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034) |
 | NOX METALS | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-06-02 | NOX METALS | remote, summer | [Apply](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f) |
-| Heron Power | Intern, System Integration & Test Software |  | Intern | Unknown | Unknown | 2026-06-02 | Heron Power |  | [Apply](https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784) |
 | Walleye Capital | Volatility Trading Developer Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) |
 | Walleye Capital | Risk Technology Analyst Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
 | Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
@@ -237,6 +235,7 @@ Total jobs: **205**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted Tod | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | National Laboratory of the Rockies | Post-Undergraduate Intern (Year-Round) Chemist / Biochemist | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Intern--Year-Round--Chemist---Biochemist_R14270) |
 | Generac | Lab Technician Intern | Santa Monica, CA - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) |
