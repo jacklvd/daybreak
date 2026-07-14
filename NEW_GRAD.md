@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **317**
+Total jobs: **316**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **317**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 14 |
 | US citizen / clearance | 36 |
-| Unknown | 263 |
+| Unknown | 262 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 264 |
+| CS Roles | 263 |
 | Data Analyst + TPM Roles | 17 |
 | Chemistry, Process, QA/QC Roles | 36 |
 
@@ -74,13 +74,12 @@ Total jobs: **317**
 | The Boeing Company | Entry-Level Software Engineer–Developer | USA - Richardson, TX | New Grad | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2) |
 | State of North Carolina | Mainframe Systems Programmer - EHRA | Wake County, NC | Entry | 2026 | Unknown | Posted Tod | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Mainframe-Systems-Programmer---EHRA_JR-119848) |
 | RTX | 2026 Raytheon Full Time - Software Engineer I - McKinney, TX (Onsite) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG | New Grad | 2026 | Unknown | Posted Tod | RTX |  | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473) |
-| NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted Tod | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) |
-| Cox | Software Engineer II | Atlanta GA | Entry | Unknown | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202678357) |
 | Cox | Mobile Trailer Mechanic II - DOT | Jenison MI | Entry | Unknown | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Jenison-MI/Mobile-Trailer-Mechanic-II---DOT_R202679917) |
 | Cox | Mobile Trailer Mechanic II $3000 New Hire Bonus | Springfield MA | Entry | Spring | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Springfield-MA/Mobile-Trailer-Mechanic-II--3000-New-Hire-Bonus_R202678570) |
 | Cox | Mobile Diesel Mechanic II, $2500 New Hire Bonus | Vancouver WA · Redwood City CA | Entry | Unknown | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Vancouver-WA/Mobile-Diesel-Mechanic-II---2500-New-Hire-Bonus_R202679909) |
 | Cox | Mobile Diesel Mechanic II 2nd shift | Lexington KY | Entry | Unknown | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Lexington-KY/Mobile-Diesel-Mechanic-II-2nd-shift_R202679942) |
 | Citi | Junior Market Operations Analyst Program Fall Cohort | Getzville New York United States | New Grad | Unknown | Unknown | Posted Tod | Citi | fall | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Junior-Market-Operations-Analyst-Program-Fall-Cohort_26978963) |
+| NVIDIA | Backend Compiler Engineer - New College Grad 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted Tod | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) |
 | Torch Technologies | Junior Level Software Engineer/Software Test Engineer | Huntsville, AL | New Grad | Unknown | Unknown | Posted 6 D | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Level-Software-Engineer-Software-Test-Engineer_R1358) |
 | Sierra Nevada Corporation | Test Engineer I | Lone Tree, CO | New Grad | Unknown | Unknown | Posted 6 D | Sierra Nevada Corporation |  | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I_R0030052-1) |
 | Danaher Corporation | Software Engineer I | USA - Indianapolis - Lakeview Parkway - Multiple OpCo | New Grad | Unknown | Unknown | Posted 6 D | Danaher Corporation |  | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) |
@@ -136,12 +135,12 @@ Total jobs: **317**
 | The Boeing Company | Experienced Software/Hardware Estimator | USA - Everett, WA | Entry | Unknown | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Experienced-Software-Hardware-Estimator_JR2026518500) |
 | The Boeing Company | Cybersecurity – Information System Security Officer (ISSO) | USA - Oklahoma City, OK | Entry | Unknown | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Cybersecurity---Information-System-Security-Officer--ISSO-_JR2026518607-2) |
 | The Boeing Company | Consultant Software Engineer - Lab Provisioning & Integration | USA - Berkeley, MO | Entry | Unknown | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Consultant-Software-Engineer---Lab-Provisioning---Integration_JR2026515392-1) |
-| NVIDIA | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted 3 D | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) |
 | HNTB | Software Engineer I | Tallahassee, FL | New Grad | Unknown | Unknown | Posted 3 D | HNTB |  | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741) |
 | Cox | Mobile Trailer Mechanic II Fri - Mon 10 pm - 8 am | Wilmington DE | Entry | Unknown | Unknown | Posted 3 D | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wilmington-DE/Mobile-Trailer-Mechanic-II-Fri---Mon-10-pm---8-am_R202679872) |
 | Cox | Mobile Reefer Trailer Mechanic, Tuesday thru Saturday | Laveen AZ | Entry | Unknown | Unknown | Posted 3 D | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Laveen-AZ/Mobile-Reefer-Trailer-Mechanic_R202679886) |
 | Cox | Mobile Medium Mechanic II | Charlotte NC | Entry | Unknown | Unknown | Posted 3 D | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Charlotte-NC/Mobile-Medium-Mechanic-II_R202676230) |
 | Cox | Mobile Diesel Mechanic II $3500 New Hire Bonus | Wilmington DE | Entry | Unknown | Unknown | Posted 3 D | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Wilmington-DE/Mobile-Diesel-Mechanic-I-3500-New-Hire-Bonus_R202674372) |
+| NVIDIA | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted 3 D | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) |
 | Dexcom | Test Engineer 1 | San Diego, California | New Grad | Unknown | Unknown | Posted 28 | Dexcom |  | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Test-Engineer-1_JR118617) |
 | Travelers | Software Engineer I - Loss Sensitive (Java, Spring Boot, TypeScript, Node.js, AI) | MN - St. Paul | New Grad | Unknown | Unknown | Posted 26 | Travelers | spring | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Loss-Sensitive--Java--Spring-Boot--TypeScript--Nodejs--AI-_R-50957) |
 | Nightwing Intelligence Solutions | Software Engineer 1 | Annapolis Junction, MD | New Grad | Unknown | Unknown | Posted 26 | Nightwing Intelligence Solutions |  | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150) |
@@ -163,6 +162,7 @@ Total jobs: **317**
 | Nightwing Intelligence Solutions | Junior Software Developer | Annapolis Junction, MD | New Grad | Unknown | Unknown | Posted 12 | Nightwing Intelligence Solutions |  | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Junior-Software-Developer_JR101838) |
 | Adtran | Software Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted 12 | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005699) |
 | Adtran | C++/Linux Software Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted 11 | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1) |
+| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL, United States | New Grad | 2027 | Unknown | 2026-07-14 | Old Mission |  | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) |
 | mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States · USA | New Grad | Unknown | No sponsorship | 2026-07-13 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-13 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) |
 | Torc Robotics | Software Engineer I - Device Drivers | Ann Arbor, MI | New Grad | Unknown | Unknown | 2026-07-13 | Torc Robotics |  | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8534177002) |
@@ -179,12 +179,6 @@ Total jobs: **317**
 | Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
 | Rocket Lab USA | Avionics Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7753763003) |
 | Rocket Lab USA | Avionics Automation Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7699326003) |
-| Roblox | [2026] Data Scientist, Social | San Mateo, CA, United States | Entry | Fall 2026 | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
-| Roblox | Software Engineer, User Sharing | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) |
-| Roblox | Software Engineer, User Co-Experience | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
-| Roblox | Software Engineer, Storage | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
-| Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
-| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL, United States | New Grad | 2027 | Unknown | 2026-07-13 | Old Mission |  | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) |
 | Northwood Space | Software Engineer – General (new grad / early career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
 | Inversion Space | RF Test Engineer I | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4714666005) |
 | DRW | Quantitative Researcher | Chicago, New York City | New Grad | 2026 | Unknown | 2026-07-13 | DRW |  | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8030406) |
@@ -203,6 +197,11 @@ Total jobs: **317**
 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | New Grad | 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
 | Akuna Capital | Software Engineer (Entry-Level) - C++ | Chicago, IL | New Grad | 2027 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
 | Akuna Capital | Junior Quantitative Developer & Strategist | Chicago, IL | New Grad | 2026 | Sponsors / OPT-CPT likely | 2026-07-13 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
+| Roblox | [2026] Data Scientist, Social | San Mateo, CA, United States | Entry | Fall 2026 | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
+| Roblox | Software Engineer, User Sharing | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) |
+| Roblox | Software Engineer, User Co-Experience | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
+| Roblox | Software Engineer, Storage | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
+| Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | Northwood Space | Electronics Test Engineer (Early Career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) |
 | Magical | New Grad Software Engineer |  | New Grad | Unknown | Unknown | 2026-07-11 | Magical | hybrid | [Apply](https://jobs.ashbyhq.com/magical/46f06c31-9b98-4963-aabe-f70538908c62) |
 | True Anomaly | Software Engineer I, QA | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-10 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007) |
@@ -217,31 +216,31 @@ Total jobs: **317**
 | Freedom Technology Solutions Group | Junior Application Developer 675 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007) |
 | mthree | Production Support/SRE Analyst - Houston, New York | Houston, TX; New York, NY; USA | New Grad | Unknown | No sponsorship | 2026-07-09 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006) |
 | mthree | Production Support/SRE Analyst | New York, NY · Salt Lake City, Utah, United States · USA · Houston, TX | New Grad | Unknown | No sponsorship | 2026-07-09 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
-| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
-| Scale AI | National Security Hackathon 2026 - General Interest | San Francisco, CA; New York, NY; Washington, DC | Entry | 2026 | Unknown | 2026-07-09 | Scale AI |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) |
 | Pylon | Software Engineer, New Grad |  | New Grad | Summer 2027 | Unknown | 2026-07-09 | Pylon | summer | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) |
 | PlayStation | Systems Engineer I | United States, Bellevue, WA | New Grad | Unknown | Unknown | 2026-07-09 | PlayStation |  | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6000422004) |
 | PlayStation | Software Engineer I | United States, Los Angeles, CA | New Grad | Unknown | Unknown | 2026-07-09 | PlayStation | hybrid | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004) |
 | Iambic Therapeutics | Biological Structures Data Engineer I/II |  | New Grad | Unknown | Unknown | 2026-07-09 | Iambic Therapeutics | hybrid | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-09 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
+| Scale AI | National Security Hackathon 2026 - General Interest | San Francisco, CA; New York, NY; Washington, DC | Entry | 2026 | Unknown | 2026-07-09 | Scale AI |  | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) |
 | RoadRunner Recycling | Software Engineer I (Full -Stack) | Remote - USA | New Grad | Unknown | No sponsorship | 2026-07-08 | RoadRunner Recycling | remote, visa | [Apply](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) |
+| Four Hands | Software Engineer - New Grad | Austin, TX | New Grad | Unknown | Sponsors / OPT-CPT likely | 2026-07-08 | Four Hands | hybrid, visa | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
+| Faros AI | Software Engineer - New Grad |  | New Grad | Unknown | Unknown | 2026-07-08 | Faros AI |  | [Apply](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
 | IMC Trading | Graduate Quantitative Researcher (PhD) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) |
 | IMC Trading | Graduate Quantitative Researcher (BS/MS) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | New Grad | 2027 | Unknown | 2026-07-08 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) |
-| Four Hands | Software Engineer - New Grad | Austin, TX | New Grad | Unknown | Sponsors / OPT-CPT likely | 2026-07-08 | Four Hands | hybrid, visa | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
-| Faros AI | Software Engineer - New Grad |  | New Grad | Unknown | Unknown | 2026-07-08 | Faros AI |  | [Apply](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
 | StubHub | Software Engineer I - Core Platform - Streaming & Storage | New York, New York, United States | New Grad | Unknown | Unknown | 2026-07-07 | StubHub | remote, hybrid | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101) |
 | SimpliSafe | Software Engineer I - Video Platform | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049510) |
 | SimpliSafe | Software Engineer I - Device Control | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
 | Torc Robotics | Systems Engineer I - Test Automation | Remote, US | New Grad | Unknown | Unknown | 2026-07-06 | Torc Robotics | remote | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8554813002) |
+| AppLovin | Backend Engineer, New Grad | Palo Alto, CA | New Grad | Unknown | Unknown | 2026-07-06 | AppLovin |  | [Apply](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006) |
 | Notion | Software Engineer, Early Career (AI) |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | Notion | Software Engineer, Early Career |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
-| AppLovin | Backend Engineer, New Grad | Palo Alto, CA | New Grad | Unknown | Unknown | 2026-07-06 | AppLovin |  | [Apply](https://boards.greenhouse.io/applovin/jobs/4451556006?gh_jid=4451556006) |
 | Clinical Architecture | Product Analyst (Entry Level) | Indianapolis, Indiana, United States | New Grad | Unknown | No sponsorship | 2026-07-02 | Clinical Architecture | visa, winter | [Apply](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5168369007) |
 | Bot Auto | Machine Learning/Deep Learning Engineer(PhD, New Grad) | Houston, TX or SF Bay Area preferred | New Grad | Unknown | Unknown | 2026-07-02 | Bot Auto |  | [Apply](https://job-boards.greenhouse.io/botauto/jobs/5290395008) |
 | Relativity Space | Propulsion Test Engineer I | Stennis Space Center, Mississippi | New Grad | Unknown | Unknown | 2026-07-01 | Relativity Space |  | [Apply](https://boards.greenhouse.io/relativity/jobs/8519337002?gh_jid=8519337002) |
-| IMC Trading | Graduate Software Engineer | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-01 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
 | Babel Street | Data Warehouse Software Engineer I | Remote - United States; Reston, VA, United States; Somerville, Massachusetts, United States | New Grad | Unknown | Unknown | 2026-07-01 | Babel Street | remote, hybrid | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) |
+| IMC Trading | Graduate Software Engineer | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-01 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
 | Accenture | Junior DevOps Engineer | Hanover, MD | New Grad | Unknown | US citizen / clearance | 2026-06-30 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4690994006?gh_jid=4690994006) |
 | mthree | DevOps Engineer/ Production Support Analyst | USA | New Grad | Unknown | No sponsorship | 2026-06-29 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4605796006) |
 | Alta Resource Technologies | Junior Data Engineer | Boulder, CO | New Grad | Unknown | Unknown | 2026-06-29 | Alta Resource Technologies |  | [Apply](https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009) |
@@ -254,32 +253,32 @@ Total jobs: **317**
 | Pure Storage | Software Engineer Grad | Santa Clara, California | New Grad | Unknown | Unknown | 2026-06-22 | Pure Storage |  | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/7258968) |
 | Cylake | Software Engineer (2027 University Grad) |  | New Grad | 2027 | Unknown | 2026-06-22 | Cylake |  | [Apply](https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735) |
 | Hadrian | Fullstack Software Engineer, New Grad |  | New Grad | Unknown | US citizen / clearance | 2026-06-18 | Hadrian | us-citizen | [Apply](https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3) |
-| Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning |  | New Grad | Unknown | Unknown | 2026-06-16 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) |
 | Sezzle | Junior Software Engineer with Accounting Experience (Chile) | Chile, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/6668067003) |
 | Sezzle | Junior Software Engineer with Accounting Experience | Türkiye, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/6668069003) |
 | Sezzle | AI Engineer I (Remote) | Türkiye, Remote | New Grad | Unknown | Unknown | 2026-06-16 | Sezzle | remote | [Apply](https://job-boards.greenhouse.io/sezzle/jobs/7633952003) |
 | Lila Sciences | Senior Engineer I / Technical Program Manager, Hardware & Controls Engineering | Cambridge, MA USA; San Francisco, CA USA | New Grad | Unknown | Unknown | 2026-06-16 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4278296009) |
 | Aquatic Capital Management | Software Engineer, Early Career | Chicago; New York | New Grad | Unknown | Unknown | 2026-06-16 | Aquatic Capital Management |  | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002) |
+| Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning |  | New Grad | Unknown | Unknown | 2026-06-16 | Snowflake |  | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) |
 | Accenture | Junior Systems Engineer | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-06-12 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006) |
 | Collective | Software Engineer (New Grad) |  | New Grad | Unknown | Unknown | 2026-06-10 | Collective | remote, hybrid | [Apply](https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf) |
-| Pinterest | Software Engineer I, Backend | Seattle, WA, US; San Francisco, CA, US | New Grad | Unknown | Unknown | 2026-06-09 | Pinterest Careers | hybrid | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=6816337) |
 | LetsGetChecked | Graduate Software Engineer | Remote - United States | New Grad | Unknown | Unknown | 2026-06-09 | LetsGetChecked | remote | [Apply](https://job-boards.eu.greenhouse.io/letsgetchecked/jobs/4833407101) |
 | Fuze Health | Graduate Software Engineer - Fuze Services | Remote - United States | New Grad | Unknown | Unknown | 2026-06-09 | Fuze Health | remote | [Apply](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101) |
 | Epic Kids | Junior Software Engineer, Full-Stack | Remote, US | New Grad | Unknown | Unknown | 2026-06-09 | Epic Kids | remote, spring | [Apply](https://job-boards.greenhouse.io/epickids/jobs/7751646003) |
+| Pinterest | Software Engineer I, Backend | Seattle, WA, US; San Francisco, CA, US | New Grad | Unknown | Unknown | 2026-06-09 | Pinterest Careers | hybrid | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=6816337) |
 | Notion | People Analytics & Operations (Rotational Program) |  | New Grad | Unknown | Unknown | 2026-06-05 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/e4229ca4-8210-4282-98ed-2071478f72aa) |
 | Authorium | Software Engineer, New Grad |  | New Grad | 2026 | Unknown | 2026-06-04 | Authorium | hybrid | [Apply](https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222) |
 | TransMarket Group | Junior Software Engineer | Chicago, Illinois, United States | New Grad | Unknown | Unknown | 2026-06-02 | TransMarket Group | remote | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007?gh_jid=5151549007) |
 | LLNL | Machine Learning Physics Graduate Student | Livermore, CA, us | New Grad | Unknown | Unknown | 2026-06-02 | Lawrence Livermore National Laboratory (LLNL) |  | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013424486) |
-| Figma | Data Scientist, Core Data - PhD (2026) | San Francisco, CA • New York, NY | New Grad | 2026 | Unknown | 2026-06-02 | Figma |  | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
 | Allen Control Systems | Computer Vision & Machine Learning, Junior |  | New Grad | Unknown | Unknown | 2026-06-02 | Allen Control Systems |  | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9) |
+| Figma | Data Scientist, Core Data - PhD (2026) | San Francisco, CA • New York, NY | New Grad | 2026 | Unknown | 2026-06-02 | Figma |  | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
 | Teamworks | Data Engineer I |  | New Grad | Unknown | Unknown | 2026-06-01 | Teamworks | visa | [Apply](https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3) |
 | Julius AI | Software Engineer - Product (New Grad) |  | New Grad | Unknown | Unknown | 2026-05-21 | Julius AI |  | [Apply](https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6) |
 | Perpay | Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4034578007) |
 | Cerebras | Software Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras | hybrid | [Apply](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac) |
 | Cerebras | DevOps Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras |  | [Apply](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
 | True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
-| Notion | Software Engineer, New Grad (AI) |  | New Grad | 2026 | Unknown | 2026-04-27 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) |
 | Mirage | Software Engineer, Early Career |  | New Grad | 2026 | Unknown | 2026-04-27 | Mirage |  | [Apply](https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7) |
+| Notion | Software Engineer, New Grad (AI) |  | New Grad | 2026 | Unknown | 2026-04-27 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) |
 | Notion | Software Engineer, New Grad |  | New Grad | 2026 | Unknown | 2026-04-23 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) |
 | Northwood Space | Infrastructure Engineer - Early Career |  | New Grad | Unknown | US citizen / clearance | 2026-04-22 | Northwood Space | remote, us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) |
 | Wyetech | Software Engineer 1 | Annapolis Junction, Maryland · Laurel, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1783966511 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) |
@@ -314,8 +313,9 @@ Total jobs: **317**
 | Schweitzer Engineering Laboratories | Software Engineer - Full Stack (React, TypeScript, C#, ASP.NET) | North Carolina - Charlotte | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Full-Stack--React--TypeScript--C---ASPNET-_2026-20869) |
 | Schweitzer Engineering Laboratories | Software Engineer (AI/ML Tools focus) | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer--AI-ML-Tools-focus-_2026-21798) |
 | Schweitzer Engineering Laboratories | Software Engineer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Manufacturing-Software-Integration-Engineer-_2026-20428-1) |
+| Schweitzer Engineering Laboratories | Firmware Engineer - Protection Systems Platforms | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer---Protection-Systems-Platforms_2026-20221-1) |
 
-_Showing 250 of 264 jobs. See `data/jobs.csv` for the full list._
+_Showing 250 of 263 jobs. See `data/jobs.csv` for the full list._
 
 ## Data Analyst + TPM Roles
 
