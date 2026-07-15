@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **266**
+Total jobs: **264**
 
 [Back to summary](README.md)
 
@@ -10,14 +10,14 @@ Total jobs: **266**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 14 |
-| US citizen / clearance | 36 |
-| Unknown | 212 |
+| US citizen / clearance | 35 |
+| Unknown | 211 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 224 |
+| CS Roles | 223 |
 | Data Analyst + TPM Roles | 13 |
-| Chemistry, Process, QA/QC Roles | 29 |
+| Chemistry, Process, QA/QC Roles | 28 |
 
 ## US Citizen / Clearance Required
 
@@ -28,7 +28,6 @@ Total jobs: **266**
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | New Grad | 2026 | US citizen / clearance | 2026-07-14 | Anduril | us-citizen | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | Rocket Lab USA | RF Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
 | Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
-| Rocket Lab USA | Propulsion Systems Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7754178003) |
 | Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
 | Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
 | Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
@@ -75,6 +74,7 @@ Total jobs: **266**
 | The Boeing Company | Associate Software Engineer | USA - Hazelwood, MO | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1) |
 | The Boeing Company | Advanced Information Technologist – Mid Level Cloud Engineer | USA - Hazelwood, MO | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) |
 | KBR | Junior Cloud DevOps Engineer | Sioux Falls, South Dakota | New Grad | Unknown | Unknown | Posted Tod | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Sioux-Falls-South-Dakota/Junior-Cloud-DevOps-Engineer_R2124667) |
+| Finning | Gas Compression Tech - Mobile | Grande Prairie, AB, CA | Entry | 2026 | Unknown | Posted Tod | Finning |  | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Grande-Prairie-AB-CA/Gas-Compression-Tech---Mobile_R-2026-2447) |
 | Cox | Manheim Mobile Vehicle Vehicle Condition Inspector, St Louis MO | Remote - Missouri | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--St-Louis-MO_R202679976) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Flint, MI | Remote - Michigan | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Michigan/Manheim-Mobile-Vehicle-Condition-Inspector--Flint--MI_R202679952) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Atlantic City, NJ | Remote - New Jersey | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-Jersey/Manheim-Mobile-Vehicle-Condition-Inspector--Atlantic-City--NJ_R202679959-1) |
@@ -116,7 +116,6 @@ Total jobs: **266**
 | Stewart | Copilot Systems Engineer I | USA TX - Remote | New Grad | Unknown | Unknown | Posted 25 | Stewart | remote | [Apply](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188) |
 | GlobalFoundries | AI/ML Systems Engineer, (2026 New College Graduate) | USA - Texas - Richardson | New Grad | 2026 | Unknown | Posted 22 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829) |
 | Gentex Corporation | Embedded Software Test Engineer I | Zeeland, MI | New Grad | Unknown | Unknown | Posted 22 | Gentex Corporation |  | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Test-Engineer-I_REQ026188) |
-| AeroVironment | Entry-Level Software Engineer | Dayton, OH | New Grad | Unknown | Unknown | Posted 21 | AeroVironment |  | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) |
 | University of Texas at Austin | Data Engineer I | AUSTIN, TX | New Grad | Unknown | Unknown | Posted 20 | University of Texas at Austin |  | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134) |
 | Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA | New Grad | Unknown | Unknown | Posted 20 | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204) |
 | GlobalFoundries | Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate) | USA - Texas - Austin | New Grad | 2026 | Unknown | Posted 20 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) |
@@ -129,7 +128,7 @@ Total jobs: **266**
 | Nightwing Intelligence Solutions | Junior Software Developer | Annapolis Junction, MD | New Grad | Unknown | Unknown | Posted 13 | Nightwing Intelligence Solutions |  | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Junior-Software-Developer_JR101838) |
 | Adtran | Software Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted 13 | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005699) |
 | Adtran | C++/Linux Software Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted 12 | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1) |
-| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006) |
+| mthree | Production Support/SRE Analyst | USA · New York, NY · Houston, TX · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
 | Rocket Lab USA | Manufacturing Engineer I | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7610131003) |
@@ -163,7 +162,6 @@ Total jobs: **266**
 | StubHub | Software Engineer I - Core Compute Platform | New York, New York, United States | New Grad | Spring 2026 | Unknown | 2026-07-13 | StubHub | remote, hybrid, spring, summer | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101) |
 | Rocket Lab USA | RF Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
 | Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
-| Rocket Lab USA | Propulsion Systems Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7754178003) |
 | Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
 | Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
 | Rocket Lab USA | Avionics Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7753763003) |
@@ -332,7 +330,6 @@ Total jobs: **266**
 | Eurofins | Associate Scientist l (Entry Level) | River Falls, WI, us | New Grad | Unknown | Unknown | 2026-07-14 | Eurofins |  | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137741199) |
 | Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
 | Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
-| Eurofins | Entry Level - Associate Bioassay Scientist | Columbia, MO, us | New Grad | Unknown | Unknown | 2026-07-13 | Eurofins |  | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137537869) |
 | STEM Healthcare | Junior Business Analyst | York, Pennsylvania | New Grad | Unknown | Unknown | 2026-07-07 | STEM Healthcare | remote, hybrid | [Apply](https://job-boards.greenhouse.io/stemhealthcare/jobs/7921675) |
 | Lila Sciences | Contractor, Support Engineer I, Automation (2nd shift) | Cambridge, MA USA | New Grad | Unknown | Unknown | 2026-06-30 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4249657009) |
 | Gotion | Junior Process Engineer | Manteno, Illinois | New Grad | Unknown | Unknown | 2026-06-11 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8483936002) |

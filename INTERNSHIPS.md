@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **192**
+Total jobs: **191**
 
 [Back to summary](README.md)
 
@@ -10,12 +10,12 @@ Total jobs: **192**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
-| US citizen / clearance | 5 |
+| US citizen / clearance | 4 |
 | Unknown | 173 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 171 |
+| CS Roles | 170 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -24,7 +24,6 @@ Total jobs: **192**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-07-13 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
-| Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Intern | Fall 2026 | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Varda Space | Flight Software Internship - Fall 2026 | El Segundo, California, United States | Intern | Fall 2026 | US citizen / clearance | 2026-06-24 | Varda Space | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
@@ -69,7 +68,6 @@ Total jobs: **192**
 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | hybrid, summer | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-07-13 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
-| Rocket Lab USA | Software Intern Fall 2026 | Albuquerque, NM | Intern | Fall 2026 | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | Intern | Summer 2027 | Unknown | 2026-07-13 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Point72 | Quantitative Research Intern (NLP) | New York | Intern | Unknown | Unknown | 2026-07-13 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | Point72 | Quantitative Research Intern | New York, Seattle | Intern | Unknown | Unknown | 2026-07-13 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
