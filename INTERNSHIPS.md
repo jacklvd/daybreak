@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **191**
+Total jobs: **190**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **191**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 173 |
+| Unknown | 172 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 170 |
+| CS Roles | 169 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -198,7 +198,6 @@ Total jobs: **191**
 | Palantir | Software Engineer, Internship - Defense Tech | New York, NY · Palo Alto, CA · Washington, D.C. | Intern | Unknown | Unknown | 1722900428 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Intern | Unknown | Unknown | 1722899672 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
-| Optiver | Software Engineer Intern (Summer 2027 - Chicago) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) |
 | Optiver | Software Engineer Intern (Summer 2027 - Austin) |  | Intern | Summer 2027 | Unknown |  | Optiver | summer | [Apply](https://optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
