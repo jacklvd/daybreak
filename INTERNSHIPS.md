@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **189**
+Total jobs: **188**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **189**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 171 |
+| Unknown | 170 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 169 |
+| CS Roles | 168 |
 | Data Analyst + TPM Roles | 9 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -142,7 +142,6 @@ Total jobs: **189**
 | Base Power | Firmware Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management | summer | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
 | Stevens Capital Management | Developer Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management |  | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
-| Great Question | AI Engineer Intern |  | Intern | Summer 2026 | Unknown | 2026-05-21 | Great Question | remote, summer | [Apply](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544) |
 | Etched | Supercomputing Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) |
 | Etched | Chip Simulation Software Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | Saronic | Software Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-18 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
