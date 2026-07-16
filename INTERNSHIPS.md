@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **184**
+Total jobs: **187**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **184**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 166 |
+| Unknown | 169 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 166 |
+| CS Roles | 169 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 8 |
 
@@ -33,7 +33,9 @@ Total jobs: **184**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tencent | Cloud Media Services Intern | US-Washington-Bellevue · US-California-Palo Alto | Intern | Unknown | Unknown | Posted Yes | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
+| Torch Technologies | Software Engineer Intern | Huntsville, AL | Intern | Unknown | Unknown | Posted Tod | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381) |
 | Salesforce | Summer 2027 Intern - Associate Product Manager (APM) | California - San Francisco | Intern | Summer 2027 | Unknown | Posted Tod | Salesforce Careers | summer | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) |
+| Motorola | Presales Systems Engineer (Fall 2026 Co-Op) | Brentwood, TN, More... | Intern | Fall 2026 | Unknown | Posted Tod | Motorola | fall | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer--Fall-2026-Co-Op-_R66714) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted Tod | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | Intern | Unknown | Unknown | Posted 8 D | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Intern | Spring 2027 | Unknown | Posted 6 D | GE Appliances | spring | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
@@ -53,6 +55,7 @@ Total jobs: **184**
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, Kansas | Intern | Unknown | Unknown | Posted 22 | Altasciences |  | [Apply](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) |
 | KBR | National Security Solutions (NSS) Semiconductor Research Internship (Fall 2026) | Beavercreek Township, Ohio | Intern | Fall 2026 | Unknown | Posted 2 D | KBR | fall | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Semiconductor-Research-Internship--Fall-2026-_R2126603) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 15 | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
+| Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, MN, us | Intern | Winter 2027 | Unknown | 2026-07-16 | Western Digital Careers | winter | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-07-15 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-15 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
