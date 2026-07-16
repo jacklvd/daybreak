@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **185**
+Total jobs: **184**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **185**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 167 |
+| Unknown | 166 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 166 |
-| Data Analyst + TPM Roles | 9 |
-| Chemistry, Process, QA/QC Roles | 10 |
+| Data Analyst + TPM Roles | 10 |
+| Chemistry, Process, QA/QC Roles | 8 |
 
 ## US Citizen / Clearance Required
 
@@ -33,6 +33,8 @@ Total jobs: **185**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tencent | Cloud Media Services Intern | US-Washington-Bellevue · US-California-Palo Alto | Intern | Unknown | Unknown | Posted Yes | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
+| Salesforce | Summer 2027 Intern - Associate Product Manager (APM) | California - San Francisco | Intern | Summer 2027 | Unknown | Posted Tod | Salesforce Careers | summer | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) |
+| Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted Tod | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | Intern | Unknown | Unknown | Posted 8 D | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Intern | Spring 2027 | Unknown | Posted 6 D | GE Appliances | spring | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
 | The Campbell's Company | Data Engineer, DA&AI Co-Op | USA - NJ - Camden | Intern | Unknown | Unknown | Posted 30+ | The Campbell's Company |  | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) |
@@ -76,7 +78,6 @@ Total jobs: **185**
 | DRW | Quantitative Research Intern | Chicago, New York City | Intern | Summer 2027 | Unknown | 2026-07-13 | DRW | summer | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | Pylon | Software Engineer, Intern |  | Intern | Summer 2026 | Unknown | 2026-07-10 | Pylon | summer | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) |
 | Meshy | Infrastructure Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
-| Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-07-09 | Vital Lyfe | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) |
 | IMC Trading | Hardware Machine Learning PhD Research Internship | Chicago, United States | Intern | 2027 | Unknown | 2026-07-09 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
@@ -155,7 +156,6 @@ Total jobs: **185**
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1783723393 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
 | Exowatt | Software Engineering Intern - Inventory Automation & IoT/Robotics | Austin, TX | Intern | Unknown | Unknown | 1783712655 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) |
 | Exowatt | Software Engineering Intern - Agent Platform (AI) | Miami, FL | Intern | Unknown | Unknown | 1783712323 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) |
-| Traackr | Software Engineering Intern (Part-Time, Internal Tooling) | New York City | Intern | Unknown | Unknown | 1783017894 | Traackr | remote | [Apply](https://jobs.lever.co/traackr/9d884d26-018c-45b2-8cfb-f17d29d4e688) |
 | Palantir | Forward Deployed Software Engineer, Internship - Intel | Washington, D.C. | Intern | Unknown | Unknown | 1782933745 | Palantir |  | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782849666 | Palantir |  | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782328394 | Palantir |  | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
@@ -203,6 +203,7 @@ Total jobs: **185**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Motorola | Data Analyst Co-Op | Ontario Remote Work | Intern | Unknown | Unknown | Posted Yes | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) |
 | The Campbell's Company | Business Analyst (Co-op), DA&AI | USA - Remote | Intern | Unknown | Unknown | Posted 30+ | The Campbell's Company | remote | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
 | Chevron Corporation | 2026-2027 Information Technology – Information and Analytics – Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-and-Analytics---Intern_R000071474) |
@@ -219,11 +220,9 @@ Total jobs: **185**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 6 D | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
-| Generac | Lab Technician Intern | Santa Monica, CA - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Santa-Monica-CA----USA/Lab-Technician-Intern_JR14695) |
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 3 D | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
 | Lila Sciences | Co-op, Materials Science, Electrosynthesis | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
 | LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |
 | Gotion | Process Engineer Intern | Manteno, Illinois | Intern | 2026 | Unknown | 2026-06-11 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8506211002) |
 | Periodic Labs | Nanofabrication Intern - Summer 2026 |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-05-26 | Periodic Labs | visa, summer | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) |
-| LLNL | Materials Science Division Graduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-05-21 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013250937) |

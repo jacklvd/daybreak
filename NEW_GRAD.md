@@ -2,20 +2,20 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **266**
+Total jobs: **268**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 4 |
-| No sponsorship | 14 |
-| US citizen / clearance | 33 |
-| Unknown | 215 |
+| No sponsorship | 13 |
+| US citizen / clearance | 32 |
+| Unknown | 219 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 222 |
+| CS Roles | 224 |
 | Data Analyst + TPM Roles | 14 |
 | Chemistry, Process, QA/QC Roles | 30 |
 
@@ -23,9 +23,8 @@ Total jobs: **266**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
-| Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-15 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | New Grad | 2026 | US citizen / clearance | 2026-07-15 | Anduril | us-citizen | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
 | Rocket Lab USA | RF Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7773701003) |
@@ -78,13 +77,19 @@ Total jobs: **266**
 | Cox | Manheim Mobile Vehicle Vehicle Condition Inspector, Oklahoma | Remote - Oklahoma | Entry | Unknown | Unknown | Posted Yes | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Oklahoma/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--Oklahoma_R202679372) |
 | Citi | Junior Java Developer | Tampa Florida United States | New Grad | Unknown | Unknown | Posted Yes | Citi |  | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Junior-Java-Developer_26941825-1) |
 | Citi | Banking, Investment Banking, Full Time Analyst, Boston Technology(Software) – USA, 2027 | Boston Massachusetts United States | Entry | 2027 | Unknown | Posted Yes | Citi |  | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Boston-Massachusetts-United-States/Banking--Investment-Banking--Full-Time-Analyst--Boston-Technology-Software----USA--2027_26978172) |
+| The Boeing Company | Systems Engineer - Digital Signal Processing (Associate or Mid-level) | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1) |
+| The Boeing Company | Mid-Level Programmer Analyst | USA - Mesa, AZ | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Mid-Level-Programmer-Analyst_JR2026519256) |
+| The Boeing Company | Industrial Security Specialist – Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026517543) |
 | The Boeing Company | IT Systems Engineer - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Systems-Engineer---Millennium-Space-Systems_JR2026511644-1) |
+| The Boeing Company | Facility Security Officer - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Facility-Security-Officer---Millennium-Space-Systems_JR2026513526-1) |
+| The Boeing Company | DevSecOps Software Engineer | USA - Fairfax, VA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fairfax-VA/DevSecOps-Software-Engineer_JR2026511998-1) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software – July 2027 | USA, Louisville, KY | New Grad | 2027 | Unknown | Posted Tod | GE Appliances |  | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software - January 2027 | USA, Louisville, KY | New Grad | 2027 | Unknown | Posted Tod | GE Appliances |  | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806) |
+| CACI | Junior Systems Engineer | Colorado Springs, CO, US | New Grad | Unknown | Unknown | Posted Tod | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Junior-Systems-Engineer_329174) |
 | Torch Technologies | Junior Level Software Engineer/Software Test Engineer | Huntsville, AL | New Grad | Unknown | Unknown | Posted 9 D | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Level-Software-Engineer-Software-Test-Engineer_R1358) |
 | Sierra Nevada Corporation | Test Engineer I | Lone Tree, CO | New Grad | Unknown | Unknown | Posted 9 D | Sierra Nevada Corporation |  | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Test-Engineer-I_R0030052-1) |
 | Danaher Corporation | Software Engineer I | USA - Indianapolis - Lakeview Parkway - Multiple OpCo | New Grad | Unknown | Unknown | Posted 9 D | Danaher Corporation |  | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, Oklahoma City, OK | Remote - Oklahoma | Entry | Unknown | Unknown | Posted 8 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Oklahoma/Manheim-Mobile-Vehicle-Condition-Inspector--Oklahoma-City--OK_R202677868) |
+| Motorola | Junior Software Engineer, AI Agent Platform | Ontario Remote Work, More... | New Grad | Unknown | Unknown | Posted 8 D | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146) |
 | Cox | Manheim Mobile Inspector II, San Fernando Valley, CA ($1,500 sign on bonus) | Remote - California | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/Manheim-Mobile-Inspector-II--San-Fernando-Valley--CA_R202674950) |
 | Cox | Manheim Mobile Inspector II, Pittsburgh, PA | Remote - Pennsylvania | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Pennsylvania/Manheim-Mobile-Inspector-II--Pittsburgh--PA_R202677785) |
 | Cox | Manheim Mobile Inspector II, Northern Virginia | Remote - Virginia | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Virginia/Manheim-Mobile-Inspector-II--Northern-Virginia_R202679533) |
@@ -99,7 +104,6 @@ Total jobs: **266**
 | TSC | Systems Engineer I | Bloomington, IN · Silver Spring, MD | New Grad | Unknown | Unknown | Posted 30+ | TSC |  | [Apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Bloomington-IN/Systems-Engineer-I_JR2634-1) |
 | TSC | Software Engineer I | Silver Spring, MD | New Grad | Unknown | Unknown | Posted 30+ | TSC | spring | [Apply](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1) |
 | Slate Auto | Software/Data Rotational Program | Troy, Michigan | New Grad | Unknown | Unknown | Posted 30+ | Slate Auto |  | [Apply](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Software-Data-Rotational-Program_JR100527) |
-| Radiance Technologies | Junior Model Based Systems Engineer | Beavercreek, OH | New Grad | Unknown | Unknown | Posted 30+ | Radiance Technologies |  | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Junior-Model-Based-Systems-Engineer_HR102148-1) |
 | Integrity | Software Engineer I | Urbandale, IA | New Grad | Unknown | Unknown | Posted 30+ | Integrity |  | [Apply](https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072) |
 | Genentech | Software Development Engineer, AI for Drug Discovery | New York City | Entry | Unknown | Unknown | Posted 30+ | Genentech |  | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Software-Development-Engineer--AI-for-Drug-Discovery_202605-111391) |
 | Expedia Group | Career Discovery Program 2026 – Software Development - Seattle | Washington - Seattle Campus | Entry | 2026 | Unknown | Posted 30+ | Expedia Group |  | [Apply](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372) |
@@ -116,8 +120,6 @@ Total jobs: **266**
 | GlobalFoundries | Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate) | USA - Texas - Austin | New Grad | 2026 | Unknown | Posted 22 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) |
 | Boys Town | Security Officer (Part Time Days) | Omaha, NE | Entry | 2026 | Unknown | Posted 22 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer--Part-Time-Days-_REQ-2026-8780-1) |
 | BlackRock | 2027 GIP Infrastructure Private Equity Investment Associate | New York, NY | Entry | 2027 | Unknown | Posted 21 | BlackRock |  | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-GIP-Infrastructure-Private-Equity-Investment-Associate_R264747) |
-| The Boeing Company | Experienced Software Engineer – Vehicle Management Systems | USA - Seal Beach, CA | Entry | Unknown | Unknown | Posted 2 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Software-Engineer---Vehicle-Management-Systems_JR2026516293-1) |
-| The Boeing Company | Advanced Information Technologist – Mid Level Cloud Engineer | USA - Hazelwood, MO | Entry | Unknown | Unknown | Posted 2 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) |
 | KBR | Junior Cloud DevOps Engineer | Sioux Falls, South Dakota | New Grad | Unknown | Unknown | Posted 2 D | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Sioux-Falls-South-Dakota/Junior-Cloud-DevOps-Engineer_R2124667) |
 | Finning | Gas Compression Tech - Mobile | Grande Prairie, AB, CA | Entry | 2026 | Unknown | Posted 2 D | Finning |  | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Grande-Prairie-AB-CA/Gas-Compression-Tech---Mobile_R-2026-2447) |
 | Cox | Manheim Mobile Vehicle Vehicle Condition Inspector, St Louis MO | Remote - Missouri | Entry | Unknown | Unknown | Posted 2 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--St-Louis-MO_R202679976) |
@@ -132,9 +134,9 @@ Total jobs: **266**
 | Roblox | [2026] Data Scientist, Social | San Mateo, CA, United States | Entry | Fall 2026 | No sponsorship | 2026-07-16 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
 | Roblox | Software Engineer, User Sharing | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-16 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) |
 | Roblox | Software Engineer, User Co-Experience | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-16 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7711780?gh_jid=7711780) |
-| Roblox | Software Engineer, Storage | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-16 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) |
 | Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-16 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| Clarity Innovations | Junior Platform Engineer | Columbia, Maryland | New Grad | Unknown | Unknown | 2026-07-16 | Clarity Innovations | remote | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5179511007) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Anduril | Technical Program Manager - SkillBridge | Atlanta, Georgia, United States; Costa Mesa, California, United States; Quincy, Massachusetts, United States; Washington, District of Columbia, United States | New Grad | Unknown | Unknown | 2026-07-15 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5142785007?gh_jid=5142785007) |
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | New Grad | 2027 | Unknown | 2026-07-15 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
@@ -278,7 +280,6 @@ Total jobs: **266**
 | Schweitzer Engineering Laboratories | Data Engineer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Engineer_2026-20940-1) |
 | Schweitzer Engineering Laboratories | Associate Software Engineer | Idaho - Boise · Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Associate-Software-Engineer_2026-21552) |
 | Schweitzer Engineering Laboratories | Associate Embedded Software Engineer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer_2026-21564) |
-| Optiver | Graduate Software Engineer (2027 Start) |  | New Grad | 2027 | Unknown |  | Optiver |  | [Apply](https://optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/) |
 | Fidelity International | Technical Consultant – Machine Learning |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Technical-Consultant---Machine-Learning_J66458) |
 | Fidelity International | Software Engineer |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Software-Engineer_J69333) |
 | Fidelity International | Product Owner – Advisor Journeys & API Platform |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Kronberg-Office/Product-Owner---FFBWEB-Platform_J68307) |
@@ -309,9 +310,10 @@ Total jobs: **266**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The Boeing Company | Mechanical Design and Analysis Engineer (Solar Array and Battery)– Satellites Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Yes | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mechanical-Design-and-Analysis-Engineer--Solar-Array-and-Battery---Satellites-Systems_JR2026516836-1) |
 | The Boeing Company | Materials Coordinator | USA - Everett, WA | Entry | Unknown | Unknown | Posted Yes | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Materials-Coordinator_JR2026519065-1) |
-| The Boeing Company | Experienced Test & Evaluation Lab Technician (Metrology & Calibration) | USA - Berkeley, MO | Entry | Unknown | Unknown | Posted Yes | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
 | Smithfield Foods | Yard Spotter - Materials | Peru, IN | Entry | 2026 | Unknown | Posted Yes | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Peru-IN/Yard-Spotter---Materials_R-2026-9307) |
 | CACI | Junior Scientist and Science Technician II | Camp Smith, HI, US | New Grad | Unknown | Unknown | Posted Yes | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Scientist-and-Science-Technician-II_328918) |
+| The Boeing Company | Supply Chain Manufacturing Engineer (Associate and Experienced) | USA - Seal Beach, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Supply-Chain-Manufacturing-Engineer--Associate-and-Experienced-_JR2026518573-2) |
+| The Boeing Company | Experienced Test & Evaluation Lab Technician (Metrology & Calibration) | USA - Berkeley, MO | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Test---Evaluation-Lab-Technician---Metrology---Calibration-_JR2026501709-1) |
 | Smithfield Foods | Food Safety & Quality Assurance NSIS Technologist | Denison, IA | Entry | 2026 | Unknown | Posted Tod | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Denison-IA/Job-Profile-Food-Safety---Quality-Assurance-NSIS-Technologist_R-2026-9447) |
 | The Aerospace Corporation | 2026 Space Photovoltaics Engineer/Scientist | El Segundo, CA | Entry | 2026 | Unknown | Posted 7 D | The Aerospace Corporation |  | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Space-Photovoltaics-Engineer-Scientist_R015839) |
 | The Aerospace Corporation | 2026 Battery Engineer | El Segundo, CA | Entry | 2026 | Unknown | Posted 7 D | The Aerospace Corporation |  | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Battery-Engineer_R015777) |
@@ -325,7 +327,6 @@ Total jobs: **266**
 | The Boeing Company | MQ-25 Experienced Manufacturing Engineer (Assembly and Installation) | USA - Patuxent River, MD | Entry | Unknown | Unknown | Posted 2 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Patuxent-River-MD/MQ-25-Experienced-Manufacturing-Engineer--Assembly-and-Installation-_JR2026516856) |
 | Smithfield Foods | Food Safety & Quality Assurance Technologist | Sioux City, IA | Entry | 2026 | Unknown | Posted 2 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Sioux-City-IA/Food-Safety---Quality-Assurance-Technologist_R-2026-9063) |
 | Boys Town | Research Laboratory Assistant & Phlebotomist | Omaha, NE | Entry | 2026 | Unknown | Posted 16 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Laboratory-Assistant---Phlebotomist_REQ-2026-8814-1) |
-| Rocket Lab USA | Manufacturing Engineer I - Machining | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-15 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/6675154003) |
 | Eurofins | Entry-Level In Vivo Scientist | South Brunswick Township, NJ, us | New Grad | Unknown | Unknown | 2026-07-15 | Eurofins |  | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137919754) |
 | Eurofins | Entry Level Chemist | Lancaster, PA, us | New Grad | Unknown | Unknown | 2026-07-15 | Eurofins |  | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137947759) |
 | LLNL | Analytical Chemist - Academic Graduate Appointee | Livermore, CA, us | New Grad | Unknown | Unknown | 2026-07-14 | Lawrence Livermore National Laboratory (LLNL) |  | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014093046) |
