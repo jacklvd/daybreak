@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **261**
+Total jobs: **260**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **261**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 13 |
 | US citizen / clearance | 30 |
-| Unknown | 214 |
+| Unknown | 213 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 220 |
 | Data Analyst + TPM Roles | 14 |
-| Chemistry, Process, QA/QC Roles | 27 |
+| Chemistry, Process, QA/QC Roles | 26 |
 
 ## US Citizen / Clearance Required
 
@@ -315,7 +315,6 @@ Total jobs: **261**
 | Carnegie Mellon University | Chemistry Technician, PGSS Summer 2026 - Mellon College of Science | Pittsburgh, PA | Entry | Summer 2026 | Unknown | Posted 30+ | Carnegie Mellon University | summer | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Chemistry-Technician--PGSS-Summer-2026---Mellon-College-of-Science_2023864) |
 | Boys Town | Research Assistant I-Translational Motor Imaging Laboratory | Omaha, NE | Entry | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Assistant-I-Translational-Motor-Imaging-Laboratory_REQ-2026-8475-1) |
 | State of North Carolina | Chemistry Technician I | Wake County, NC | Entry | 2026 | Unknown | Posted 3 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Chemistry-Technician-I_JR-119761) |
-| Finning | Fluid Analysis Laboratory Technician 1 | Edmonton, AB, CA | Entry | 2026 | Unknown | Posted 22 | Finning |  | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Fluid-Analysis-Laboratory-Technician-1_R-2026-2962) |
 | Boys Town | Research Assistant I - Audibility, Perception and Cognition Laboratory | Omaha, NE | Entry | 2026 | Unknown | Posted 22 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Assistant-I---Audibility--Perception-and-Cognition-Laboratory_REQ-2026-8843-1) |
 | Smithfield Foods | Food Safety & Quality Assurance Technologist | Sioux City, IA | Entry | 2026 | Unknown | Posted 2 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Sioux-City-IA/Food-Safety---Quality-Assurance-Technologist_R-2026-9063) |
 | Boys Town | Research Laboratory Assistant & Phlebotomist | Omaha, NE | Entry | 2026 | Unknown | Posted 16 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Laboratory-Assistant---Phlebotomist_REQ-2026-8814-1) |
