@@ -8,16 +8,16 @@ Total jobs: **186**
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 10 |
+| Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 168 |
+| Unknown | 169 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 168 |
+| CS Roles | 167 |
 | Data Analyst + TPM Roles | 10 |
-| Chemistry, Process, QA/QC Roles | 8 |
+| Chemistry, Process, QA/QC Roles | 9 |
 
 ## US Citizen / Clearance Required
 
@@ -153,7 +153,6 @@ Total jobs: **186**
 | kos.ai | Software Engineer Intern |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-05-07 | kos.ai | visa | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) |
 | Skydio | Software Engineer Intern Fall 2026/Winter 2027 |  | Intern | Winter 2026 | Unknown | 2026-05-05 | Skydio | fall, winter | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
 | Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
-| Atomic Semi | Infrastructure Software Engineering Intern - Fall |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-04-22 | Atomic Semi | visa, fall | [Apply](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) |
 | Blockhouse | Rust Developer Intern (Summer 2026) |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-04-21 | Blockhouse | remote, summer | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1783723393 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
 | Exowatt | Software Engineering Intern - Inventory Automation & IoT/Robotics | Austin, TX | Intern | Unknown | Unknown | 1783712655 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) |
@@ -223,6 +222,7 @@ Total jobs: **186**
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 7 D | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 4 D | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
+| Bosch Group | Logistics Materials Intern/Co-Op - Fall 2026 | Florence, KY, us | Intern | Fall 2026 | Unknown | 2026-07-17 | Robert Bosch Venture Capital | fall | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000138332960) |
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
 | Lila Sciences | Co-op, Materials Science, Electrosynthesis | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
 | LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |

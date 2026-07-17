@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **260**
+Total jobs: **259**
 
 [Back to summary](README.md)
 
@@ -11,20 +11,20 @@ Total jobs: **260**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 13 |
 | US citizen / clearance | 30 |
-| Unknown | 213 |
+| Unknown | 212 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 220 |
 | Data Analyst + TPM Roles | 14 |
-| Chemistry, Process, QA/QC Roles | 26 |
+| Chemistry, Process, QA/QC Roles | 25 |
 
 ## US Citizen / Clearance Required
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Rocket Lab USA | Ground Systems Engineer I, Controls | Stennis Space Center, MS | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7647932003) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | New Grad | 2026 | US citizen / clearance | 2026-07-15 | Anduril | us-citizen | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
@@ -80,7 +80,6 @@ Total jobs: **260**
 | Cadence Design Systems | Software Engineer, New College Grad 2026 (Undergrads) | Burlington, MA | New Grad | 2026 | Unknown | Posted 8 D | Cadence Design Systems |  | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
 | University of Chicago | Junior Security Analyst | Chicago, IL | New Grad | Unknown | Unknown | Posted 7 D | University of Chicago |  | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Security-Analyst_JR34331) |
 | The Walt Disney Company | Product Software Engineer I | Bristol, CT, USA | New Grad | Unknown | Unknown | Posted 7 D | The Walt Disney Company |  | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293) |
-| HNTB | Software Engineer I | Tallahassee, FL | New Grad | Unknown | Unknown | Posted 7 D | HNTB |  | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Denver, CO | Remote - Colorado | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Colorado/Manheim-Mobile-Vehicle-Condition-Inspector--Denver--CO_R202676761) |
 | State of North Carolina | Mainframe Systems Programmer - EHRA | Wake County, NC | Entry | 2026 | Unknown | Posted 4 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Mainframe-Systems-Programmer---EHRA_JR-119848) |
 | University of Maryland - College Park | Junior Data Engineer (Faculty Specialist) | University of Maryland College Park | New Grad | Unknown | Unknown | Posted 30+ | University of Maryland - College Park |  | [Apply](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102) |
@@ -103,6 +102,7 @@ Total jobs: **260**
 | Stewart | Copilot Systems Engineer I | USA TX - Remote | New Grad | Unknown | Unknown | Posted 28 | Stewart | remote | [Apply](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188) |
 | GlobalFoundries | AI/ML Systems Engineer, (2026 New College Graduate) | USA - Texas - Richardson | New Grad | 2026 | Unknown | Posted 25 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829) |
 | Gentex Corporation | Embedded Software Test Engineer I | Zeeland, MI | New Grad | Unknown | Unknown | Posted 25 | Gentex Corporation |  | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Test-Engineer-I_REQ026188) |
+| University of Texas at Austin | Data Engineer I | AUSTIN, TX | New Grad | Unknown | Unknown | Posted 23 | University of Texas at Austin |  | [Apply](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Data-Engineer-I_R_00045134) |
 | Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA | New Grad | Unknown | Unknown | Posted 23 | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204) |
 | GlobalFoundries | Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate) | USA - Texas - Austin | New Grad | 2026 | Unknown | Posted 23 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) |
 | Boys Town | Security Officer (Part Time Days) | Omaha, NE | Entry | 2026 | Unknown | Posted 23 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer--Part-Time-Days-_REQ-2026-8780-1) |
@@ -136,7 +136,7 @@ Total jobs: **260**
 | Rocket Lab USA | Ground Systems Engineer I, Controls | Stennis Space Center, MS | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7647932003) |
 | PlayStation | Software Engineer I | United States, San Mateo, CA · United States, Los Angeles, CA | New Grad | Unknown | Unknown | 2026-07-16 | PlayStation | hybrid | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004) |
 | Clarity Innovations | Junior Platform Engineer | Columbia, Maryland | New Grad | Unknown | Unknown | 2026-07-16 | Clarity Innovations | remote | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5179511007) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Anduril | Technical Program Manager - SkillBridge | Atlanta, Georgia, United States; Costa Mesa, California, United States; Quincy, Massachusetts, United States; Washington, District of Columbia, United States | New Grad | Unknown | Unknown | 2026-07-15 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5142785007?gh_jid=5142785007) |
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | New Grad | 2027 | Unknown | 2026-07-15 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
@@ -318,7 +318,6 @@ Total jobs: **260**
 | Smithfield Foods | Yard Spotter - Materials | Peru, IN | Entry | 2026 | Unknown | Posted 2 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Peru-IN/Yard-Spotter---Materials_R-2026-9307) |
 | CACI | Junior Scientist and Science Technician II | Camp Smith, HI, US | New Grad | Unknown | Unknown | Posted 2 D | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Scientist-and-Science-Technician-II_328918) |
 | Boys Town | Research Laboratory Assistant & Phlebotomist | Omaha, NE | Entry | 2026 | Unknown | Posted 17 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Laboratory-Assistant---Phlebotomist_REQ-2026-8814-1) |
-| Eurofins | Entry Level Chemist | Lancaster, PA, us | New Grad | Unknown | Unknown | 2026-07-15 | Eurofins |  | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000137947759) |
 | LLNL | Analytical Chemist - Academic Graduate Appointee | Livermore, CA, us | New Grad | Unknown | Unknown | 2026-07-14 | Lawrence Livermore National Laboratory (LLNL) |  | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990014093046) |
 | Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
 | STEM Healthcare | Junior Business Analyst | York, Pennsylvania | New Grad | Unknown | Unknown | 2026-07-07 | STEM Healthcare | remote, hybrid | [Apply](https://job-boards.greenhouse.io/stemhealthcare/jobs/7921675) |
