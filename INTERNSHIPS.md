@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **200**
+Total jobs: **201**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **200**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 183 |
+| Unknown | 184 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 177 |
+| CS Roles | 179 |
 | Data Analyst + TPM Roles | 11 |
-| Chemistry, Process, QA/QC Roles | 12 |
+| Chemistry, Process, QA/QC Roles | 11 |
 
 ## US Citizen / Clearance Required
 
@@ -207,6 +207,8 @@ Total jobs: **200**
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Intern | Unknown | Unknown | 1722899672 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Washington - Pullman | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-21720) |
+| Google Careers | 95141459539174086 software engineering intern ms summer 2027 |  | Intern | Summer 2027 | Unknown |  | Google Careers | summer | [Apply](https://www.google.com/about/careers/applications/jobs/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027) |
+| Google Careers | 85564713261245126 software engineering intern bs summer 2027 |  | Intern | Summer 2027 | Unknown |  | Google Careers | summer | [Apply](https://www.google.com/about/careers/applications/jobs/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 
@@ -216,7 +218,7 @@ Total jobs: **200**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Motorola | Data Analyst Co-Op | Ontario Remote Work | Intern | Unknown | Unknown | Posted 5 D | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) |
 | Great American Insurance Company | Catastrophe Modeling & Data Analytics Intern (Fall 2026) | Cincinnati, OH (USA) | Intern | Fall 2026 | Unknown | Posted 30+ | Great American Insurance Company | fall | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2026-_R9102) |
-| Generac | Intern Engineering Program Manager | Pewaukee, WI - USA · Reno, NV - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Intern-Engineering-Program-Manager_JR14727) |
+| Generac | Intern Engineering Program Manager | Pewaukee, WI - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Intern-Engineering-Program-Manager_JR14727) |
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
 | Chevron Corporation | 2026-2027 Information Technology – Information and Analytics – Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-and-Analytics---Intern_R000071474) |
 | Viavi Solutions | SW Development Intern/Data Analytics | Home Office, USA | Intern | Unknown | Unknown | Posted 3 D | Viavi Solutions |  | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) |
@@ -236,7 +238,6 @@ Total jobs: **200**
 | Magna | Manufacturing Engineer - Co-op (4 months) | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 3 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 10 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-17 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
-| Bosch Group | Logistics Materials Intern/Co-Op - Fall 2026 | Florence, KY, us | Intern | Fall 2026 | Unknown | 2026-07-17 | Robert Bosch Venture Capital | fall | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000138332960) |
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
 | Lila Sciences | Co-op, Materials Science, Electrosynthesis | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
 | LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |
