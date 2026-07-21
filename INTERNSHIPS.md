@@ -2,20 +2,20 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **201**
+Total jobs: **197**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
-| Sponsors / OPT-CPT likely | 9 |
+| Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 184 |
+| Unknown | 181 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 180 |
+| CS Roles | 176 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -164,7 +164,6 @@ Total jobs: **201**
 | Skydio | Software Engineer Intern Fall 2026/Winter 2027 |  | Intern | Winter 2026 | Unknown | 2026-05-05 | Skydio | fall, winter | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
 | Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
 | Constellation Space | Graduate/PhD Research Intern, Machine Learning |  | Intern | Unknown | Unknown | 2026-04-24 | Constellation Space |  | [Apply](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a) |
-| Blockhouse | Rust Developer Intern (Summer 2026) |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-04-21 | Blockhouse | remote, summer | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1783723393 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
 | Exowatt | Software Engineering Intern - Inventory Automation & IoT/Robotics | Austin, TX | Intern | Unknown | Unknown | 1783712655 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c) |
 | Exowatt | Software Engineering Intern - Agent Platform (AI) | Miami, FL | Intern | Unknown | Unknown | 1783712323 | Exowatt |  | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c) |
@@ -185,10 +184,7 @@ Total jobs: **201**
 | PlusAI | Software Engineer Intern - Robotics | Santa Clara, CA | Intern | Unknown | Unknown | 1779315498 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) |
 | PlusAI | Machine Learning Engineer Intern - Scenario Generation | Santa Clara, CA | Intern | Unknown | Unknown | 1779313808 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2) |
 | PlusAI | Machine Learning Engineer Intern - Scenario Simulation | Santa Clara, CA | Intern | Unknown | Unknown | 1779312458 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) |
-| PlusAI | Machine Learning Infrastructure Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811789 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4) |
 | PlusAI | Full Stack Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811243 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
-| PlusAI | Software Engineer Intern - Data | Santa Clara, CA | Intern | Unknown | Unknown | 1778810535 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/012a2134-8a6a-4982-8f25-f906178a24e4) |
-| PlusAI | Software Engineer Intern - Data Infrastructure and Tools | Santa Clara, CA | Intern | Unknown | Unknown | 1778809917 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9) |
 | Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
 | Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | Intern | Fall 2026 | Unknown | 1776452842 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |

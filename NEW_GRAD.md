@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **253**
+Total jobs: **251**
 
 [Back to summary](README.md)
 
@@ -10,12 +10,12 @@ Total jobs: **253**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 12 |
-| US citizen / clearance | 31 |
-| Unknown | 206 |
+| US citizen / clearance | 30 |
+| Unknown | 205 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 212 |
+| CS Roles | 210 |
 | Data Analyst + TPM Roles | 18 |
 | Chemistry, Process, QA/QC Roles | 23 |
 
@@ -23,20 +23,19 @@ Total jobs: **253**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-20 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-20 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Freedom Technology Solutions Group | Junior Software Engineer 730 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-20 | Freedom Technology Solutions Group | us-citizen, spring, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007) |
 | Accenture | Junior Systems Engineer | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-20 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4627901006?gh_jid=4627901006) |
 | Accenture | Junior DevOps Engineer | Hanover, MD | New Grad | Unknown | US citizen / clearance | 2026-07-20 | Accenture | visa, us-citizen | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4690994006?gh_jid=4690994006) |
 | Anduril | 2026 Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | New Grad | 2026 | US citizen / clearance | 2026-07-17 | Anduril | us-citizen | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | Rocket Lab USA | Ground Systems Engineer I, Controls | Stennis Space Center, MS | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7647932003) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
-| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
 | Katalyst Space Technologies | Software Engineer I, Modeling and Simulation | Broomfield, Colorado, United States | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Katalyst Space Technologies | us-citizen | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6115352004) |
 | Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
 | Rocket Lab USA | Materials and Process Engineer I | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7775421003) |
 | Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
 | Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
-| Rocket Lab USA | Avionics Automation Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7699326003) |
 | Northwood Space | Software Engineer – General (new grad / early career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
 | Inversion Space | RF Test Engineer I | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4714666005) |
 | Northwood Space | Electronics Test Engineer (Early Career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-11 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/e153b809-8535-4d9d-b48c-c25acdeadae7) |
@@ -116,6 +115,8 @@ Total jobs: **253**
 | Danaher Corporation | Software Engineer I | USA - Indianapolis - Lakeview Parkway - Multiple OpCo | New Grad | Unknown | Unknown | Posted 13 | Danaher Corporation |  | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) |
 | Cadence Design Systems | Software Engineer, New College Grad 2026 (Undergrads) | Burlington, MA | New Grad | 2026 | Unknown | Posted 11 | Cadence Design Systems |  | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3) |
 | University of Chicago | Junior Security Analyst | Chicago, IL | New Grad | Unknown | Unknown | Posted 10 | University of Chicago |  | [Apply](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Junior-Security-Analyst_JR34331) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-20 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
+| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-20 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Roblox | [2026] Data Scientist, Social | San Mateo, CA, United States | Entry | Fall 2026 | No sponsorship | 2026-07-20 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
 | Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-20 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | Roblox | Software Engineer, Ads Platform | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-20 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) |
@@ -145,8 +146,6 @@ Total jobs: **253**
 | Cybernetic Labs | Software Engineer (Agent Platform) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
 | Clarity Innovations | Junior Platform Engineer | Columbia, Maryland | New Grad | Unknown | Unknown | 2026-07-16 | Clarity Innovations | remote | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5179511007) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
-| SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-15 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | New Grad | Unknown | Unknown | 2026-07-15 | InstaLILY | remote | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
 | mthree | Production Support/SRE Analyst | Houston, TX · USA · New York, NY · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
@@ -166,7 +165,6 @@ Total jobs: **253**
 | Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
 | Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
 | Rocket Lab USA | Ground Systems Engineer I - Structures and Mechanisms | Wallops Island, VA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7760576003) |
-| Rocket Lab USA | Avionics Automation Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7699326003) |
 | Northwood Space | Software Engineer – General (new grad / early career) |  | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Northwood Space | us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede) |
 | Inversion Space | RF Test Engineer I | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4714666005) |
 | Abridge | Software Engineer - Early Career |  | New Grad | Unknown | Unknown | 2026-07-13 | Abridge |  | [Apply](https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace) |
@@ -260,7 +258,6 @@ Total jobs: **253**
 | Palantir | Software Engineer, New Grad | New York, NY · Denver, CO | New Grad | Unknown | Unknown | 1625171097 | Palantir |  | [Apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) |
 | Schweitzer Engineering Laboratories | Software Engineer - Full Stack (React, TypeScript, C#, ASP.NET) | North Carolina - Charlotte | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Full-Stack--React--TypeScript--C---ASPNET-_2026-20869) |
 | Schweitzer Engineering Laboratories | Software Engineer (AI/ML Tools focus) | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer--AI-ML-Tools-focus-_2026-21798) |
-| Schweitzer Engineering Laboratories | Software Engineer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Manufacturing-Software-Integration-Engineer-_2026-20428-1) |
 | Schweitzer Engineering Laboratories | Front-End Web Developer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Front-End-Web-Developer_2026-22260) |
 | Schweitzer Engineering Laboratories | Firmware Engineer - Protection Systems Platforms | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Firmware-Engineer---Protection-Systems-Platforms_2026-20221-1) |
 | Schweitzer Engineering Laboratories | Firmware Engineer - Linux/C++ | Idaho - Boise | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Firmware-Engineer---Linux-C--_2026-19758) |
@@ -300,9 +297,9 @@ Total jobs: **253**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The Boeing Company | Flight Operations Mechanic - Quality Assurance Inspector | USA - Patuxent River, MD | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Patuxent-River-MD/Flight-Operations-Mechanic---Quality-Assurance-Inspector_JR2026495349-1) |
+| State of North Carolina | GeoMaterials Laboratory Technician I | Wake County, NC | Entry | 2026 | Unknown | Posted Tod | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/GeoMaterials-Laboratory-Technician-I_JR-120315-1) |
 | Smithfield Foods | Food Safety & Quality Assurance Technologist | Sioux City, IA | Entry | 2026 | Unknown | Posted 6 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Sioux-City-IA/Food-Safety---Quality-Assurance-Technologist_R-2026-9063) |
 | Smithfield Foods | Yard Spotter - Materials | Peru, IN | Entry | 2026 | Unknown | Posted 5 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Peru-IN/Yard-Spotter---Materials_R-2026-9307) |
-| CACI | Junior Scientist and Science Technician II | Camp Smith, HI, US | New Grad | Unknown | Unknown | Posted 5 D | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Scientist-and-Science-Technician-II_328918) |
 | Southern New Hampshire University | On-Campus Adjunct Instructor, General Chemistry Lab | On-Site (New Hampshire) | New Grad | Unknown | Unknown | Posted 4 D | Southern New Hampshire University |  | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/On-Campus-Adjunct-Instructors--General-Chemistry-Lab_R0014457-1) |
 | Smithfield Foods | Food Safety & Quality Assurance NSIS Technologist | Denison, IA | Entry | 2026 | Unknown | Posted 4 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Denison-IA/Job-Profile-Food-Safety---Quality-Assurance-NSIS-Technologist_R-2026-9447) |
 | Boys Town | Research Assistant I-Translational Motor Imaging Laboratory | Omaha, NE | Entry | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Assistant-I-Translational-Motor-Imaging-Laboratory_REQ-2026-8475-1) |
