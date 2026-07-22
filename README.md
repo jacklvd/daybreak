@@ -58,7 +58,7 @@ Total open jobs: **453**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 383 |
-| Data Analyst + TPM Roles | 30 |
+| CS Roles | 382 |
+| Data Analyst + TPM Roles | 31 |
 | Chemistry, Process, QA/QC Roles | 40 |
 <!-- JOBS:END -->
