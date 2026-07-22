@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **194**
+Total jobs: **193**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **194**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 178 |
+| Unknown | 177 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 172 |
+| CS Roles | 171 |
 | Data Analyst + TPM Roles | 11 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -40,7 +40,6 @@ Total jobs: **194**
 | Cisive | Software Development Intern | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) |
 | Cisive | Intern- Software Developer | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211) |
 | Boys Town | Artificial Intelligence & Machine Learning Intern | Omaha, NE | Intern | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) |
-| Arlo | SW Engineer Intern, iOS (AI-Assisted Development) | Milpitas, CA | Intern | Unknown | Unknown | Posted 30+ | Arlo |  | [Apply](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299) |
 | Ardian | Data Scientist Intern | New York | Intern | Unknown | Unknown | Posted 30+ | Ardian |  | [Apply](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) |
 | Ancestry | Machine Learning Engineer, Co-op | Remote | Intern | Unknown | Unknown | Posted 30+ | Ancestry | remote | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, Kansas | Intern | Unknown | Unknown | Posted 27 | Altasciences |  | [Apply](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) |
@@ -200,7 +199,7 @@ Total jobs: **194**
 | Palantir | Software Engineer, Internship - Defense Tech | New York, NY · Palo Alto, CA · Washington, D.C. | Intern | Unknown | Unknown | 1722900428 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Intern | Unknown | Unknown | 1722899672 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | Washington - Pullman | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-21720) |
+| Schweitzer Engineering Laboratories | Software Engineer Intern | Idaho - Boise · Washington - Pullman | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
 | Google Careers | 85564713261245126 software engineering intern bs summer 2027 |  | Intern | Summer 2027 | Unknown |  | Google Careers | summer | [Apply](https://www.google.com/about/careers/applications/jobs/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |

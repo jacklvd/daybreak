@@ -10,14 +10,14 @@ Total jobs: **260**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 12 |
-| US citizen / clearance | 28 |
-| Unknown | 216 |
+| US citizen / clearance | 27 |
+| Unknown | 217 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 214 |
+| CS Roles | 212 |
 | Data Analyst + TPM Roles | 19 |
-| Chemistry, Process, QA/QC Roles | 27 |
+| Chemistry, Process, QA/QC Roles | 29 |
 
 ## US Citizen / Clearance Required
 
@@ -43,7 +43,6 @@ Total jobs: **260**
 | Freedom Technology Solutions Group | Junior Application Developer 675 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007) |
 | Inversion Space | Autonomy Engineer I, Arc Vehicle | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-06-24 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705511005) |
 | True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
-| Northwood Space | Infrastructure Engineer - Early Career |  | New Grad | Unknown | US citizen / clearance | 2026-04-22 | Northwood Space | remote, us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) |
 | Wyetech | Software Engineer 1 | Annapolis Junction, Maryland · Laurel, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1783966511 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) |
 | Wyetech | Software Engineer 1 (Potential Telework) | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1776880198 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2) |
 | Wyetech | Software Tools Engineer 1 | Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1776699076 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e) |
@@ -68,6 +67,7 @@ Total jobs: **260**
 | The Boeing Company | Entry Level Software Systems Engineer | USA - Tinker AFB, OK | New Grad | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Systems-Engineer_JR2026511294-1) |
 | The Boeing Company | Advanced Information Technologist – Associate Cloud Engineer | USA - Hazelwood, MO | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282) |
 | Radiance Technologies | Junior Software Engineer | Stennis Space Center, MS · Huntsville, AL | New Grad | Unknown | Unknown | Posted Tod | Radiance Technologies |  | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102305) |
+| Mastercard | Software Engineer I | O'Fallon, Missouri | New Grad | Unknown | Unknown | Posted Tod | Mastercard |  | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-278868) |
 | Cox | Manheim Vehicle Mobile Inspector Houston, TX | Remote - Texas | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Manheim-Vehicle-Mobile-Inspector-Houston--TX_R202680304) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Scranton, PA | Remote - Pennsylvania | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Pennsylvania/Manheim-Mobile-Vehicle-Condition-Inspector--Scranton--PA_R202680283) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Philadelphia & King of Prussia, PA | Remote - Pennsylvania | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Pennsylvania/Manheim-Mobile-Vehicle-Condition-Inspector--Philadelphia---King-of-Prussia--PA_R202680269) |
@@ -83,7 +83,7 @@ Total jobs: **260**
 | Cox | Manheim Mobile Vehicle Vehicle Condition Inspector, Oklahoma | Remote - Oklahoma | Entry | Unknown | Unknown | Posted 6 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Oklahoma/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--Oklahoma_R202679372) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software – July 2027 | USA, Louisville, KY | New Grad | 2027 | Unknown | Posted 5 D | GE Appliances |  | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software - January 2027 | USA, Louisville, KY | New Grad | 2027 | Unknown | Posted 5 D | GE Appliances |  | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806) |
-| CACI | Junior Systems Engineer | King George, VA, US · Colorado Springs, CO, US | New Grad | Unknown | Unknown | Posted 5 D | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-George-VA-US/Junior-Systems-Engineer_329221) |
+| CACI | Junior Systems Engineer | King George, VA, US | New Grad | Unknown | Unknown | Posted 5 D | CACI |  | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/King-George-VA-US/Junior-Systems-Engineer_329221) |
 | Adtran | Software Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted 5 D | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697) |
 | Nidec | Software Engineer I | North America/USA/Missouri/St. Louis - WPE, MO | New Grad | Unknown | Unknown | Posted 4 D | Nidec |  | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664) |
 | Morgan Stanley | MSIM Infrastructure Partners, Acquisitions Associate (2026 Program) | New York, New York, United States of America | Entry | 2026 | Unknown | Posted 4 D | Morgan Stanley |  | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM-Infrastructure-Partners--Acquisitions-Associate--2026-Program-_JR040759-1) |
@@ -101,8 +101,6 @@ Total jobs: **260**
 | Equifax | Site Reliability Engineer - Rotational Development Program | USA - Missouri - St. Louis - Lackland | New Grad | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00170527) |
 | Dexcom | Test Engineer 1 | San Diego, California | New Grad | Unknown | Unknown | Posted 30+ | Dexcom |  | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Test-Engineer-1_JR118617) |
 | Boys Town | Security Officer - West | Omaha, NE | Entry | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer---West_REQ-2026-8728-1) |
-| The Boeing Company | Software Engineer | USA - Maryland Heights, MO | Entry | Unknown | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Software-Engineer_JR2026518109-1) |
-| The Boeing Company | Associate Software Engineer | USA - Omaha, NE | Entry | Unknown | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1) |
 | Cox | Manheim Mobile Vehicle Inspector, Northern Virginia ($1,500 sign on bonus) | Remote - Virginia | Entry | Unknown | Unknown | Posted 3 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Virginia/Manheim-Mobile-Vehicle-Inspector--Northern-Virginia_R202680171) |
 | Gentex Corporation | Embedded Software Test Engineer I | Zeeland, MI | New Grad | Unknown | Unknown | Posted 29 | Gentex Corporation |  | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Test-Engineer-I_REQ026188) |
 | Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA | New Grad | Unknown | Unknown | Posted 27 | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204) |
@@ -225,7 +223,6 @@ Total jobs: **260**
 | Perpay | Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4034578007) |
 | Cerebras | DevOps Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras |  | [Apply](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
 | True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
-| Northwood Space | Infrastructure Engineer - Early Career |  | New Grad | Unknown | US citizen / clearance | 2026-04-22 | Northwood Space | remote, us-citizen | [Apply](https://jobs.ashbyhq.com/NorthwoodSpace/d81a9f1e-002e-4c1a-8b09-8dbac575279c) |
 | Wyetech | Software Engineer 1 | Annapolis Junction, Maryland · Laurel, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1783966511 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) |
 | Stand Together | KAP 2026-2027 - AI-Native Builder / Platform Associate - Mercatus Center | Arlington, VA | Entry | 2026 | Unknown | 1782769057 | Stand Together |  | [Apply](https://jobs.lever.co/standtogether/92015b6f-ac8b-4b60-8afc-b193c95813db) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL · New York, NY | New Grad | Unknown | Unknown | 1782744260 | Palantir |  | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
@@ -301,6 +298,8 @@ Total jobs: **260**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The Boeing Company | Flight Operations Mechanic - Quality Assurance Inspector | USA - Patuxent River, MD | Entry | Unknown | Unknown | Posted Yes | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Patuxent-River-MD/Flight-Operations-Mechanic---Quality-Assurance-Inspector_JR2026495349-1) |
 | The Boeing Company | Materials & Processes Electrical Engineer | USA - Oklahoma City, OK | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Materials---Processes-Electrical-Engineer_JR2026518359-1) |
+| The Boeing Company | Manufacturing Engineer - Structures & Propulsion - 1st Shift - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Manufacturing-Engineer---Structures---Propulsion---1st-Shift---Millennium-Space-Systems_JR2026516617-1) |
+| The Boeing Company | Experienced Manufacturing Engineer | USA - Fort Walton Beach, FL | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Experienced-Manufacturing-Engineer_JR2026517997-1) |
 | State of North Carolina | GeoMaterials Laboratory Technician I | Wake County, NC | Entry | 2026 | Unknown | Posted Tod | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/GeoMaterials-Laboratory-Technician-I_JR-120315-1) |
 | Smithfield Foods | Materials Buyer | Smithfield, VA | Entry | 2026 | Unknown | Posted Tod | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Materials-Buyer_R-2026-9749) |
 | Dexcom | Process Development Engineer 1 | San Diego, California | New Grad | Unknown | Unknown | Posted Tod | Dexcom |  | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Process-Development-Engineer-1_JR119872-1) |
