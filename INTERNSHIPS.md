@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **192**
+Total jobs: **189**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **192**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 176 |
+| Unknown | 173 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 170 |
+| CS Roles | 167 |
 | Data Analyst + TPM Roles | 11 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -37,7 +37,6 @@ Total jobs: **192**
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 6 D | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | Intern | Unknown | Unknown | Posted 5 D | Intel |  | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 30+ | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
-| Generac | Intern Firmware Engineering | Reno, NV - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) |
 | Cisive | Software Development Intern | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) |
 | Cisive | Intern- Software Developer | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211) |
 | Boys Town | Artificial Intelligence & Machine Learning Intern | Omaha, NE | Intern | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Artificial-Intelligence---Machine-Learning-Intern_REQ-2026-8543-1) |
@@ -47,8 +46,8 @@ Total jobs: **192**
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 21 | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | Intern | Unknown | Unknown | Posted 14 | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Intern | Spring 2027 | Unknown | Posted 12 | GE Appliances | spring | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+| Virtu Financial | Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-22 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-22 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
-| Virtu Financial | Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-21 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-07-20 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, us | Intern | Summer 2027 | Unknown | 2026-07-20 | Western Digital Careers | summer | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 | The Trade Desk | 2027 North America Software Engineering Internship | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Intern | Summer 2027 | Unknown | 2026-07-20 | The Trade Desk | summer | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
@@ -157,7 +156,6 @@ Total jobs: **192**
 | Saronic | Test Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-13 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/927985ae-7a48-4628-9e03-36510d64fb5f) |
 | Astera | Software Engineering Intern – Distributed Simulation Systems |  | Intern | Unknown | No sponsorship | 2026-05-13 | Astera | hybrid, visa | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) |
 | kos.ai | Software Engineer Intern |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-05-07 | kos.ai | visa | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) |
-| Skydio | Software Engineer Intern Fall 2026/Winter 2027 |  | Intern | Winter 2026 | Unknown | 2026-05-05 | Skydio | fall, winter | [Apply](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
 | Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
 | Constellation Space | Graduate/PhD Research Intern, Machine Learning |  | Intern | Unknown | Unknown | 2026-04-24 | Constellation Space |  | [Apply](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | Palo Alto, CA · New York, NY · Washington, D.C. | Intern | Unknown | Unknown | 1783723393 | Palantir |  | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
@@ -169,7 +167,6 @@ Total jobs: **192**
 | Toyota Research Institute | Energy & Materials Intern- XRD Advanced Analysis | Los Altos, CA | Intern | Fall 2026 | Unknown | 1781747850 | Toyota Research Institute | hybrid, fall | [Apply](https://jobs.lever.co/tri/15969a29-b217-482f-8c67-67d091b054c8) |
 | SoloPulse | Software Engineer Intern/Co-Op - Fall 2026 | Peachtree Corners, GA | Intern | Fall 2026 | Unknown | 1781636002 | SoloPulse | fall | [Apply](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56) |
 | Fluxergy | Firmware Engineer Intern | Irvine, California | Intern | Unknown | Unknown | 1780358426 | Fluxergy |  | [Apply](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec) |
-| GenBio AI | Software Engineering Intern | Palo Alto, CA | Intern | Unknown | Unknown | 1780341449 | GenBio AI |  | [Apply](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74) |
 | EV Realty | Intern, Data Analytics | San Francisco, CA | Intern | Unknown | Unknown | 1779477657 | EV Realty | summer | [Apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865) |
 | Reply | iOS Developer Intern | Detroit Area, Michigan | Intern | Unknown | Unknown | 1779396710 | Reply |  | [Apply](https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5) |
 | Reply | Android Developer Intern | Detroit Area, Michigan | Intern | Unknown | Unknown | 1779396081 | Reply |  | [Apply](https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061) |
