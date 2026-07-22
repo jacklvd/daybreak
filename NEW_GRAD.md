@@ -15,9 +15,9 @@ Total jobs: **258**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 209 |
+| CS Roles | 208 |
 | Data Analyst + TPM Roles | 20 |
-| Chemistry, Process, QA/QC Roles | 29 |
+| Chemistry, Process, QA/QC Roles | 30 |
 
 ## US Citizen / Clearance Required
 
@@ -68,6 +68,7 @@ Total jobs: **258**
 | Cox | Manheim Mobile Vehicle Condition Inspector, Kansas City, MO $2,000 Sign On Bonus | Remote - Missouri | Entry | Unknown | Unknown | Posted Yes | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Manheim-Mobile-Vehicle-Condition-Inspector--Kansas-City--MO--2-000-Sign-On-Bonus_R202680288) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Framingham, MA ($2,000 sign on bonus) | Remote-Massachusetts-110 | Entry | Unknown | Unknown | Posted Yes | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote-Massachusetts-110/Manheim-Mobile-Vehicle-Condition-Inspector--Framingham--MA_R202680270) |
 | Adtran | System Integration Test Engineer I | Atlanta, GA | New Grad | Unknown | Unknown | Posted Yes | Adtran |  | [Apply](https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/System-Integration-Test-Engineer-I_R005698) |
+| The Boeing Company | Associate Systems Engineer - Processor IPT | USA - Huntsville, AL | Entry | Unknown | Unknown | Posted Tod | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Associate-Systems-Engineer---Processor-IPT_JR2026517292-1) |
 | Finning | Gas Compression Tech - Mobile | Grande Prairie, AB, CA | Entry | 2026 | Unknown | Posted 8 D | Finning |  | [Apply](https://finning.wd3.myworkdayjobs.com/External/job/Grande-Prairie-AB-CA/Gas-Compression-Tech---Mobile_R-2026-2447) |
 | Cox | Manheim Mobile Vehicle Vehicle Condition Inspector, St Louis MO | Remote - Missouri | Entry | Unknown | Unknown | Posted 8 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--St-Louis-MO_R202679976) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Flint, MI | Remote - Michigan | Entry | Unknown | Unknown | Posted 8 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Michigan/Manheim-Mobile-Vehicle-Condition-Inspector--Flint--MI_R202679952) |
@@ -98,7 +99,6 @@ Total jobs: **258**
 | Boys Town | Security Officer - West | Omaha, NE | Entry | 2026 | Unknown | Posted 30+ | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer---West_REQ-2026-8728-1) |
 | Gentex Corporation | Embedded Software Test Engineer I | Zeeland, MI | New Grad | Unknown | Unknown | Posted 30 | Gentex Corporation |  | [Apply](https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Embedded-Software-Test-Engineer-I_REQ026188) |
 | Torch Technologies | Junior Systems Engineer | Hanscom AFB, MA | New Grad | Unknown | Unknown | Posted 28 | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Hanscom-AFB-MA/Junior-Systems-Engineer_R1204) |
-| GlobalFoundries | Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate) | USA - Texas - Austin | New Grad | 2026 | Unknown | Posted 28 | GlobalFoundries |  | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1) |
 | Boys Town | Security Officer (Part Time Days) | Omaha, NE | Entry | 2026 | Unknown | Posted 28 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer--Part-Time-Days-_REQ-2026-8780-1) |
 | BlackRock | 2027 GIP Infrastructure Private Equity Investment Associate | New York, NY | Entry | 2027 | Unknown | Posted 27 | BlackRock |  | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-GIP-Infrastructure-Private-Equity-Investment-Associate_R264747) |
 | Boys Town | Security Officer (Days) | Omaha, NE | Entry | 2026 | Unknown | Posted 22 | Boys Town |  | [Apply](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Security-Officer--Days-_REQ-2026-8831-1) |
@@ -146,7 +146,6 @@ Total jobs: **258**
 | Lightfield | Software Engineer, Applied AI, New Grad |  | New Grad | Unknown | Unknown | 2026-07-16 | Lightfield | winter | [Apply](https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d) |
 | Cybernetic Labs | Software Engineer (Agent Platform) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
-| Clarity Innovations | Junior Platform Engineer | Columbia, Maryland | New Grad | Unknown | Unknown | 2026-07-16 | Clarity Innovations | remote | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5179511007) |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | New Grad | Unknown | Unknown | 2026-07-15 | InstaLILY | remote | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
 | mthree | Production Support/SRE Analyst | Houston, TX · USA · New York, NY · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
@@ -300,6 +299,7 @@ Total jobs: **258**
 | State of North Carolina | GeoMaterials Laboratory Technician I | Wake County, NC | Entry | 2026 | Unknown | Posted Yes | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/GeoMaterials-Laboratory-Technician-I_JR-120315-1) |
 | Smithfield Foods | Materials Buyer | Smithfield, VA | Entry | 2026 | Unknown | Posted Yes | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Materials-Buyer_R-2026-9749) |
 | Dexcom | Process Development Engineer 1 | San Diego, California | New Grad | Unknown | Unknown | Posted Yes | Dexcom |  | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Process-Development-Engineer-1_JR119872-1) |
+| Magna | Manufacturing Engineer (WCM Engineer I) | Piedmont, South Carolina, US | New Grad | Unknown | Unknown | Posted Tod | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Piedmont-South-Carolina-US/Manufacturing-Engineer_R00233832) |
 | Smithfield Foods | Food Safety & Quality Assurance Technologist | Sioux City, IA | Entry | 2026 | Unknown | Posted 8 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Sioux-City-IA/Food-Safety---Quality-Assurance-Technologist_R-2026-9063) |
 | Smithfield Foods | Yard Spotter - Materials | Peru, IN | Entry | 2026 | Unknown | Posted 7 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Peru-IN/Yard-Spotter---Materials_R-2026-9307) |
 | Southern New Hampshire University | On-Campus Adjunct Instructor, General Chemistry Lab | On-Site (New Hampshire) | New Grad | Unknown | Unknown | Posted 6 D | Southern New Hampshire University |  | [Apply](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/On-Site-New-Hampshire/On-Campus-Adjunct-Instructors--General-Chemistry-Lab_R0014457-1) |

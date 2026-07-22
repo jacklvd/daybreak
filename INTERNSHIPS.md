@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **194**
+Total jobs: **193**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **194**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 178 |
+| Unknown | 177 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 172 |
+| CS Roles | 171 |
 | Data Analyst + TPM Roles | 11 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -47,8 +47,8 @@ Total jobs: **194**
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 21 | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | Intern | Unknown | Unknown | Posted 14 | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Intern | Spring 2027 | Unknown | Posted 12 | GE Appliances | spring | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-22 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Virtu Financial | Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-21 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
-| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-21 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-07-20 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, us | Intern | Summer 2027 | Unknown | 2026-07-20 | Western Digital Careers | summer | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 | The Trade Desk | 2027 North America Software Engineering Internship | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Intern | Summer 2027 | Unknown | 2026-07-20 | The Trade Desk | summer | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
@@ -201,7 +201,6 @@ Total jobs: **194**
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Intern | Unknown | Unknown | 1722899672 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Idaho - Boise · Washington - Pullman | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
-| Google Careers | 85564713261245126 software engineering intern bs summer 2027 |  | Intern | Summer 2027 | Unknown |  | Google Careers | summer | [Apply](https://www.google.com/about/careers/applications/jobs/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 
