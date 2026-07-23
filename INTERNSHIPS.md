@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **186**
+Total jobs: **181**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **186**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 170 |
+| Unknown | 165 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 165 |
+| CS Roles | 160 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -74,7 +74,7 @@ Total jobs: **186**
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
-| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | remote, hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
+| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
@@ -106,10 +106,6 @@ Total jobs: **186**
 | Sila Nanotechnologies | Battery Simulation & Computational Scientist Internship | Alameda, CA | Intern | Unknown | Unknown | 2026-07-02 | Sila Nanotechnologies | remote, summer | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) |
 | Apptronik | Robotics Software Intern – Real-Time Controls | Austin, TX | Intern | Unknown | Unknown | 2026-07-02 | Apptronik |  | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
 | The Wonderful Company | Intern, Business Systems Analyst (Summer Internship) | Shafter, CA, us · Del Rey, CA, us | Intern | Unknown | Unknown | 2026-07-01 | The Wonderful Company | summer | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439) |
-| Seven Research | Quantitative Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) |
-| Seven Research | Deep Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) |
-| Seven Research | Core Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) |
-| Seven Research | Algorithmic Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) |
 | Truveta | Software Engineering Intern | Seattle, WA | Intern | Unknown | No sponsorship | 2026-06-29 | Truveta | hybrid | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
 | Lila Sciences | Co-Op, LS AI, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-29 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
 | CTGT | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-26 | CTGT | summer | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
@@ -130,7 +126,6 @@ Total jobs: **186**
 | AXQ Capital | Quantitative Research Intern | New York | Intern | Unknown | Unknown | 2026-06-15 | AXQ Capital | winter, summer | [Apply](https://job-boards.greenhouse.io/axq/jobs/5575450004) |
 | Lila Sciences | Co-op, Mechanical Engineer | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-12 | Lila Sciences | summer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | Lila Sciences | Co-op, Machine Learning for Digital Twins | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-11 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) |
-| Lila Sciences | Co-Op, AI Security | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-11 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280945009) |
 | Etched | SI/PI Intern |  | Intern | Unknown | Unknown | 2026-06-10 | Etched |  | [Apply](https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3) |
 | Circleback | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-10 | Circleback | summer | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) |
 | Centerfield | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-06-09 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) |
