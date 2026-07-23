@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **184**
+Total jobs: **186**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **184**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 4 |
-| Unknown | 168 |
+| Unknown | 170 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 165 |
-| Data Analyst + TPM Roles | 9 |
-| Chemistry, Process, QA/QC Roles | 10 |
+| Data Analyst + TPM Roles | 10 |
+| Chemistry, Process, QA/QC Roles | 11 |
 
 ## US Citizen / Clearance Required
 
@@ -34,8 +34,8 @@ Total jobs: **184**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted Tod | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
 | Tencent | Cloud Media Services Intern | US-Washington-Bellevue · US-California-Palo Alto | Intern | Unknown | Unknown | Posted 7 D | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
+| Intel | AI Software Engineering Intern | US, Arizona, Phoenix | Intern | Unknown | Unknown | Posted 6 D | Intel |  | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 6 D | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
-| Intel | AI Software Engineering Intern | US, Arizona, Phoenix | Intern | Unknown | Unknown | Posted 5 D | Intel |  | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 30+ | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | Cisive | Software Development Intern | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) |
 | Cisive | Intern- Software Developer | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211) |
@@ -44,7 +44,9 @@ Total jobs: **184**
 | Ancestry | Machine Learning Engineer, Co-op | Remote | Intern | Unknown | Unknown | Posted 30+ | Ancestry | remote | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378) |
 | Altasciences | Process Innovation - Software Engineering Intern | Overland Park, Kansas | Intern | Unknown | Unknown | Posted 28 | Altasciences |  | [Apply](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Overland-Park-Kansas/Process-Innovation---Software-Engineering-Intern_R102750) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 21 | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
+| National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | Intern | Unknown | Unknown | Posted 14 | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | GE Appliances | Software Engineering Co-op_Spring 2027 | USA, Louisville, KY | Intern | Spring 2027 | Unknown | Posted 12 | GE Appliances | spring | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+| Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-23 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
 | Virtu Financial | Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-22 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-22 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
@@ -97,7 +99,6 @@ Total jobs: **184**
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-07-09 | Vital Lyfe | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) |
 | iHerb | Software Development Intern | United States of America - Remote / Home Office | Intern | Unknown | Unknown | 2026-07-08 | iHerb | remote | [Apply](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
-| Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-08 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | WindBorne Systems | Firmware Intern |  | Intern | Unknown | Unknown | 2026-07-06 | WindBorne Systems | summer | [Apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-07-06 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
@@ -111,7 +112,6 @@ Total jobs: **184**
 | Seven Research | Algorithmic Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) |
 | Truveta | Software Engineering Intern | Seattle, WA | Intern | Unknown | No sponsorship | 2026-06-29 | Truveta | hybrid | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
 | Lila Sciences | Co-Op, LS AI, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-29 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
-| ACLU Kentucky | Fall 2026 Undergraduate Intern, Technology and Analytics Department- Educate Pod | Remote/Hybrid- New York City | Intern | Fall 2026 | Unknown | 2026-06-29 | ACLU Kentucky | remote, hybrid, fall | [Apply](https://job-boards.greenhouse.io/acluinternships/jobs/8612266002) |
 | CTGT | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-26 | CTGT | summer | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
 | Lila Sciences | Co-Op, Next Gen Engineering | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
 | Lila Sciences | Co-Op, ML Scientist for Biology | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) |
@@ -203,6 +203,7 @@ Total jobs: **184**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Amentum | Business Analyst Internship - NISSC - COS | US-CO-Colorado Springs | Intern | Unknown | Unknown | Posted Yes | Amentum |  | [Apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Business-Analyst-Internship---NISSC---COS_R0166343) |
+| Motorola | Data Analyst Co-Op | Ontario Remote Work | Intern | Unknown | Unknown | Posted 7 D | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) |
 | Generac | Intern Engineering Program Manager | Pewaukee, WI - USA | Intern | Unknown | Unknown | Posted 30+ | Generac |  | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Intern-Engineering-Program-Manager_JR14727) |
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
 | Chevron Corporation | 2026-2027 Information Technology – Information and Analytics – Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-and-Analytics---Intern_R000071474) |
@@ -217,8 +218,9 @@ Total jobs: **184**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 9 D | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
-| Draper | Laboratory Research Co-Op | Cambridge, MA | Intern | Unknown | Unknown | Posted 7 D | Draper |  | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) |
-| Magna | Manufacturing Engineer - Co-op (4 months) | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 5 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
+| Draper | Laboratory Research Co-Op | Cambridge, MA | Intern | Unknown | Unknown | Posted 8 D | Draper |  | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) |
+| Magna | Manufacturing Engineer - Co-op (4 months) | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 6 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
+| National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 12 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Gotion | Process Engineer Intern | Manteno, Illinois | Intern | 2026 | Unknown | 2026-07-21 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8506211002) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-17 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
