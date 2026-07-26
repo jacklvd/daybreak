@@ -2,22 +2,22 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **230**
+Total jobs: **266**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 4 |
-| No sponsorship | 11 |
-| US citizen / clearance | 21 |
-| Unknown | 194 |
+| No sponsorship | 13 |
+| US citizen / clearance | 29 |
+| Unknown | 220 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 182 |
-| Data Analyst + TPM Roles | 14 |
-| Chemistry, Process, QA/QC Roles | 34 |
+| CS Roles | 214 |
+| Data Analyst + TPM Roles | 16 |
+| Chemistry, Process, QA/QC Roles | 36 |
 
 ## US Citizen / Clearance Required
 
@@ -44,6 +44,14 @@ Total jobs: **230**
 | Freedom Technology Solutions Group | Junior Application Developer 675 | Annapolis Junction, MD | New Grad | Unknown | US citizen / clearance | 2026-07-10 | Freedom Technology Solutions Group | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/freedomconsulting/jobs/5152289007) |
 | Inversion Space | Autonomy Engineer I, Arc Vehicle | Playa Vista, California, United States | New Grad | Unknown | US citizen / clearance | 2026-06-24 | Inversion Space | us-citizen | [Apply](https://job-boards.greenhouse.io/inversionspace/jobs/4705511005) |
 | True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
+| Wyetech | Software Engineer 1 | Annapolis Junction, Maryland · Laurel, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1783966511 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) |
+| Wyetech | Software Engineer 1 (DevOps) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1778001612 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8) |
+| Wyetech | Software Engineer 1 (Potential Telework) | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1776880198 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2) |
+| Wyetech | Software Tools Engineer 1 | Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1776699076 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e) |
+| Wyetech | Software Engineer 1 (DM) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1773859846 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7) |
+| PingWind | BI/Dashboard Software Engineer I | Alexandria, VA | New Grad | Unknown | US citizen / clearance | 1773855140 | PingWind | us-citizen | [Apply](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee) |
+| Wyetech | Test Engineer 1 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761236498 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/a00a1955-60ec-4db1-bede-97dddb6890b2) |
+| Wyetech | Software Engineer 0 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761235737 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034) |
 
 ## CS Roles
 
@@ -216,6 +224,38 @@ Total jobs: **230**
 | Perpay | Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4034578007) |
 | Cerebras | DevOps Engineer - New Grad 2026 |  | New Grad | 2026 | Unknown | 2026-05-11 | Cerebras |  | [Apply](https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735) |
 | True Anomaly | Flight Software Engineer I | Denver, CO or Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-04-29 | True Anomaly | us-citizen | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007) |
+| Datalab USA | Programmer Analyst - Marketing Analytics | Germantown, MD · Westminster, CO | New Grad | Unknown | No sponsorship | 1784988662 | Datalab USA | visa | [Apply](https://jobs.lever.co/datalabusa/aba07f9b-8cbd-40eb-badf-602e40c86dd1) |
+| Wyetech | Software Engineer 1 | Annapolis Junction, Maryland · Laurel, Maryland · Linthicum Heights, Maryland · Maryland · Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1783966511 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18) |
+| Stand Together | KAP 2026-2027 - AI-Native Builder / Platform Associate - Mercatus Center | Arlington, VA | Entry | 2026 | Unknown | 1782769057 | Stand Together |  | [Apply](https://jobs.lever.co/standtogether/92015b6f-ac8b-4b60-8afc-b193c95813db) |
+| Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL · New York, NY | New Grad | Unknown | Unknown | 1782744260 | Palantir |  | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | New Grad | Unknown | No sponsorship | 1781715537 | Datalab USA | visa | [Apply](https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885) |
+| Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | New Grad | Unknown | Unknown | 1781539682 | Palantir |  | [Apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
+| Wyetech | Software Engineer 1 (DevOps) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1778001612 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/9e0faa12-3b6a-4186-aa91-87b9a90e9de8) |
+| Stand Together | KAP 2026-2027 - Research Associate for Budget and Entitlement Policy - Cato Institute | Washington, DC | Entry | 2026 | Unknown | 1777472717 | Stand Together | remote, hybrid | [Apply](https://jobs.lever.co/standtogether/3c3668aa-8698-416c-ab60-35dcb84feece) |
+| Wyetech | Software Engineer 1 (Potential Telework) | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1776880198 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/00e1c676-92b4-400f-a44d-9a60a9fb88e2) |
+| Wyetech | Software Tools Engineer 1 | Ft. Meade, Maryland | New Grad | Unknown | US citizen / clearance | 1776699076 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/301f98af-3ebb-4159-8c3e-8405badd495e) |
+| CGS Federal (Contact Government Services) | Physical Security Specialist (PhySS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775506500 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/9eb82118-50c3-4cb9-818b-f15ed1477d6e) |
+| CGS Federal (Contact Government Services) | Program Security Officer (PSO) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775506246 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/372ddd0a-8870-4b88-bfba-5dd62a949308) |
+| CGS Federal (Contact Government Services) | Personnel Security Specialist (PerSS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775505986 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/bc55ce90-bad3-4a26-8b51-6ec64297cfae) |
+| Latitude | Entry Level Software Consultant (Data/Databases) | Baltimore, MD | New Grad | Unknown | Unknown | 1774554775 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/097d57a4-c69f-4a0b-9350-61bf9fea0434) |
+| Wyetech | Software Engineer 1 (DM) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1773859846 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7) |
+| PingWind | BI/Dashboard Software Engineer I | Alexandria, VA | New Grad | Unknown | US citizen / clearance | 1773855140 | PingWind | us-citizen | [Apply](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee) |
+| CGS Federal (Contact Government Services) | Workforce Developer (WD) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1773693511 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/39f4b9c0-fe8a-41cd-9646-692691ab7a42) |
+| Whoop | Software Engineer I (Frontend, Growth) | Boston, MA | New Grad | Unknown | Unknown | 1773692567 | Whoop |  | [Apply](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8) |
+| Latitude | Entry Level Low Code Developer/ Business Consultant (4 Day Work Week) | Baltimore, MD | New Grad | Unknown | Unknown | 1773348900 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/f5ab673a-c116-48c1-a9f6-9af70ae568b1) |
+| Whoop | Software Engineer I (Backend) | Boston, MA | New Grad | Fall 2026 | Unknown | 1771517825 | Whoop | fall | [Apply](https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8) |
+| Latitude | Entry Level Software Developer (Data & Database Focus) | Baltimore, MD | New Grad | Unknown | Unknown | 1771516010 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8) |
+| Ekimetrics | Junior Business Scientist, Data Science and Marketing Effectiveness | New York | New Grad | Unknown | Unknown | 1763654815 | Ekimetrics |  | [Apply](https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065) |
+| Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1761769632 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) |
+| Wyetech | Test Engineer 1 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761236498 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/a00a1955-60ec-4db1-bede-97dddb6890b2) |
+| Wyetech | Software Engineer 0 | Annapolis Junction, Maryland | New Grad | Unknown | US citizen / clearance | 1761235737 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/37094832-f2d0-46ce-968d-9c2369068034) |
+| Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1755596738 | Palantir |  | [Apply](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d) |
+| Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. · Seattle, WA · New York, NY | New Grad | Unknown | Unknown | 1755596238 | Palantir |  | [Apply](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) |
+| Palantir | Software Engineer, New Grad - Defense | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1750297066 | Palantir |  | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) |
+| Veeva Systems | Marketing Analytics - Client Services Associate - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1692105354 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/2d2cce21-bba9-42e7-b1b8-e5cf83ebe4c2) |
+| Veeva Systems | Marketing Analytics - Data Analyst - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1657816835 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea) |
+| Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. · New York, NY | New Grad | Unknown | Unknown | 1656629948 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) |
+| Palantir | Software Engineer, New Grad | New York, NY · Denver, CO | New Grad | Unknown | Unknown | 1625171097 | Palantir |  | [Apply](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) |
 | Schweitzer Engineering Laboratories | Software Engineer - Full Stack (React, TypeScript, C#, ASP.NET) | North Carolina - Charlotte | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer---Full-Stack--React--TypeScript--C---ASPNET-_2026-20869) |
 | Schweitzer Engineering Laboratories | Software Engineer - Full Stack | Washington - Lynnwood | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Lynnwood/Software-Engineer---Full-Stack_2026-22347) |
 | Schweitzer Engineering Laboratories | Software Engineer (AI/ML Tools focus) | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer--AI-ML-Tools-focus-_2026-21798) |
@@ -249,6 +289,8 @@ Total jobs: **230**
 | Appian | Associate Sales Operations Analyst (2026 Graduates) | McLean, Virginia | Entry | 2026 | Unknown | 2026-07-23 | Appian |  | [Apply](https://job-boards.greenhouse.io/appian/jobs/7939702) |
 | Jobs for Humanity | Junior Business Analyst | Atlanta, GA, us | New Grad | Unknown | Unknown | 2026-07-16 | Jobs for Humanity |  | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000138073459) |
 | Perpay | Junior Strategic Analyst | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4158121007) |
+| CGS Federal (Contact Government Services) | HR Data Analytics & Reporting Specialist (HRDARS) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775490854 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed) |
+| CGS Federal (Contact Government Services) | Analytics/Dashboarding Analyst (ADA) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1775228156 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/3c087454-4d74-4a3a-afe6-e2b18ca0fbfb) |
 | Fidelity International | Business Analyst – Customer Journeys Altersvorsorgedepot |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Kronberg-Office/Business-Analyst---Customer-Journeys-Altersvorsorgedepot_J68081) |
 
 ## Chemistry, Process, QA/QC Roles
@@ -287,5 +329,7 @@ Total jobs: **230**
 | STEM Healthcare | Junior Business Analyst | York, Pennsylvania | New Grad | Unknown | Unknown | 2026-07-07 | STEM Healthcare | remote, hybrid | [Apply](https://job-boards.greenhouse.io/stemhealthcare/jobs/7921675) |
 | Lila Sciences | Contractor, Support Engineer I, Automation (2nd shift) | Cambridge, MA USA | New Grad | Unknown | Unknown | 2026-06-30 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4249657009) |
 | Lila Sciences | Associate / Engineer I, ResOps, Synthesis | Cambridge, MA USA | New Grad | Unknown | Unknown | 2026-05-19 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4246303009) |
+| Stand Together | KAP 2026-2027 - Research Associate/Assistant - Foundation for Research on Equal Opportunity | Washington, DC | Entry | 2026 | Unknown | 1784664890 | Stand Together |  | [Apply](https://jobs.lever.co/standtogether/b3cf7705-7371-4570-ad1c-5ff9d042dc7b) |
+| Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | New Grad | Unknown | Unknown | 1782314243 | Hermeus |  | [Apply](https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43) |
 | Schweitzer Engineering Laboratories | Process Engineer- Inspection Systems | Idaho - Lewiston | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Process-Engineer--Inspection-Systems_2026-20290) |
 | Schweitzer Engineering Laboratories | Process Engineer | Washington - Pullman | Entry | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Process-Engineer_2026-21141) |
