@@ -45,9 +45,9 @@ Total open jobs: **573**
 
 | Type | Count |
 | --- | ---: |
-| Internships | 210 |
-| New grad | 228 |
-| Entry level | 135 |
+| Internships | 209 |
+| New grad | 225 |
+| Entry level | 139 |
 
 | Work Auth Signal | Count |
 | --- | ---: |
@@ -58,7 +58,7 @@ Total open jobs: **573**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 467 |
+| CS Roles | 468 |
 | Data Analyst + TPM Roles | 31 |
-| Chemistry, Process, QA/QC Roles | 75 |
+| Chemistry, Process, QA/QC Roles | 74 |
 <!-- JOBS:END -->
