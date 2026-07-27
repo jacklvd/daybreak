@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **266**
+Total jobs: **262**
 
 [Back to summary](README.md)
 
@@ -11,19 +11,19 @@ Total jobs: **266**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 13 |
 | US citizen / clearance | 29 |
-| Unknown | 220 |
+| Unknown | 216 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 214 |
+| CS Roles | 211 |
 | Data Analyst + TPM Roles | 16 |
-| Chemistry, Process, QA/QC Roles | 36 |
+| Chemistry, Process, QA/QC Roles | 35 |
 
 ## US Citizen / Clearance Required
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | Katalyst Space Technologies | Software Engineer I, Modeling and Simulation | Broomfield, Colorado, United States | New Grad | Unknown | US citizen / clearance | 2026-07-24 | Katalyst Space Technologies | us-citizen | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6115352004) |
 | Rocket Lab USA | Additive Manufacturing Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-23 | Rocket Lab USA | hybrid, us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7814229003) |
@@ -57,6 +57,7 @@ Total jobs: **266**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cox | Manheim Mobile Vehicle Inspector II | Remote - Kansas · Remote - Tennessee | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas/Manheim-Mobile-Vehicle-Inspector-II_R202680504) |
 | Radiance Technologies | Junior Software Engineer | Huntsville, AL · Stennis Space Center, MS | New Grad | Unknown | Unknown | Posted 9 D | Radiance Technologies |  | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Junior-Software-Engineer_HR102303) |
 | Nidec | Software Engineer I | North America/USA/Missouri/St. Louis - WPE, MO | New Grad | Unknown | Unknown | Posted 9 D | Nidec |  | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664) |
 | Cox | Manheim Mobile Vehicle Inspector, Virginia Beach, VA | Remote - Virginia | Entry | Unknown | Unknown | Posted 9 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Virginia/Manheim-Mobile-Vehicle-Inspector--Virginia-Beach--VA_R202680172) |
@@ -79,7 +80,6 @@ Total jobs: **266**
 | NVIDIA | Developer Technology Engineer, Public Sector - New College Grad 2026 | US, CA, Santa Clara | New Grad | 2026 | Unknown | Posted 4 D | NVIDIA Careers |  | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) |
 | Danaher Corporation | Software Engineer I | USA - Indianapolis - Lakeview Parkway - Multiple OpCo | New Grad | Unknown | Unknown | Posted 4 D | Danaher Corporation |  | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) |
 | Cox | Manheim Vehicle Mobile Inspector Dallas, TX | Remote - Texas | Entry | Unknown | Unknown | Posted 4 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Manheim-Vehicle-Mobile-Inspector-Dallas--TX_R202680334-1) |
-| Cox | Manheim Mobile Vehicle Inspector II | Remote - Tennessee | Entry | Unknown | Unknown | Posted 4 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Tennessee/Manheim-Mobile-Vehicle-Inspector-II_R202680145) |
 | University of Maryland - College Park | Junior Data Engineer (Faculty Specialist) | University of Maryland College Park | New Grad | Unknown | Unknown | Posted 30+ | University of Maryland - College Park |  | [Apply](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102) |
 | Torch Technologies | Software Design Engineer 1 | Huntsville, AL | New Grad | Unknown | Unknown | Posted 30+ | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Design-Engineer-1_R980) |
 | Torch Technologies | Junior Test Engineer | Huntsville, AL | New Grad | Unknown | Unknown | Posted 30+ | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Test-Engineer_R828) |
@@ -124,7 +124,7 @@ Total jobs: **266**
 | Roblox | [2026] Data Scientist, Social | San Mateo, CA, United States | Entry | Fall 2026 | No sponsorship | 2026-07-26 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) |
 | Roblox | Software Engineer, Data Engineering | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-26 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | Roblox | Software Engineer, Ads Platform | San Mateo, CA, United States | New Grad | Unknown | No sponsorship | 2026-07-26 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) |
-| SpaceX | New Graduate Engineer, Software (Starlink) | Redmond, WA · Sunnyvale, CA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) |
+| SpaceX | New Graduate Engineer, Software (Starlink) | Sunnyvale, CA · Redmond, WA · Bastrop, TX | New Grad | Spring 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen, fall, spring, summer | [Apply](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | New Grad | 2026 | US citizen / clearance | 2026-07-24 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) |
 | RoadRunner Recycling | Software Engineer I (Full -Stack) | Remote - USA | New Grad | Unknown | No sponsorship | 2026-07-24 | RoadRunner Recycling | remote, visa | [Apply](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) |
 | Katalyst Space Technologies | Software Engineer I, Modeling and Simulation | Broomfield, Colorado, United States | New Grad | Unknown | US citizen / clearance | 2026-07-24 | Katalyst Space Technologies | us-citizen | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6115352004) |
@@ -241,9 +241,7 @@ Total jobs: **266**
 | Wyetech | Software Engineer 1 (DM) | Linthicum Heights, Maryland | New Grad | Unknown | US citizen / clearance | 1773859846 | Wyetech | us-citizen | [Apply](https://jobs.lever.co/wyetechllc/63a3c4e8-35a8-45b7-8e93-b5bef6894fa7) |
 | PingWind | BI/Dashboard Software Engineer I | Alexandria, VA | New Grad | Unknown | US citizen / clearance | 1773855140 | PingWind | us-citizen | [Apply](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee) |
 | CGS Federal (Contact Government Services) | Workforce Developer (WD) – Junior | Washington, DC | New Grad | Unknown | Unknown | 1773693511 | CGS Federal (Contact Government Services) |  | [Apply](https://jobs.lever.co/cgsfederal/39f4b9c0-fe8a-41cd-9646-692691ab7a42) |
-| Whoop | Software Engineer I (Frontend, Growth) | Boston, MA | New Grad | Unknown | Unknown | 1773692567 | Whoop |  | [Apply](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8) |
 | Latitude | Entry Level Low Code Developer/ Business Consultant (4 Day Work Week) | Baltimore, MD | New Grad | Unknown | Unknown | 1773348900 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/f5ab673a-c116-48c1-a9f6-9af70ae568b1) |
-| Whoop | Software Engineer I (Backend) | Boston, MA | New Grad | Fall 2026 | Unknown | 1771517825 | Whoop | fall | [Apply](https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8) |
 | Latitude | Entry Level Software Developer (Data & Database Focus) | Baltimore, MD | New Grad | Unknown | Unknown | 1771516010 | Latitude |  | [Apply](https://jobs.lever.co/latitudeinc/4afc4fa6-2729-4de4-89bf-cda1209fb0d8) |
 | Ekimetrics | Junior Business Scientist, Data Science and Marketing Effectiveness | New York | New Grad | Unknown | Unknown | 1763654815 | Ekimetrics |  | [Apply](https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1761769632 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) |
@@ -270,7 +268,6 @@ Total jobs: **266**
 | Fidelity International | Software Engineer |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Dalian-Office/Software-Engineer_J69333) |
 | Fidelity International | Product Owner – Advisor Journeys & API Platform |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Kronberg-Office/Product-Owner---FFBWEB-Platform_J68307) |
 | Fidelity International | Full Stack Developer |  | Entry | 2026 | Unknown |  | Fidelity International |  | [Apply](https://fil.wd3.myworkdayjobs.com/001/job/Kronberg-Office/Manager-Software-Development_J66841) |
-| Blackstone | 2027 Blackstone Infrastructure Partners Investment Analyst | New York | Entry | 2027 | Unknown |  | Blackstone |  | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Infrastructure-Partners-Investment-Analyst_44143) |
 
 ## Data Analyst + TPM Roles
 
@@ -299,7 +296,6 @@ Total jobs: **266**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | The Boeing Company | Manufacturing Engineer - Structures & Propulsion - 1st Shift - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Manufacturing-Engineer---Structures---Propulsion---1st-Shift---Millennium-Space-Systems_JR2026516617-1) |
 | The Boeing Company | Experienced Manufacturing Engineer | USA - Fort Walton Beach, FL | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Fort-Walton-Beach-FL/Experienced-Manufacturing-Engineer_JR2026517997-1) |
-| State of North Carolina | GeoMaterials Laboratory Technician I | Wake County, NC | Entry | 2026 | Unknown | Posted 5 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/GeoMaterials-Laboratory-Technician-I_JR-120315-1) |
 | Smithfield Foods | Materials Buyer | Smithfield, VA | Entry | 2026 | Unknown | Posted 5 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Materials-Buyer_R-2026-9749) |
 | Dexcom | Process Development Engineer 1 | San Diego, California | New Grad | Unknown | Unknown | Posted 5 D | Dexcom |  | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Process-Development-Engineer-1_JR119872-1) |
 | State of North Carolina | Medical Laboratory Technologist I / NBS Medical Laboratory Technologist I | Wake County, NC | Entry | 2026 | Unknown | Posted 4 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Medical-Laboratory-Technologist-I---NBS-Medical-Laboratory-Technologist-I_JR-119434) |
