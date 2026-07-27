@@ -15,8 +15,8 @@ Total jobs: **210**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 186 |
-| Data Analyst + TPM Roles | 10 |
+| CS Roles | 187 |
+| Data Analyst + TPM Roles | 9 |
 | Chemistry, Process, QA/QC Roles | 14 |
 
 ## US Citizen / Clearance Required
@@ -56,9 +56,10 @@ Total jobs: **210**
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Voloridge | Quantitative Research Fellowship 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009) |
 | Voloridge | Quantitative Developer Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
-| Toshiba Global Commerce | Product & Business Analytics Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) |
+| Toshiba Global Commerce | Product & Business Analytics Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) |
 | Toshiba Global Commerce | Agentic Software Engineering intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) |
-| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
+| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
+| Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-27 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
 | Appian | Information Security Engineer Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-07-27 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | Quadrillion | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-07-24 | Quadrillion | summer | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
 | PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | Intern | Summer 2027 | Unknown | 2026-07-24 | PDT Partners | fall, summer | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
@@ -215,7 +216,7 @@ Total jobs: **210**
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | Intern | Unknown | Unknown | 1722899672 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1475793251 | Palantir |  | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Techtronic Industries | Lab Power Platform Development Intern | Anderson, SC | Intern | Unknown | Unknown |  | Techtronic Industries |  | [Apply](https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Lab-Power-Platform-Development-Intern_R71591) |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | Idaho - Boise | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
+| Schweitzer Engineering Laboratories | Engineering Intern - Security | North Carolina - Charlotte | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern---Security_2026-22388) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 
@@ -228,7 +229,6 @@ Total jobs: **210**
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
 | Chevron Corporation | 2026-2027 Information Technology – Information and Analytics – Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-and-Analytics---Intern_R000071474) |
 | thyssenkrupp | Analytics Intern | Cleveland, Ohio USA | Intern | Unknown | Unknown | Posted 27 | thyssenkrupp |  | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) |
-| Motorola | Data Analyst Co-Op | Ontario Remote Work | Intern | Unknown | Unknown | Posted 12 | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) |
 | Moog | Intern, IT Computer Science - Data Analytics | Buffalo, NY | Intern | Unknown | Unknown | Posted 11 | Moog |  | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | FCC2 Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Academy Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) |
@@ -245,10 +245,10 @@ Total jobs: **210**
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 14 | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | Draper | Laboratory Research Co-Op | Cambridge, MA | Intern | Unknown | Unknown | Posted 12 | Draper |  | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) |
 | Magna | Manufacturing Engineer - Co-op (4 months) | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 10 | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
+| Excel Sports Management | Fall 2026 Intern, Analytics | Chicago, Illinois, United States | Intern | Fall 2026 | Unknown | 2026-07-27 | Excel Sports Management | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-24 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
 | Lila Sciences | Co-op, Electrosynthesis | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-24 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) |
 | Gotion | Process Engineer Intern | Manteno, Illinois | Intern | 2026 | Unknown | 2026-07-21 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8506211002) |
-| Excel Sports Management | Fall 2026 Intern, Analytics | Chicago, Illinois, United States | Intern | Fall 2026 | Unknown | 2026-07-21 | Excel Sports Management | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) |
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
 | LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |
 | Periodic Labs | Nanofabrication Intern - Summer 2026 |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-05-26 | Periodic Labs | visa, summer | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) |
