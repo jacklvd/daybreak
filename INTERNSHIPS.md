@@ -2,21 +2,21 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **209**
+Total jobs: **207**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 10 |
-| No sponsorship | 9 |
+| No sponsorship | 7 |
 | US citizen / clearance | 4 |
 | Unknown | 186 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 187 |
-| Data Analyst + TPM Roles | 9 |
+| CS Roles | 186 |
+| Data Analyst + TPM Roles | 8 |
 | Chemistry, Process, QA/QC Roles | 13 |
 
 ## US Citizen / Clearance Required
@@ -67,15 +67,15 @@ Total jobs: **209**
 | Apptronik | Software Engineer Intern - ML Systems | Onsite - Austin, TX | Intern | Unknown | Unknown | 2026-07-27 | Apptronik | fall | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | Appian | Information Security Engineer Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-07-27 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-27 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
+| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
+| Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
+| Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Quadrillion | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-07-24 | Quadrillion | summer | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
 | PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | Intern | Summer 2027 | Unknown | 2026-07-24 | PDT Partners | fall, summer | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Lila Sciences | Co-Op, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-07-24 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-07-24 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Intern | Unknown | Unknown | 2026-07-24 | Databricks |  | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
-| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-24 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
-| Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-24 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
-| Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-24 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
-| Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-07-24 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-23 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Tenstorrent | Software Engineering Intern, Power Modeling & AI Tools | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-23 | Tenstorrent | fall, winter, summer | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) |
 | Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-23 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
@@ -93,6 +93,8 @@ Total jobs: **209**
 | Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, us | Intern | Summer 2027 | Unknown | 2026-07-20 | Western Digital Careers | summer | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 | The Trade Desk | 2027 North America Software Engineering Internship | Bellevue; Boulder; Denver; Irvine; New York; Seattle | Intern | Summer 2027 | Unknown | 2026-07-20 | The Trade Desk | summer | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Output Biosciences | Research Intern (PhD), Machine Learning |  | Intern | Unknown | Unknown | 2026-07-20 | Output Biosciences |  | [Apply](https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239) |
+| Five Rings Capital | Summer Intern 2027 - Software Developer | New York | Intern | Summer 2027 | Unknown | 2026-07-20 | Five Rings Capital | summer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| Five Rings Capital | Summer Intern 2027 - Quantitative Researcher (PhD) | New York | Intern | Summer 2027 | Unknown | 2026-07-20 | Five Rings Capital | summer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-07-20 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) |  | Intern | Summer 2026 | Unknown | 2026-07-17 | Deepgram | fall, summer | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) |
 | Composio | Full-stack Intern |  | Intern | Unknown | Unknown | 2026-07-17 | Composio |  | [Apply](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9) |
@@ -100,7 +102,7 @@ Total jobs: **209**
 | Cybernetic Labs | Software Engineer (Agent Platform) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
+| Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
 | Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | remote, hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) |  | Intern | Fall 2027 | Unknown | 2026-07-14 | Georgian Partners Growth | fall | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
@@ -127,9 +129,7 @@ Total jobs: **209**
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | WindBorne Systems | Firmware Intern |  | Intern | Unknown | Unknown | 2026-07-06 | WindBorne Systems | summer | [Apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York, NY | Intern | Summer 2026 | Unknown | 2026-07-03 | Eulerity | hybrid, summer | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) |
-| Sila Nanotechnologies | Battery Simulation & Computational Scientist Internship | Alameda, CA | Intern | Unknown | Unknown | 2026-07-02 | Sila Nanotechnologies | remote, summer | [Apply](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) |
 | Apptronik | Robotics Software Intern – Real-Time Controls | Austin, TX | Intern | Unknown | Unknown | 2026-07-02 | Apptronik |  | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
-| The Wonderful Company | Intern, Business Systems Analyst (Summer Internship) | Shafter, CA, us · Del Rey, CA, us | Intern | Unknown | Unknown | 2026-07-01 | The Wonderful Company | summer | [Apply](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439) |
 | Seven Research | Quantitative Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) |
 | Seven Research | Deep Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) |
 | Seven Research | Core Developer - Intern | New York | Intern | Unknown | Unknown | 2026-07-01 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008) |
@@ -180,7 +180,6 @@ Total jobs: **209**
 | Astera | Software Engineering Intern – Distributed Simulation Systems |  | Intern | Unknown | No sponsorship | 2026-05-13 | Astera | hybrid, visa | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) |
 | Phonely | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-05-08 | Phonely |  | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) |
 | kos.ai | Software Engineer Intern |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-05-07 | kos.ai | visa | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) |
-| Integra FEC | (FALL) Data Scientist Intern - PhD | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
 | Palantir | Forward Deployed Software Engineer, Internship - Intel | Washington, D.C. | Intern | Unknown | Unknown | 1782933745 | Palantir |  | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782849666 | Palantir |  | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL · New York, NY | Intern | Unknown | Unknown | 1782328394 | Palantir |  | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
@@ -232,7 +231,6 @@ Total jobs: **209**
 | Moog | Intern, IT Computer Science - Data Analytics | Buffalo, NY | Intern | Unknown | Unknown | Posted 11 | Moog |  | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | FCC2 Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Academy Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741524003) |
-| Integra FEC | (FALL) Data Analyst Intern | Austin, Texas | Intern | Unknown | No sponsorship | 2026-04-28 | Integra FEC | visa, fall | [Apply](https://job-boards.greenhouse.io/integra/jobs/5134522008) |
 
 ## Chemistry, Process, QA/QC Roles
 
