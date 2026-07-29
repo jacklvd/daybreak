@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **207**
+Total jobs: **206**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **207**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 7 |
 | US citizen / clearance | 4 |
-| Unknown | 186 |
+| Unknown | 185 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 186 |
 | Data Analyst + TPM Roles | 8 |
-| Chemistry, Process, QA/QC Roles | 13 |
+| Chemistry, Process, QA/QC Roles | 12 |
 
 ## US Citizen / Clearance Required
 
@@ -55,8 +55,9 @@ Total jobs: **207**
 | Revvity | Full-Stack AI Developer Intern | CAD Remote – ON | Intern | Unknown | Unknown | Posted 14 | Revvity | remote | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 13 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | Bosch Group | Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps | Wernau (Neckar), BW, de | Intern | Unknown | Unknown | 2026-07-29 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140419439) |
+| Bosch Group | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, us | Intern | Unknown | Unknown | 2026-07-29 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) |
+| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-29 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Bosch Group | ADAS Software Engineering Intern | Plymouth, MI, us | Intern | Unknown | Unknown | 2026-07-28 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140317669) |
-| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-28 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Voloridge | Quantitative Research Fellowship 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009) |
 | Voloridge | Quantitative Developer Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
@@ -103,7 +104,7 @@ Total jobs: **207**
 | Cybernetic Labs | Software Engineer (Agent Platform) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
+| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
 | Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | remote, hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) |  | Intern | Fall 2027 | Unknown | 2026-07-14 | Georgian Partners Growth | fall | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
@@ -199,7 +200,6 @@ Total jobs: **207**
 | PlusAI | Full Stack Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811243 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
 | Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
-| Hermeus | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | Intern | Fall 2026 | Unknown | 1776452842 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |
 | Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1776449704 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Intern | Unknown | Unknown | 1775149255 | SoloPulse |  | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
 | Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1775012520 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
@@ -248,4 +248,3 @@ Total jobs: **207**
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |
 | LLNL | Materials Science Division Undergraduate Intern - Fall 2026 | Livermore, CA, us | Intern | Fall 2026 | Unknown | 2026-06-15 | Lawrence Livermore National Laboratory (LLNL) | fall | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013626030) |
 | Periodic Labs | Nanofabrication Intern - Summer 2026 |  | Intern | Summer 2026 | Sponsors / OPT-CPT likely | 2026-05-26 | Periodic Labs | visa, summer | [Apply](https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a) |
-| Johnson & Johnson | Digital Developer Intern |  | Intern | Unknown | Unknown |  | Johnson & Johnson |  | [Apply](https://www.careers.jnj.com/en/jobs/r-088818/digital-developer-intern/) |
