@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **205**
+Total jobs: **203**
 
 [Back to summary](README.md)
 
@@ -11,12 +11,12 @@ Total jobs: **205**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 7 |
 | US citizen / clearance | 4 |
-| Unknown | 185 |
+| Unknown | 183 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 186 |
-| Data Analyst + TPM Roles | 8 |
+| CS Roles | 185 |
+| Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
 ## US Citizen / Clearance Required
@@ -37,7 +37,7 @@ Total jobs: **205**
 | Draper | Electronics & Embedded Systems Intern (Summer 2027) | Cambridge, MA | Intern | Summer 2027 | Unknown | Posted Yes | Draper | summer | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735) |
 | Motorola | Software Engineering, Co-Op | Massachusetts, US Offsite, More... | Intern | Unknown | Unknown | Posted Tod | Motorola |  | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | Intern | Unknown | Unknown | Posted Tod | Intel |  | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
-| BorgWarner | Software Application Engineering Intern (Year Round) | Auburn Hills - Michigan - USA | Intern | Unknown | Unknown | Posted Tod | BorgWarner |  | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645) |
+| General Dynamics Information Technology | Systems Engineer Intern | USA NY Albany | Intern | Unknown | Unknown | Posted Tod | General Dynamics Information Technology |  | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NY-Albany/Systems-Engineer-Intern_RQ225289-1) |
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 8 D | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Quebec, CAN - Remote | Intern | Unknown | Unknown | Posted 8 D | Autodesk | remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 7 D | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
@@ -104,8 +104,8 @@ Total jobs: **205**
 | Cybernetic Labs | Software Engineer (Agent Platform) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
-| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | remote, hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
+| Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
+| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) |  | Intern | Fall 2027 | Unknown | 2026-07-14 | Georgian Partners Growth | fall | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
@@ -177,7 +177,6 @@ Total jobs: **205**
 | Etched | Chip Simulation Software Intern |  | Intern | Unknown | Unknown | 2026-05-19 | Etched | fall, spring, summer | [Apply](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) |
 | Saronic | Software Engineer Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-05-18 | Saronic | fall | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
 | Docugami | Software Engineering Intern | Kirkland, Washington, United States | Intern | Unknown | Unknown | 2026-05-15 | Docugami |  | [Apply](https://job-boards.greenhouse.io/docugami/jobs/4014838003) |
-| Eulerity | Android Developer Intern | New York, New York | Intern | Unknown | Unknown | 2026-05-14 | Eulerity |  | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) |
 | Astera | Software Engineering Intern – Distributed Simulation Systems |  | Intern | Unknown | No sponsorship | 2026-05-13 | Astera | hybrid, visa | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066) |
 | Phonely | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-05-08 | Phonely |  | [Apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) |
 | kos.ai | Software Engineer Intern |  | Intern | Unknown | Sponsors / OPT-CPT likely | 2026-05-07 | kos.ai | visa | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3) |
@@ -226,7 +225,6 @@ Total jobs: **205**
 | Solar Turbines | 2027 Business Analyst Intern | San Diego, California | Intern | 2027 | Unknown | Posted 6 D | Solar Turbines |  | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) |
 | RFCUNY | Data Analyst Intern | New York, NY | Intern | Unknown | Unknown | Posted 30+ | RFCUNY |  | [Apply](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987) |
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
-| Chevron Corporation | 2026-2027 Information Technology – Information and Analytics – Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-and-Analytics---Intern_R000071474) |
 | thyssenkrupp | Analytics Intern | Cleveland, Ohio USA | Intern | Unknown | Unknown | Posted 29 | thyssenkrupp |  | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) |
 | Moog | Intern, IT Computer Science - Data Analytics | Buffalo, NY | Intern | Unknown | Unknown | Posted 13 | Moog |  | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | FCC2 Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003) |
