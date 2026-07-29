@@ -45,16 +45,16 @@ Total open jobs: **560**
 
 | Type | Count |
 | --- | ---: |
-| Internships | 207 |
-| New grad | 218 |
-| Entry level | 135 |
+| Internships | 204 |
+| New grad | 216 |
+| Entry level | 140 |
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 14 |
 | No sponsorship | 19 |
-| US citizen / clearance | 42 |
-| Unknown | 485 |
+| US citizen / clearance | 41 |
+| Unknown | 486 |
 
 | Track | Count |
 | --- | ---: |

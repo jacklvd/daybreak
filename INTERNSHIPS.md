@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **207**
+Total jobs: **204**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **207**
 | Sponsors / OPT-CPT likely | 10 |
 | No sponsorship | 7 |
 | US citizen / clearance | 4 |
-| Unknown | 186 |
+| Unknown | 183 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 187 |
+| CS Roles | 184 |
 | Data Analyst + TPM Roles | 8 |
 | Chemistry, Process, QA/QC Roles | 12 |
 
@@ -32,14 +32,12 @@ Total jobs: **207**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Motorola | Systems Engineer (CO-OP Program) | Texas Remote Work, More... | Intern | Unknown | Unknown | Posted Tod | Motorola | remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Systems-Engineer--CO-OP-Program-_R66970) |
 | Magna | IoT Systems Engineer - Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted Tod | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
 | Magna | AI Solutions Developer Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted Tod | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) |
 | Draper | Electronics & Embedded Systems Intern (Summer 2027) | Cambridge, MA | Intern | Summer 2027 | Unknown | Posted Tod | Draper | summer | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735) |
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 7 D | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Quebec, CAN - Remote | Intern | Unknown | Unknown | Posted 7 D | Autodesk | remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 6 D | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
-| Moog | Intern, Software Engineering | Buffalo, NY | Intern | Unknown | Unknown | Posted 6 D | Moog |  | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1) |
 | Hewlett Packard (HP) | Software Engineering Intern, Device Experiences | San Francisco, California, United States of America | Intern | Unknown | Unknown | Posted 6 D | Hewlett Packard (HP) |  | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166) |
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 4 D | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Intern | Unknown | Unknown | Posted 30+ | Marvell |  | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) |
@@ -100,7 +98,6 @@ Total jobs: **207**
 | Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-07-20 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) |  | Intern | Summer 2026 | Unknown | 2026-07-17 | Deepgram | fall, summer | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) |
 | Composio | Full-stack Intern |  | Intern | Unknown | Unknown | 2026-07-17 | Composio |  | [Apply](https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9) |
-| Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, MN, us | Intern | Winter 2027 | Unknown | 2026-07-16 | Western Digital Careers | winter | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138184309) |
 | Cybernetic Labs | Software Engineer (Agent Platform) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
