@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **201**
+Total jobs: **198**
 
 [Back to summary](README.md)
 
@@ -10,12 +10,12 @@ Total jobs: **201**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 7 |
-| US citizen / clearance | 4 |
-| Unknown | 181 |
+| US citizen / clearance | 2 |
+| Unknown | 180 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 184 |
+| CS Roles | 181 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 10 |
 
@@ -23,10 +23,8 @@ Total jobs: **201**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-07-13 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
+| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-30 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
-| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
-| Varda Space | Flight Software Internship - Fall 2026 | El Segundo, California, United States | Intern | Fall 2026 | US citizen / clearance | 2026-06-24 | Varda Space | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
 
 ## CS Roles
 
@@ -55,9 +53,10 @@ Total jobs: **201**
 | Draper | Electronics & Embedded Systems Intern (Summer 2027) | Cambridge, MA | Intern | Summer 2027 | Unknown | Posted 2 D | Draper | summer | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735) |
 | Revvity | Full-Stack AI Developer Intern | CAD Remote – ON | Intern | Unknown | Unknown | Posted 15 | Revvity | remote | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 14 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
+| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-30 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
+| DRW | Quantitative Research Intern | Chicago, New York City | Intern | Summer 2027 | Unknown | 2026-07-30 | DRW | summer | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-29 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Virtu Financial | 2027 Internship - Frontend & User Experience | New York | Intern | Summer 2027 | Unknown | 2026-07-29 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| Bosch Group | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, us | Intern | Unknown | Unknown | 2026-07-29 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) |
 | Apptronik | Software Engineer Intern - ML Systems | Onsite - Austin, TX | Intern | Unknown | Unknown | 2026-07-29 | Apptronik | fall | [Apply](https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-29 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
@@ -113,7 +112,6 @@ Total jobs: **201**
 | Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | hybrid, summer | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
-| Varda Space | Flight Software (C++) Internship - Summer 2026 | El Segundo, California, United States | Intern | Summer 2026 | US citizen / clearance | 2026-07-13 | Varda Space | us-citizen, summer | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/6824788003) |
 | Serval | Software Engineer Intern |  | Intern | 2026 | Unknown | 2026-07-13 | Serval |  | [Apply](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | Intern | Summer 2027 | Unknown | 2026-07-13 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Point72 | Quantitative Research Intern (NLP) | New York | Intern | Unknown | Unknown | 2026-07-13 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
@@ -121,13 +119,11 @@ Total jobs: **201**
 | Point72 | Quantitative Developer Intern | New York | Intern | Unknown | Unknown | 2026-07-13 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
 | Point72 | Machine Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-07-13 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | Persona AI | Teleoperation Software Engineering Internship |  | Intern | Spring 2026 | Unknown | 2026-07-13 | Persona AI | remote, fall, spring | [Apply](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) |
-| DRW | Quantitative Research Intern | Chicago, New York City | Intern | Summer 2027 | Unknown | 2026-07-13 | DRW | summer | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | Pylon | Software Engineer, Intern |  | Intern | Summer 2026 | Unknown | 2026-07-10 | Pylon | summer | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) |
 | Meshy | Infrastructure Intern |  | Intern | Unknown | Unknown | 2026-07-10 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/c2f596a3-378c-4a57-b2cd-0bccd88866d7) |
 | Clarity Innovations | Junior Software Engineer Internship | Herndon, VA | Intern | Unknown | US citizen / clearance | 2026-07-10 | Clarity Innovations | us-citizen | [Apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |
 | Vital Lyfe | Software Engineering Internship - Fall 2026 |  | Intern | Fall 2026 | Unknown | 2026-07-09 | Vital Lyfe | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af) |
 | iHerb | Software Development Intern | United States of America - Remote / Home Office | Intern | Unknown | Unknown | 2026-07-08 | iHerb | remote | [Apply](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
-| STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-07 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | WindBorne Systems | Firmware Intern |  | Intern | Unknown | Unknown | 2026-07-06 | WindBorne Systems | summer | [Apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York, NY | Intern | Summer 2026 | Unknown | 2026-07-03 | Eulerity | hybrid, summer | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) |
 | Apptronik | Robotics Software Intern – Real-Time Controls | Austin, TX | Intern | Unknown | Unknown | 2026-07-02 | Apptronik |  | [Apply](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
@@ -141,7 +137,6 @@ Total jobs: **201**
 | Lila Sciences | Co-Op, Next Gen Engineering | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
 | Lila Sciences | Co-Op, ML Scientist for Biology | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) |
 | Lila Sciences | Co-Op, Automation | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009) |
-| Varda Space | Flight Software Internship - Fall 2026 | El Segundo, California, United States | Intern | Fall 2026 | US citizen / clearance | 2026-06-24 | Varda Space | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7676465003) |
 | Phamily | Business Intelligence & Data Analytics Intern (Undergraduate) | New York, NY | Intern | 2026 | Unknown | 2026-06-24 | Phamily | remote, hybrid | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) |
 | Neuralink | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) |
 | Neuralink | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
