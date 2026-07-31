@@ -38,27 +38,27 @@ search and filters, or click any **Apply** link in the tables below.
 <!-- JOBS:START -->
 ## Current Jobs
 
-Total open jobs: **528**
+Total open jobs: **520**
 
 - [Internships](INTERNSHIPS.md)
 - [New Grad + Entry Level](NEW_GRAD.md)
 
 | Type | Count |
 | --- | ---: |
-| Internships | 191 |
-| New grad | 210 |
-| Entry level | 127 |
+| Internships | 192 |
+| New grad | 205 |
+| Entry level | 123 |
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 13 |
-| No sponsorship | 19 |
-| US citizen / clearance | 38 |
-| Unknown | 458 |
+| No sponsorship | 21 |
+| US citizen / clearance | 36 |
+| Unknown | 450 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 433 |
-| Data Analyst + TPM Roles | 25 |
-| Chemistry, Process, QA/QC Roles | 70 |
+| CS Roles | 426 |
+| Data Analyst + TPM Roles | 26 |
+| Chemistry, Process, QA/QC Roles | 68 |
 <!-- JOBS:END -->

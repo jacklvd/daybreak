@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **191**
+Total jobs: **192**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **191**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 7 |
 | US citizen / clearance | 2 |
-| Unknown | 173 |
+| Unknown | 174 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 175 |
+| CS Roles | 176 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 9 |
 
@@ -52,11 +52,12 @@ Total jobs: **191**
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 15 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 10 | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Quebec, CAN - Remote | Intern | Unknown | Unknown | Posted 10 | Autodesk | remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
+| Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | Intern | Summer 2027 | Unknown | 2026-07-31 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
+| Persona AI | Machine Learning Intern, Manipulation |  | Intern | Spring 2026 | Unknown | 2026-07-31 | Persona AI | fall, spring | [Apply](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-30 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Persona AI | Teleoperation Software Engineering Internship |  | Intern | Spring 2026 | Unknown | 2026-07-30 | Persona AI | remote, fall, spring | [Apply](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) |
 | DRW | Quantitative Research Intern | Chicago, New York City | Intern | Summer 2027 | Unknown | 2026-07-30 | DRW | summer | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | Intern | Summer 2027 | Unknown | 2026-07-29 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
-| Virtu Financial | 2027 Internship - Frontend & User Experience | New York | Intern | Summer 2027 | Unknown | 2026-07-29 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-07-29 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Voloridge | Quantitative Research Fellowship 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009) |
@@ -100,7 +101,7 @@ Total jobs: **191**
 | Cybernetic Labs | Software Engineer (Agent Platform) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
+| Tenstorrent | Software Intern - AI Compilers | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501189007) |
 | Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) |  | Intern | Fall 2027 | Unknown | 2026-07-14 | Georgian Partners Growth | fall | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
