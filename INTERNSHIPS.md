@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **194**
+Total jobs: **193**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **194**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 7 |
 | US citizen / clearance | 2 |
-| Unknown | 176 |
+| Unknown | 175 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 177 |
 | Data Analyst + TPM Roles | 7 |
-| Chemistry, Process, QA/QC Roles | 10 |
+| Chemistry, Process, QA/QC Roles | 9 |
 
 ## US Citizen / Clearance Required
 
@@ -227,7 +227,6 @@ Total jobs: **194**
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | IDEX | Manufacturing Engineer Intern | Linthicum, Maryland | Intern | Unknown | Unknown | Posted 30+ | IDEX |  | [Apply](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Linthicum-Maryland/Manufacturing-Engineer-Intern_R-09266) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 20 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
-| Nidec | Quality Laboratory Intern | North America/USA/Georgia/Suwanee, GA | Intern | Unknown | Unknown | Posted 2 D | Nidec |  | [Apply](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAGeorgiaSuwanee-GA/Quality-Laboratory-Intern_R0016865) |
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 17 | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | Excel Sports Management | Fall 2026 Intern, Analytics | Chicago, Illinois, United States | Intern | Fall 2026 | Unknown | 2026-07-27 | Excel Sports Management | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-24 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
