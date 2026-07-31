@@ -2,20 +2,20 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **192**
+Total jobs: **190**
 
 [Back to summary](README.md)
 
 | Work Auth Signal | Count |
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 9 |
-| No sponsorship | 7 |
+| No sponsorship | 6 |
 | US citizen / clearance | 2 |
-| Unknown | 174 |
+| Unknown | 173 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 176 |
+| CS Roles | 174 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 9 |
 
@@ -31,7 +31,6 @@ Total jobs: **192**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 9 D | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
-| Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 7 D | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Intern | Unknown | Unknown | Posted 30+ | Marvell |  | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 30+ | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | Cisive | Software Development Intern | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) |
@@ -52,7 +51,10 @@ Total jobs: **192**
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 15 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 10 | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Quebec, CAN - Remote | Intern | Unknown | Unknown | Posted 10 | Autodesk | remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
+| Zello | Analytics Intern |  | Intern | Unknown | Unknown | 2026-07-31 | Zello | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b) |
 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | Intern | Summer 2027 | Unknown | 2026-07-31 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
+| Toshiba Global Commerce | Product & Business Analytics Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-31 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) |
+| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-31 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
 | Persona AI | Machine Learning Intern, Manipulation |  | Intern | Spring 2026 | Unknown | 2026-07-31 | Persona AI | fall, spring | [Apply](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-30 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
 | Persona AI | Teleoperation Software Engineering Internship |  | Intern | Spring 2026 | Unknown | 2026-07-30 | Persona AI | remote, fall, spring | [Apply](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c) |
@@ -62,9 +64,6 @@ Total jobs: **192**
 | Voloridge | Quantitative Research Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009) |
 | Voloridge | Quantitative Research Fellowship 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009) |
 | Voloridge | Quantitative Developer Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
-| Toshiba Global Commerce | Product & Business Analytics Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195802007) |
-| Toshiba Global Commerce | Agentic Software Engineering intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007) |
-| Toshiba Global Commerce | AI Product Management Intern | Durham, NC | Intern | Fall 2026 | No sponsorship | 2026-07-27 | Toshiba Global Commerce | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007) |
 | Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-27 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
 | IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | Intern | Summer 2027 | Unknown | 2026-07-27 | IMC Trading | summer | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
@@ -134,7 +133,6 @@ Total jobs: **192**
 | CTGT | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-26 | CTGT | summer | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) |
 | Lila Sciences | Co-Op, Next Gen Engineering | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
 | Lila Sciences | Co-Op, ML Scientist for Biology | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) |
-| Lila Sciences | Co-Op, Automation | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-25 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009) |
 | Neuralink | Software Engineer Intern, Robotics | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) |
 | Neuralink | Software Engineer Intern, Internal Apps | Austin, Texas, United States; South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) |
 | Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-06-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) |
