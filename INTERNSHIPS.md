@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **190**
+Total jobs: **187**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **190**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 6 |
 | US citizen / clearance | 2 |
-| Unknown | 173 |
+| Unknown | 170 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 174 |
+| CS Roles | 171 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 9 |
 
@@ -152,9 +152,6 @@ Total jobs: **190**
 | XPENG Motors | AI Infra Onboard Performance Intern | Santa Clara, CA | Intern | Unknown | Unknown | 2026-06-05 | XPENG Motors |  | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) |
 | Phonic | Machine Learning Research Intern (Fall 2026) |  | Intern | Fall 2026 | Unknown | 2026-06-03 | Phonic | fall | [Apply](https://jobs.ashbyhq.com/phonic/a6c8c3d2-250a-4c2f-8a20-e4667ca38e41) |
 | TransMarket Group | DevOps/SRE Intern | Chicago, Illinois, United States | Intern | Unknown | Unknown | 2026-06-02 | TransMarket Group |  | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
-| Walleye Capital | Volatility Trading Developer Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) |
-| Walleye Capital | Risk Technology Analyst Intern (Summer 2027) | New York, New York | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
-| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-06-01 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Mariana Minerals | Chemical Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-28 | Mariana Minerals |  | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | Base Power | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) |
 | Base Power | Quantitative Developer Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |

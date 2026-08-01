@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **325**
+Total jobs: **318**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **325**
 | Sponsors / OPT-CPT likely | 4 |
 | No sponsorship | 13 |
 | US citizen / clearance | 34 |
-| Unknown | 274 |
+| Unknown | 267 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 248 |
+| CS Roles | 241 |
 | Data Analyst + TPM Roles | 19 |
 | Chemistry, Process, QA/QC Roles | 58 |
 
@@ -71,21 +71,14 @@ Total jobs: **325**
 | Nissan Global | Systems Engineer 1 | Canton, Mississippi - United States of America | New Grad | Unknown | Unknown | Posted Yes | Nissan Global |  | [Apply](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-1_R00200457-1) |
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | New Grad | Unknown | Unknown | Posted Yes | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554) |
 | Cox | Manheim Vehicle Mobile Inspector Dallas, TX | Remote - Texas | Entry | Unknown | Unknown | Posted Yes | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Manheim-Vehicle-Mobile-Inspector-Dallas--TX_R202680682) |
+| Cox | Mobile Diesel Mechanic II Wed - Sun - Day Shift | Kansas City MO | Entry | Unknown | Unknown | Posted Tod | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Kansas-City-MO/Mobile-Trailer-Mechanic-II-Wed---Sun_R202679619) |
+| Cox | Mobile Diesel Mechanic II | Remote - New York | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-York/Mobile-Diesel-Mechanic-II_R202680515) |
 | University of Wisconsin-Madison | School of Veterinary Medicine Infrastructure Engineer | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 9 D | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/SVM-Infrastructure-Engineer_JR10013124) |
 | International Monetary Fund | Associate Security Analyst (Application Security) Contractual -ITDSGGR | USA, Washington DC | Entry | 2026 | Unknown | Posted 9 D | International Monetary Fund |  | [Apply](https://imf.wd5.myworkdayjobs.com/IMF/job/USA-Washington-DC/Associate-Security-Analyst--Application-Security--ITDSGGR_26-R9578) |
 | Barry-Wehmiller | Software Controls Engineer | Green Bay, WI | Entry | 2026 | Unknown | Posted 9 D | Barry-Wehmiller |  | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Green-Bay-WI/Software-Controls-Engineer_R020851) |
 | Hewlett Packard Enterprise | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | New Grad | Unknown | Unknown | Posted 8 D | Hewlett Packard Enterprise | spring | [Apply](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer---HPC-AI-Platform-Engineering---Early-Career_1208230) |
 | Barry-Wehmiller | CNC Laser & Press Brake Programmer | Sleepy Eye, MN | Entry | 2026 | Unknown | Posted 8 D | Barry-Wehmiller |  | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Sleepy-Eye-MN/CNC-Laser---Press-Brake-Technical-Lead_R021972) |
-| Cox | Manheim Mobile Vehicle Inspector II | Remote - Kansas · Remote - Tennessee | Entry | Unknown | Unknown | Posted 6 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Kansas/Manheim-Mobile-Vehicle-Inspector-II_R202680504) |
 | Nightwing Intelligence Solutions | Junior Software Engineer (SWE0) | Annapolis Junction, MD | New Grad | Unknown | Unknown | Posted 5 D | Nightwing Intelligence Solutions |  | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Junior-Software-Engineer_01677525) |
-| Cox | Mobile Diesel Mechanic II | Remote - New York | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-York/Mobile-Diesel-Mechanic-II_R202680515) |
-| Cox | Manheim Mobile Vehicle Inspector Dublin, CA | Remote - California | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---California/Manheim-Mobile-Vehicle-Inspector-Dublin--CA_R202680546) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, Trenton, NJ | Remote - New Jersey | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---New-Jersey/Manheim-Mobile-Vehicle-Condition-Inspector--Trenton--NJ_R202680519) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, Tennessee | Remote - Tennessee | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Tennessee/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--Tennessee_R202680022) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, St Louis MO | Remote - Missouri | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Missouri/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--St-Louis-MO_R202679976) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, Rhode Island | Remote - Rhode Island | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Rhode-Island/Manheim-Mobile-Vehicle-Condition-Inspector--Rhode-Island_R202680511-1) |
-| Cox | Manheim Mobile Vehicle Condition Inspector, Oklahoma | Remote - Oklahoma | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Oklahoma/Manheim-Mobile-Vehicle-Vehicle-Condition-Inspector--Oklahoma_R202679372) |
-| Cox | Manheim Mobile Vehicle Condition Inspector & Lot Auditor, Kalamazoo & Grand Rapids, MI | Remote - Michigan | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Michigan/Manheim-Mobile-Vehicle-Condition-Inspector---Lot-Auditor--Kalamazoo---Grand-Rapids--MI_R202680510) |
 | University of Wisconsin-Madison | Software Engineer/Developer III | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 4 D | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Software-Engineer-Developer-III_JR10013393) |
 | Torch Technologies | Junior Systems Engineer/Analyst | Huntsville, AL | New Grad | Unknown | Unknown | Posted 4 D | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Systems-Engineer-Analyst_R1467) |
 | The Boeing Company | Environmental Test Engineer - 2nd Shift - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted 4 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---2nd-Shift---Millennium-Space-Systems_JR2026519184-1) |
@@ -171,7 +164,7 @@ Total jobs: **325**
 | Relativity Space | Manufacturing Engineer I, Mechanisms | Long Beach, California | New Grad | Unknown | Unknown | 2026-07-28 | Relativity Space |  | [Apply](https://boards.greenhouse.io/relativity/jobs/8645578002?gh_jid=8645578002) |
 | Pinterest | Software Engineer I, Backend | Seattle, WA, US; San Francisco, CA, US | New Grad | Unknown | Unknown | 2026-07-28 | Pinterest Careers | hybrid | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=6816337) |
 | Rocket Lab USA | Systems Engineer I/II Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-27 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7646310003) |
-| PlayStation | Software Engineer I | United States, Los Angeles, CA · United States, San Mateo, CA | New Grad | Unknown | Unknown | 2026-07-27 | PlayStation | hybrid | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004) |
+| PlayStation | Software Engineer I | United States, San Mateo, CA · United States, Los Angeles, CA | New Grad | Unknown | Unknown | 2026-07-27 | PlayStation | hybrid | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004) |
 | IMC Trading | Graduate Quantitative Researcher (PhD) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-27 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) |
 | IMC Trading | Graduate Quantitative Researcher (BS/MS) | Chicago, United States | New Grad | 2026 | Unknown | 2026-07-27 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | New Grad | 2027 | Unknown | 2026-07-27 | IMC Trading |  | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) |
@@ -213,7 +206,7 @@ Total jobs: **325**
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
 | Antares Nuclear | Reactor Software Engineer I-II |  | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Antares Nuclear | us-citizen | [Apply](https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42) |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | New Grad | Unknown | Unknown | 2026-07-15 | InstaLILY | remote | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
-| mthree | Production Support/SRE Analyst | New York, NY · USA · Houston, TX · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006) |
+| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | New Grad | Unknown | Unknown | 2026-07-14 | Twitch |  | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
@@ -222,7 +215,7 @@ Total jobs: **325**
 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | New Grad | 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
 | Akuna Capital | Software Engineer (Entry-Level) - C++ | Chicago, IL | New Grad | 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
 | Akuna Capital | Junior Quantitative Developer & Strategist | Chicago, IL | New Grad | 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital |  | [Apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
-| mthree | Site Reliability Engineer / Production Support Analyst | USA · Salt Lake City, Utah, United States | New Grad | Unknown | No sponsorship | 2026-07-13 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006) |
+| mthree | Site Reliability Engineer / Production Support Analyst | Salt Lake City, Utah, United States · USA | New Grad | Unknown | No sponsorship | 2026-07-13 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006) |
 | Torc Robotics | Hardware Engineer I - Sensors | Ann Arbor, MI | New Grad | Unknown | Unknown | 2026-07-13 | Torc Robotics |  | [Apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8622606002) |
 | The Nuclear Company | AI Engineer 1 - Compliance, Quality & Testing | Washington, DC | New Grad | Unknown | Unknown | 2026-07-13 | The Nuclear Company |  | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5286179008) |
 | Rocket Lab USA | RF Systems Engineer I/II - TS/SCI Pipeline | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-07-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7746572003) |
