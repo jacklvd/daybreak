@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **201**
+Total jobs: **196**
 
 [Back to summary](README.md)
 
@@ -11,12 +11,12 @@ Total jobs: **201**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 6 |
 | US citizen / clearance | 4 |
-| Unknown | 182 |
+| Unknown | 177 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 183 |
-| Data Analyst + TPM Roles | 8 |
+| CS Roles | 180 |
+| Data Analyst + TPM Roles | 6 |
 | Chemistry, Process, QA/QC Roles | 10 |
 
 ## US Citizen / Clearance Required
@@ -41,7 +41,6 @@ Total jobs: **201**
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 30+ | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Intern | Unknown | Unknown | Posted 30+ | Marvell |  | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) |
 | KLA Corporation | Software Engineering Intern | Ann Arbor, MI | Intern | Unknown | Unknown | Posted 30+ | KLA Corporation |  | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) |
-| IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 30+ | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | Cisive | Software Development Intern | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) |
 | Cisive | Intern- Software Developer | Remote - Maryland | Intern | Unknown | Unknown | Posted 30+ | Cisive | remote | [Apply](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211) |
 | Astreya | AI Infrastructure DC Design Intern | Remote, CA | Intern | Unknown | Unknown | Posted 30+ | Astreya | remote | [Apply](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746) |
@@ -53,7 +52,6 @@ Total jobs: **201**
 | Revvity | Full-Stack AI Developer Intern | CAD Remote – ON | Intern | Unknown | Unknown | Posted 19 | Revvity | remote | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) |
 | Chevron Corporation | 2026-2027 Information Technology - Software Engineer - Intern | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 18 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 13 | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
-| Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Quebec, CAN - Remote | Intern | Unknown | Unknown | Posted 13 | Autodesk | remote | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 12 | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 10 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-08-02 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
@@ -159,7 +157,6 @@ Total jobs: **201**
 | Lila Sciences | Co-Op, Software Product Management | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-16 | Lila Sciences | fall | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) |
 | AXQ Capital | Quantitative Research Intern | New York | Intern | Unknown | Unknown | 2026-06-15 | AXQ Capital | winter, summer | [Apply](https://job-boards.greenhouse.io/axq/jobs/5575450004) |
 | Lila Sciences | Co-op, Mechanical Engineer | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-12 | Lila Sciences | summer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
-| Lila Sciences | Co-op, Machine Learning for Digital Twins | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-11 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) |
 | Etched | SI/PI Intern |  | Intern | Unknown | Unknown | 2026-06-10 | Etched |  | [Apply](https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3) |
 | Circleback | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-10 | Circleback | summer | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) |
 | Centerfield | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-06-09 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) |
@@ -197,7 +194,6 @@ Total jobs: **201**
 | PlusAI | Full Stack Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811243 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
 | Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
-| Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1776449704 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Intern | Unknown | Unknown | 1775149255 | SoloPulse |  | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
 | Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1775012520 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1774033655 | Palantir |  | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
@@ -215,15 +211,14 @@ Total jobs: **201**
 | Schweitzer Engineering Laboratories | Engineering Intern - Security | North Carolina - Charlotte | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern---Security_2026-22388) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
+| Capital One Careers | 98697183680 08/03/2026 Cyber Security Internship Program - Summer 2027 McLean, VA |  | Intern | Summer 2026 | Unknown |  | Capital One Careers | summer | [Apply](https://www.capitalonecareers.com/job/mclean/cyber-security-internship-program-summer-2027/1732/98697183680) |
 
 ## Data Analyst + TPM Roles
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | thyssenkrupp | Analytics Intern | Cleveland, Ohio USA | Intern | Unknown | Unknown | Posted 30+ | thyssenkrupp |  | [Apply](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Analytics-Intern_JR105406) |
-| RFCUNY | Data Analyst Intern | New York, NY | Intern | Unknown | Unknown | Posted 30+ | RFCUNY |  | [Apply](https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987) |
 | Equifax | Data & Analytics Intern | USA - Georgia - Alpharetta - 30005 | Intern | Unknown | Unknown | Posted 30+ | Equifax |  | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081) |
-| PSECU | Data Analyst Intern | Harrisburg, PA | Intern | Unknown | Unknown | Posted 3 D | PSECU |  | [Apply](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) |
 | Moog | Intern, IT Computer Science - Data Analytics | Buffalo, NY | Intern | Unknown | Unknown | Posted 18 | Moog |  | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145) |
 | Solar Turbines | 2027 Business Analyst Intern | San Diego, California | Intern | 2027 | Unknown | Posted 11 | Solar Turbines |  | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902) |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | FCC2 Performance Analyst Intern | Cincinnati, OH | Intern | Unknown | Unknown | 2026-05-20 | Fussball Club Cincinnati LLC (“FC Cincinnati”) |  | [Apply](https://job-boards.greenhouse.io/fccincinnati/jobs/7741529003) |
