@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **198**
+Total jobs: **197**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **198**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 5 |
 | US citizen / clearance | 4 |
-| Unknown | 180 |
+| Unknown | 179 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 180 |
 | Data Analyst + TPM Roles | 7 |
-| Chemistry, Process, QA/QC Roles | 11 |
+| Chemistry, Process, QA/QC Roles | 10 |
 
 ## US Citizen / Clearance Required
 
@@ -36,7 +36,6 @@ Total jobs: **198**
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted Yes | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | Magna | IoT Systems Engineer - Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 7 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
 | Magna | AI Solutions Developer Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 7 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) |
-| Brunswick | Software Engineer Intern | Champaign, IL | Intern | Unknown | Unknown | Posted 7 D | Brunswick |  | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991) |
 | Motorola | Software Engineering, Co-Op | Massachusetts, US Offsite, More... | Intern | Unknown | Unknown | Posted 6 D | Motorola |  | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | Intern | Unknown | Unknown | Posted 6 D | Intel |  | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Detroit, MI | Intern | Fall 2026 | Unknown | Posted 5 D | Rocket Companies | fall | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
@@ -56,6 +55,7 @@ Total jobs: **198**
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 14 | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 13 | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 11 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
+| Bosch Group | Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software | Abstatt, BW, de | Intern | Unknown | Unknown | 2026-08-04 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141476667) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | Intern | Fall 2026 | Unknown | 2026-08-03 | Redwood Materials | fall | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
 | Postman | AI Engineer, Intern | Berkeley, California, United States | Intern | Unknown | Unknown | 2026-08-03 | Postman |  | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | Intern | Summer 2027 | Unknown | 2026-08-03 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
@@ -196,7 +196,7 @@ Total jobs: **198**
 | Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Intern | Unknown | Unknown | 1775149255 | SoloPulse |  | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
-| Hermeus | Software Engineering Intern (HMI) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1775012520 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
+| Hermeus | Software Engineering Intern (Command & Control) - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1775012520 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
 | Palantir | Year at Palantir - Software Engineer, Internship | New York, NY | Intern | Unknown | Unknown | 1774033655 | Palantir |  | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Palantir | Forward Deployed Software Engineer, Internship - France | New York, NY | Intern | 2026 | Unknown | 1773145615 | Palantir |  | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) |
 | Hermeus | Flight Software Engineering Intern - Fall 2026 | Atlanta, GA | Intern | Fall 2026 | Unknown | 1772667827 | Hermeus | fall | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) |
@@ -230,7 +230,6 @@ Total jobs: **198**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
-| IDEX | Manufacturing Engineer Intern | Linthicum, Maryland | Intern | Unknown | Unknown | Posted 30+ | IDEX |  | [Apply](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Linthicum-Maryland/Manufacturing-Engineer-Intern_R-09266) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 25 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Masco | Manufacturing Engineer Intern | US - California - Santa Ana | Intern | Unknown | Unknown | Posted 22 | Masco |  | [Apply](https://masco.wd1.myworkdayjobs.com/Masco/job/US---California---Santa-Ana/Manufacturing-Engineer-Intern_REQ53679-1) |
 | Golden Pet Brands | Data Analytics Intern | United States | Intern | Unknown | Unknown | 2026-07-31 | Golden Pet Brands | remote | [Apply](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) |
