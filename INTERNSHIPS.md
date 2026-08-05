@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **198**
+Total jobs: **199**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **198**
 | Sponsors / OPT-CPT likely | 9 |
 | No sponsorship | 5 |
 | US citizen / clearance | 4 |
-| Unknown | 180 |
+| Unknown | 181 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 182 |
 | Data Analyst + TPM Roles | 7 |
-| Chemistry, Process, QA/QC Roles | 9 |
+| Chemistry, Process, QA/QC Roles | 10 |
 
 ## US Citizen / Clearance Required
 
@@ -58,8 +58,8 @@ Total jobs: **198**
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 11 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-08-04 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | San Francisco, California, United States | Intern | Fall 2026 | Unknown | 2026-08-04 | Redwood Materials | fall | [Apply](https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004) |
+| Postman | AI Engineer, Intern | Berkeley, California, United States | Intern | Unknown | Unknown | 2026-08-04 | Postman |  | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | Bosch Group | Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software | Abstatt, BW, de | Intern | Unknown | Unknown | 2026-08-04 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000141476667) |
-| Postman | AI Engineer, Intern | Berkeley, California, United States | Intern | Unknown | Unknown | 2026-08-03 | Postman |  | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | Point72 | Summer 2027 Quantitative Research Internship | New York | Intern | Summer 2027 | Unknown | 2026-08-03 | Point72 | summer | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
 | Point72 | Quantitative Research Intern (NLP) | New York | Intern | Unknown | Unknown | 2026-08-03 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | Point72 | Quantitative Research Intern | New York, Seattle | Intern | Unknown | Unknown | 2026-08-03 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
@@ -231,6 +231,7 @@ Total jobs: **198**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Applied Materials | Chemist (Co-Op - Santa Clara) | Santa Clara,CA | Intern | Unknown | Unknown | Posted Tod | Applied Materials |  | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2624992) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 25 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Golden Pet Brands | Data Analytics Intern | United States | Intern | Unknown | Unknown | 2026-08-04 | Golden Pet Brands | remote | [Apply](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) |
