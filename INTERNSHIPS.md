@@ -15,9 +15,9 @@ Total jobs: **200**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 182 |
+| CS Roles | 183 |
 | Data Analyst + TPM Roles | 7 |
-| Chemistry, Process, QA/QC Roles | 11 |
+| Chemistry, Process, QA/QC Roles | 10 |
 
 ## US Citizen / Clearance Required
 
@@ -36,6 +36,7 @@ Total jobs: **200**
 | General Dynamics Information Technology | Summer 2027 Software Developer Internship | USA MD Annapolis Junction | Intern | Summer 2027 | Unknown | Posted Yes | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1) |
 | GE Appliances | Software Engineering Co-op_Summer 2027 | USA, Louisville, KY | Intern | Summer 2027 | Unknown | Posted Yes | GE Appliances | summer | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) |
 | Draper | Embedded Quality & Fielded Systems Intern | Cambridge, MA | Intern | Unknown | Unknown | Posted Yes | Draper |  | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
+| KBR | Software Intern | Houston, Texas | Intern | Unknown | Unknown | Posted Tod | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863) |
 | Magna | IoT Systems Engineer - Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 9 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/Manufacturing-Engineer---Co-op--4-months-_R00252235) |
 | Magna | AI Solutions Developer Co-op (4 months) - Starting September | Milton, Ontario, CA | Intern | Unknown | Unknown | Posted 9 D | Magna |  | [Apply](https://magna.wd3.myworkdayjobs.com/magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Detroit, MI | Intern | Fall 2026 | Unknown | Posted 7 D | Rocket Companies | fall | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
@@ -232,7 +233,6 @@ Total jobs: **200**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Jabil | Manufacturing Engineer - Intern | West Chester, PA | Intern | Unknown | Unknown | Posted Yes | Jabil |  | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898) |
-| Analytical Mechanics Associates | Experimental Materials Intern – Fall 2026 | Mountain View, CA | Intern | Fall 2026 | Unknown | Posted Yes | Analytical Mechanics Associates | fall | [Apply](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Experimental-Materials-Intern---Fall-2026_R-100715) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 27 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Applied Materials | Chemist (Co-Op - Santa Clara) | Santa Clara,CA | Intern | Unknown | Unknown | Posted 2 D | Applied Materials |  | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2624992) |
