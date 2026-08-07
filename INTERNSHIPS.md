@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **199**
+Total jobs: **203**
 
 [Back to summary](README.md)
 
@@ -10,19 +10,23 @@ Total jobs: **199**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 6 |
-| US citizen / clearance | 4 |
+| US citizen / clearance | 8 |
 | Unknown | 181 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 182 |
+| CS Roles | 185 |
 | Data Analyst + TPM Roles | 7 |
-| Chemistry, Process, QA/QC Roles | 10 |
+| Chemistry, Process, QA/QC Roles | 11 |
 
 ## US Citizen / Clearance Required
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Varda Space | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
+| Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
+| Varda Space | Biologics Formulation Research Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
+| The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Heliux | Software Engineer (Internship, Summer 2027) |  | Intern | Summer 2027 | US citizen / clearance | 2026-07-31 | Heliux | us-citizen, summer | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
 | Heliux | Software Engineer (Internship, Spring 2027) |  | Intern | Spring 2027 | US citizen / clearance | 2026-07-31 | Heliux | us-citizen, spring | [Apply](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c) |
 | STR | Sensors Fall/Spring Co-op – RF Systems Engineer | Woburn, MA | Intern | Unknown | US citizen / clearance | 2026-07-30 | STR | us-citizen, fall, spring | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) |
@@ -32,9 +36,9 @@ Total jobs: **199**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Leidos | Application Developer Intern | Indianapolis, IN | Intern | Unknown | Unknown | Posted Yes | Leidos |  | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) |
 | KBR | Software Intern | Houston, Texas | Intern | Unknown | Unknown | Posted Yes | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863) |
 | General Dynamics Information Technology | Summer 2027 Software Developer Internship | USA MD Annapolis Junction | Intern | Summer 2027 | Unknown | Posted Yes | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) |
+| General Dynamics Information Technology | Summer 2027 AI/Machine Learning Internship -DC Metro Area | USA VA Falls Church | Intern | Summer 2027 | Unknown | Posted Tod | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Detroit, MI | Intern | Fall 2026 | Unknown | Posted 8 D | Rocket Companies | fall | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
 | Monolithic Power Systems | Security Analyst Intern | San Jose, CA | Intern | Unknown | Unknown | Posted 4 D | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | Intern | Unknown | Unknown | Posted 4 D | IDEXX |  | [Apply](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
@@ -57,8 +61,12 @@ Total jobs: **199**
 | SWBC | Security Intern | San Antonio, TX | Intern | Unknown | Unknown | Posted 17 | SWBC |  | [Apply](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253) |
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 16 | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 14 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
+| Varda Space | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
+| Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
+| The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Terranova | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-08-07 | Terranova | fall | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-07 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-08-06 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Centerfield | Frontend Engineer Intern (6 month internship) |  | Intern | Unknown | Unknown | 2026-08-06 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4) |
 | Seven Research | Quantitative Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-08-05 | Seven Research |  | [Apply](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) |
@@ -80,7 +88,6 @@ Total jobs: **199**
 | Axon | RenderATL 2027 US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-03 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
 | Axon | RenderATL - 2027 US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-03 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-08-02 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
-| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-02 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | HPR (Hyannis Port Research) | Software Engineering Intern - Summer 2027 | Needham, MA | Intern | Summer 2027 | Unknown | 2026-08-01 | HPR (Hyannis Port Research) | visa, summer | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Zello | Analytics Intern |  | Intern | Unknown | Unknown | 2026-07-31 | Zello | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b) |
 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | Intern | Summer 2027 | Unknown | 2026-07-31 | Virtu Financial | summer | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
@@ -235,6 +242,7 @@ Total jobs: **199**
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 28 | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
 | Jabil | Manufacturing Engineer - Intern | West Chester, PA | Intern | Unknown | Unknown | Posted 2 D | Jabil |  | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898) |
+| Varda Space | Biologics Formulation Research Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
 | Golden Pet Brands | Data Analytics Intern | United States | Intern | Unknown | Unknown | 2026-08-04 | Golden Pet Brands | remote | [Apply](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) |
 | Excel Sports Management | Fall 2026 Intern, Analytics | Chicago, Illinois, United States | Intern | Fall 2026 | Unknown | 2026-07-27 | Excel Sports Management | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-24 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
