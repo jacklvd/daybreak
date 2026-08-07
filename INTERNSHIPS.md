@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **203**
+Total jobs: **209**
 
 [Back to summary](README.md)
 
@@ -10,12 +10,12 @@ Total jobs: **203**
 | --- | ---: |
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 6 |
-| US citizen / clearance | 8 |
-| Unknown | 181 |
+| US citizen / clearance | 15 |
+| Unknown | 180 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 185 |
+| CS Roles | 191 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -26,6 +26,13 @@ Total jobs: **203**
 | Varda Space | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
 | Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
 | Varda Space | Biologics Formulation Research Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
+| The Nuclear Company | Summer 2027 Software Engineering Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
+| The Nuclear Company | Summer 2027 Data Science Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
+| The Nuclear Company | Summer 2027 AI/ML Engineering Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
+| The Nuclear Company | Spring 2027 Software Engineering Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) |
+| The Nuclear Company | Spring 2027 Data Science Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008) |
+| The Nuclear Company | Spring 2027 AI/ML Engineering Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008) |
+| The Nuclear Company | Fall 2026 AI/ML Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) |
 | The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Heliux | Software Engineer (Internship, Summer 2027) |  | Intern | Summer 2027 | US citizen / clearance | 2026-07-31 | Heliux | us-citizen, summer | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
 | Heliux | Software Engineer (Internship, Spring 2027) |  | Intern | Spring 2027 | US citizen / clearance | 2026-07-31 | Heliux | us-citizen, spring | [Apply](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c) |
@@ -37,7 +44,6 @@ Total jobs: **203**
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | KBR | Software Intern | Houston, Texas | Intern | Unknown | Unknown | Posted Yes | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Houston-Texas/Software-Intern_R2127863) |
-| General Dynamics Information Technology | Summer 2027 Software Developer Internship | USA MD Annapolis Junction | Intern | Summer 2027 | Unknown | Posted Yes | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1) |
 | General Dynamics Information Technology | Summer 2027 AI/Machine Learning Internship -DC Metro Area | USA VA Falls Church | Intern | Summer 2027 | Unknown | Posted Tod | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Detroit, MI | Intern | Fall 2026 | Unknown | Posted 8 D | Rocket Companies | fall | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
 | Monolithic Power Systems | Security Analyst Intern | San Jose, CA | Intern | Unknown | Unknown | Posted 4 D | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
@@ -63,6 +69,13 @@ Total jobs: **203**
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 14 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Varda Space | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
 | Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
+| The Nuclear Company | Summer 2027 Software Engineering Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
+| The Nuclear Company | Summer 2027 Data Science Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
+| The Nuclear Company | Summer 2027 AI/ML Engineering Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
+| The Nuclear Company | Spring 2027 Software Engineering Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) |
+| The Nuclear Company | Spring 2027 Data Science Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008) |
+| The Nuclear Company | Spring 2027 AI/ML Engineering Intern | Washington, DC | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, spring | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008) |
+| The Nuclear Company | Fall 2026 AI/ML Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) |
 | The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Terranova | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-08-07 | Terranova | fall | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-07 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
