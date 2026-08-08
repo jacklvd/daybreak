@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **209**
+Total jobs: **212**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **209**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 6 |
 | US citizen / clearance | 15 |
-| Unknown | 180 |
+| Unknown | 183 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 191 |
+| CS Roles | 194 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -79,6 +79,10 @@ Total jobs: **209**
 | The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Terranova | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-08-07 | Terranova | fall | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-07 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| Axon | US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
+| Axon | US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2026 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) |
+| Axon | RenderATL 2026 US Software Engineering Internship | Seattle, Washington, United States | Intern | 2026 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
+| Axon | RenderATL 2026 US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2026 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-07 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-08-06 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | Centerfield | Frontend Engineer Intern (6 month internship) |  | Intern | Unknown | Unknown | 2026-08-06 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4) |
@@ -98,8 +102,6 @@ Total jobs: **209**
 | Point72 | Machine Learning Researcher - Intern | New York | Intern | Unknown | Unknown | 2026-08-03 | Point72 |  | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | Persona AI | Autonomy Software Engineering Internship, World Modeling |  | Intern | Summer 2026 | Unknown | 2026-08-03 | Persona AI | fall, summer | [Apply](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) |
 | Etched | Performance Tools Intern |  | Intern | Unknown | Unknown | 2026-08-03 | Etched |  | [Apply](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8) |
-| Axon | RenderATL 2027 US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-03 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
-| Axon | RenderATL - 2027 US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-03 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
 | Figure | Firmware Intern [Fall 2026] | San Jose, CA | Intern | Fall 2026 | Unknown | 2026-08-02 | Figure | fall | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | HPR (Hyannis Port Research) | Software Engineering Intern - Summer 2027 | Needham, MA | Intern | Summer 2027 | Unknown | 2026-08-01 | HPR (Hyannis Port Research) | visa, summer | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Zello | Analytics Intern |  | Intern | Unknown | Unknown | 2026-07-31 | Zello | remote, hybrid, fall | [Apply](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b) |
@@ -215,6 +217,7 @@ Total jobs: **209**
 | PlusAI | Machine Learning Engineer Intern - Planning | Santa Clara, CA | Intern | Unknown | Unknown | 1779316802 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc) |
 | PlusAI | Software Engineer Intern - Robotics | Santa Clara, CA | Intern | Unknown | Unknown | 1779315498 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db) |
 | PlusAI | Machine Learning Engineer Intern - Scenario Simulation | Santa Clara, CA | Intern | Unknown | Unknown | 1779312458 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320) |
+| PlusAI | Full Stack Engineer Intern | Santa Clara, CA | Intern | Unknown | Unknown | 1778811243 | PlusAI |  | [Apply](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40) |
 | Rainmaker | Software Engineering Intern | El Segundo, CA | Intern | Unknown | Unknown | 1777064244 | Rainmaker | remote | [Apply](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b) |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | Washington, D.C. · New York, NY | Intern | Unknown | Unknown | 1776979025 | Palantir |  | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | Intern | Unknown | Unknown | 1775149255 | SoloPulse |  | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51) |
