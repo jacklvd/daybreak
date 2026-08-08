@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **342**
+Total jobs: **343**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **342**
 | Sponsors / OPT-CPT likely | 5 |
 | No sponsorship | 14 |
 | US citizen / clearance | 34 |
-| Unknown | 289 |
+| Unknown | 290 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 265 |
+| CS Roles | 266 |
 | Data Analyst + TPM Roles | 17 |
 | Chemistry, Process, QA/QC Roles | 60 |
 
@@ -78,6 +78,7 @@ Total jobs: **342**
 | General Motors | New Architecture Technical Specialist– Boot Software | Milford, Michigan, United States of America | Entry | Unknown | Unknown | Posted Yes | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/New-Architecture-Technical-Specialist--Boot-Software_JR-202616262) |
 | Cox | Mobile Diesel Mechanic II Wed - Sun - Day $2500 New Hire Bonus Shift | Kansas City MO | Entry | Unknown | Unknown | Posted Yes | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Kansas-City-MO/Mobile-Trailer-Mechanic-II-Wed---Sun_R202679619) |
 | Cox | Mobile Diesel Mechanic II Variable shift $2500 New Hire Bonus | Kansas City MO | Entry | Unknown | Unknown | Posted Yes | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Kansas-City-MO/Mobile-Diesel-Mechanic-II-Variable-shift_R202677777) |
+| Cox | Manheim Mobile Vehicle Condition Inspector, Greensboro, NC | Remote - North Carolina | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---North-Carolina/Manheim-Mobile-Vehicle-Condition-Inspector--Raleigh-Durham--NC_R202677825) |
 | Hospital for Special Surgery (HSS) | Business Intelligence Developer | New York, NY | Entry | Unknown | Unknown | Posted 9 D | Hospital for Special Surgery (HSS) |  | [Apply](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Business-Intelligence-Developer_JR2026-105779) |
 | Mimecast | Software Engineer I | United States of America– Minnesota – Minneapolis | New Grad | Unknown | Unknown | Posted 8 D | Mimecast |  | [Apply](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1) |
 | University of Wisconsin-Madison | Security Officer I | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 5 D | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Security-Officer-I_JR10013418) |
@@ -311,9 +312,8 @@ Total jobs: **342**
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. · Seattle, WA · New York, NY | New Grad | Unknown | Unknown | 1755596238 | Palantir |  | [Apply](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6) |
 | Palantir | Software Engineer, New Grad - Defense | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1750297066 | Palantir |  | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) |
 | Veeva Systems | Marketing Analytics - Client Services Associate - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1692105354 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/2d2cce21-bba9-42e7-b1b8-e5cf83ebe4c2) |
-| Veeva Systems | Marketing Analytics - Data Analyst - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1657816835 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea) |
 
-_Showing 250 of 265 jobs. See `data/jobs.csv` for the full list._
+_Showing 250 of 266 jobs. See `data/jobs.csv` for the full list._
 
 ## Data Analyst + TPM Roles
 
