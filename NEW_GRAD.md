@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **343**
+Total jobs: **341**
 
 [Back to summary](README.md)
 
@@ -11,12 +11,12 @@ Total jobs: **343**
 | Sponsors / OPT-CPT likely | 5 |
 | No sponsorship | 14 |
 | US citizen / clearance | 34 |
-| Unknown | 290 |
+| Unknown | 288 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 265 |
-| Data Analyst + TPM Roles | 18 |
+| CS Roles | 264 |
+| Data Analyst + TPM Roles | 17 |
 | Chemistry, Process, QA/QC Roles | 60 |
 
 ## US Citizen / Clearance Required
@@ -78,7 +78,6 @@ Total jobs: **343**
 | KBR | Junior Software Integration Engineer | Beavercreek, Ohio | New Grad | Unknown | Unknown | Posted Yes | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Integration-Engineer_R2127834) |
 | General Motors | Technical Specialist– Software Reflash | Warren, Michigan, United States of America | Entry | Unknown | Unknown | Posted Yes | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Technical-Specialist--Software-Reflash_JR-202606546) |
 | General Motors | Data Engineer - Resource Demand | Warren, Michigan, United States of America | Entry | Unknown | Unknown | Posted Yes | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Engineer---Resource-Demand_JR-202615465) |
-| General Dynamics Information Technology | Junior Software Engineer (Clearance Sponsorship) | USA MD Annapolis Junction | New Grad | Unknown | Unknown | Posted Yes | General Dynamics Information Technology | visa | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225594) |
 | University of Wisconsin-Madison | Software Engineer-SEA | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted Tod | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Software-Engineer-SEA_JR10013777) |
 | U.S. Bank | Software Engineer 2 - (Backend /API/ Microservices) | Irving, TX | Entry | 2026 | Unknown | Posted Tod | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2---Full-stack_2026-0010983) |
 | U.S. Bank | Software Engineer 2 (Backend AI) | Earth City, MO | Entry | 2026 | Unknown | Posted Tod | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811) |
@@ -246,7 +245,7 @@ Total jobs: **343**
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
 | Antares Nuclear | Reactor Software Engineer I-II |  | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Antares Nuclear | us-citizen | [Apply](https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42) |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | New Grad | Unknown | Unknown | 2026-07-15 | InstaLILY | remote | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
-| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006) |
+| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | New Grad | Unknown | Unknown | 2026-07-14 | Twitch |  | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
@@ -312,8 +311,9 @@ Total jobs: **343**
 | Palantir | Software Engineer, New Grad - Defense | Washington, D.C. · Palo Alto, CA · New York, NY | New Grad | Unknown | Unknown | 1750297066 | Palantir |  | [Apply](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79) |
 | Veeva Systems | Marketing Analytics - Client Services Associate - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1692105354 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/2d2cce21-bba9-42e7-b1b8-e5cf83ebe4c2) |
 | Veeva Systems | Marketing Analytics - Data Analyst - July 2027 Start Date - ADP | New York - New York City | Entry | 2027 | Unknown | 1657816835 | Veeva Systems |  | [Apply](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea) |
+| Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. · New York, NY | New Grad | Unknown | Unknown | 1656629948 | Palantir |  | [Apply](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb) |
 
-_Showing 250 of 265 jobs. See `data/jobs.csv` for the full list._
+_Showing 250 of 264 jobs. See `data/jobs.csv` for the full list._
 
 ## Data Analyst + TPM Roles
 
@@ -330,7 +330,6 @@ _Showing 250 of 265 jobs. See `data/jobs.csv` for the full list._
 | Auto-Owners Insurance | Entry Level Business Analyst | Lansing, MI | New Grad | Unknown | Unknown | Posted 30+ | Auto-Owners Insurance |  | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Entry-Level-Business-Analyst_R_2366) |
 | Insulet Corporation | Customer Retention Strategy and Operations Analyst - Acton, MA (Hybrid) | Acton, Massachusetts | Entry | 2026 | Unknown | Posted 22 | Insulet Corporation | hybrid | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Operations-Analyst--Customer-Journey---Retention---Acton--MA--Hybrid-_REQ-2026-17314-1) |
 | State of North Carolina | Business Analyst | Wake County, NC | Entry | 2026 | Unknown | Posted 2 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Business-Analyst_JR-121457) |
-| University of Wisconsin System | Marketing Analytics and Research Specialist | University of Wisconsin Eau Claire | Entry | 2026 | Unknown | Posted 17 | University of Wisconsin System |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Eau-Claire-WI/Marketing-Analytics-and-Research-Specialist_JR10013136) |
 | Jobs for Humanity | Junior Business Analyst | Chicago, IL, us | New Grad | Unknown | Unknown | 2026-08-05 | Jobs for Humanity |  | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000141654897) |
 | Appian | Associate Sales Operations Analyst (2026 Graduates) | McLean, Virginia | Entry | 2026 | Unknown | 2026-07-23 | Appian |  | [Apply](https://job-boards.greenhouse.io/appian/jobs/7939702) |
 | Perpay | Junior Strategic Analyst | Philadelphia, Pennsylvania, United States | New Grad | 2026 | Unknown | 2026-05-18 | Perpay | remote | [Apply](https://job-boards.greenhouse.io/perpay/jobs/4158121007) |
