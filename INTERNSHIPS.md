@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **211**
+Total jobs: **212**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **211**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 6 |
 | US citizen / clearance | 15 |
-| Unknown | 182 |
+| Unknown | 183 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 193 |
+| CS Roles | 194 |
 | Data Analyst + TPM Roles | 7 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -67,6 +67,7 @@ Total jobs: **211**
 | Tencent | PUBG Mobile Marketing Team Intern |  | Intern | Unknown | Unknown | Posted 17 | Tencent |  | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/PUBG-Mobile-Marketing-Team-Intern_R107793-1) |
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 15 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-08 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| Postman | AI Engineer, Internship - Summer 2026 - Applications Open Now | Berkeley, California, United States; San Francisco, California, United States | Intern | Summer 2026 | Unknown | 2026-08-08 | Postman | summer | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | Varda Space | Site Reliability Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
 | Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
 | The Nuclear Company | Summer 2027 Software Engineering Intern | Washington, DC | Intern | Summer 2027 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, summer | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
