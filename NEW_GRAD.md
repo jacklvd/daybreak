@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **394**
+Total jobs: **391**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **394**
 | Sponsors / OPT-CPT likely | 5 |
 | No sponsorship | 13 |
 | US citizen / clearance | 35 |
-| Unknown | 341 |
+| Unknown | 338 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 311 |
+| CS Roles | 308 |
 | Data Analyst + TPM Roles | 17 |
 | Chemistry, Process, QA/QC Roles | 66 |
 
@@ -66,11 +66,13 @@ Total jobs: **394**
 | Leidos | Junior Software Engineer | Bowie, MD | New Grad | Unknown | Unknown | Posted Yes | Leidos |  | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Junior-Software-Engineer_R-00189125) |
 | Cox | Mobile Vehicle Inspector II - Lincoln, Nebraska | Remote - Nebraska | Entry | Unknown | Unknown | Posted Yes | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Nebraska/Mobile-Vehicle-Inspector-II---Lincoln--Nebraska_R202681072) |
 | U.S. Bank | Data Scientist (Multiple openings) in Minneapolis, MN. | Minneapolis, MN | Entry | 2026 | Unknown | Posted Tod | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Data-Scientist--Multiple-openings--in-Minneapolis--MN_2026-0024019-1) |
+| Sierra Nevada Corporation | Test Engineer I | Sparks, NV | New Grad | Unknown | Unknown | Posted Tod | Sierra Nevada Corporation |  | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Test-Engineer-I_R0030484) |
+| Hospital for Special Surgery (HSS) | Business Intelligence Developer | New York, NY | Entry | Unknown | Unknown | Posted Tod | Hospital for Special Surgery (HSS) |  | [Apply](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Business-Intelligence-Developer_JR2026-105776) |
+| General Motors | Software Engineer - Electrification Propulsion | Milford, Michigan, United States of America | Entry | Unknown | Unknown | Posted Tod | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Electrification-Propulsion_JR-202616585) |
 | University of Wisconsin-Madison | Security Officer I | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 7 D | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Security-Officer-I_JR10013418) |
 | Torch Technologies | Junior Test Engineer | Huntsville, AL | New Grad | Unknown | Unknown | Posted 7 D | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Test-Engineer_R828) |
 | Salesforce | Associate Product Manager (starting summer 2027) | California - San Francisco | Entry | Summer 2027 | Unknown | Posted 7 D | Salesforce | summer | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508) |
 | Cox | Mobile Technician Leader | Kansas City MO | Entry | Unknown | Unknown | Posted 7 D | Cox |  | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Kansas-City-MO/Mobile-Technician-Leader_R202680772) |
-| Cox | Manheim Vehicle Mobile Inspector Texas | Remote - Texas | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Manheim-Vehicle-Mobile-Inspector-Texas_R202680405) |
 | Cox | Manheim Vehicle Mobile Inspector Houston, TX | Remote - Texas | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Texas/Manheim-Vehicle-Mobile-Inspector-Houston--TX_R202680304) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Harrisburg, PA | Remote - Pennsylvania | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Pennsylvania/Manheim-Mobile-Vehicle-Condition-Inspector---Harrisburg--PA_R202680824) |
 | Cox | Manheim Mobile Vehicle Condition Inspector, Boston North | Remote-Massachusetts-120 | Entry | Unknown | Unknown | Posted 7 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote-Massachusetts-120/Manheim-Mobile-Vehicle-Condition-Inspector--Boston-North_R202680825) |
@@ -92,15 +94,12 @@ Total jobs: **394**
 | The Boeing Company | Systems Engineer - Digital Signal Processing (Associate or Mid-level) | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Systems-Engineer---Digital-Signal-Processing--Associate-or-Mid-level-_JR2026512392-1) |
 | The Boeing Company | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347-1) |
 | The Boeing Company | Mid-Level Spacecraft Integration and Test Engineer - Millennium Space Systems | USA - El Segundo, CA | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026512879-2) |
-| The Boeing Company | Experienced Software Developer Engineer (P-8 Mission Systems) | USA - Kent, WA | Entry | Unknown | Unknown | Posted 5 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Experienced-Software-Developer-Engineer--P-8-Mission-Systems-_JR2026518178-1) |
 | Niagara Bottling | Systems Engineer I | Corp-Main - Diamond Bar, CA | New Grad | Unknown | Unknown | Posted 5 D | Niagara Bottling |  | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R55951-1) |
 | Morgan Stanley | MSIM Infrastructure Partners, Pre-MBA Associate (2026 Program) | New York, New York, United States of America | Entry | 2026 | Unknown | Posted 5 D | Morgan Stanley |  | [Apply](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM-Infrastructure-Partners--Acquisitions-Associate--2026-Program-_JR040759-1) |
 | KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | New Grad | Unknown | Unknown | Posted 5 D | KBR |  | [Apply](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2127828) |
 | General Motors | Engineering Group Leader– Basic Software Development | Milford, Michigan, United States of America | Entry | Unknown | Unknown | Posted 5 D | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Engineering-Group-Leader--Basic-Software-Development_JR-202613204) |
 | General Motors | AI/ML Data Scientist (GPSSC) | Warren, Michigan, United States of America | Entry | Unknown | Unknown | Posted 5 D | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Data-Scientist--GPSSC-_JR-202608411-1) |
-| Elanco | Machine Learning & Computer Vision Scientist – R&D (Junior/Associate) | Indianapolis, IN | New Grad | Unknown | Unknown | Posted 5 D | Elanco |  | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Machine-Learning---Computer-Vision-Scientist---R-D--Junior-Associate-_R0026698) |
 | Cox | Mobile Vehicle Inspector Remote Colorado $2k Bonus | Remote - Colorado | Entry | Unknown | Unknown | Posted 5 D | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Colorado/Mobile-Vehicle-Inspector-Remote-Colorado--2k-Bonus_R202680959) |
-| Amentum | Software Developer - Junior (Team 01) | US-DC-Washington | New Grad | Unknown | Unknown | Posted 5 D | Amentum |  | [Apply](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Software-Developer---Junior--Team-01-_R0167603) |
 | University of Wisconsin-Madison | Data Scientist -Wisconsin Reading Center | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 4 D | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Scientist--Wisconsin-Reading-Center_JR10013120) |
 | The Walt Disney Company | Data Engineer I | Santa Monica, CA, USA | New Grad | Unknown | Unknown | Posted 4 D | The Walt Disney Company |  | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Data-Engineer-I_10147074) |
 | The Boeing Company | Site Reliability Engineer (Associate or Experienced) | USA - Berkeley, MO | Entry | Unknown | Unknown | Posted 4 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Site-Reliability-Engineer--Associate-or-Experienced-_JR2026519788-1) |
@@ -153,7 +152,6 @@ Total jobs: **394**
 | U.S. Bank | Software Engineer 1 (Backend UI and AI) | Earth City, MO | New Grad | 2026 | Unknown | Posted 3 D | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795) |
 | U.S. Bank | Security Master & Pricing Analyst | Saint Paul, MN | Entry | 2026 | Unknown | Posted 3 D | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Security-Master---Pricing-Analyst_2026-0021315) |
 | U.S. Bank | Hogan Software Engineer 1 | Irving, TX | New Grad | 2026 | Unknown | Posted 3 D | U.S. Bank |  | [Apply](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257) |
-| Tyson Foods | Data Engineer I | Tyson on Thompson - Springdale, Arkansas | New Grad | Unknown | Unknown | Posted 3 D | Tyson Foods |  | [Apply](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1) |
 | Torch Technologies | Software Engineer I | Huntsville, AL | New Grad | Unknown | Unknown | Posted 3 D | Torch Technologies |  | [Apply](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480) |
 | Thomson Reuters | Vice President, AI Product Security |  | Entry | Unknown | Unknown | Posted 3 D | Thomson Reuters |  | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Vice-President--AI-Product-Security_JREQ202681-1) |
 | The Boeing Company | Ground MILSATCOM Systems Engineer Trainer – (Associate or Mid-Level) | USA - Colorado Springs, CO | Entry | Spring | Unknown | Posted 3 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Ground-MILSATCOM-Systems-Engineer-Trainer----Associate-or-Mid-Level-_JR2026511200-1) |
@@ -189,7 +187,6 @@ Total jobs: **394**
 | University of Wisconsin-Madison | Data Scientist II or III | University of Wisconsin Madison | Entry | 2026 | Unknown | Posted 12 | University of Wisconsin-Madison |  | [Apply](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Data-Scientist-II-or-III_JR10013116) |
 | Axcelis Technologies, Inc. | Software Quality Assurance (SQA) Engineer I | Beverly, MA | New Grad | Unknown | Unknown | Posted 12 | Axcelis Technologies, Inc. |  | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Software-Quality-Assurance--SQA--Engineer_11741-1) |
 | AeroVironment | Systems Test Engineer I | Moorpark, CA | New Grad | Unknown | Unknown | Posted 12 | AeroVironment |  | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Systems-Test-Engineer-I_8240) |
-| Hospital for Special Surgery (HSS) | Business Intelligence Developer | New York, NY | Entry | Unknown | Unknown | Posted 11 | Hospital for Special Surgery (HSS) |  | [Apply](https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Business-Intelligence-Developer_JR2026-105779) |
 | Mimecast | Software Engineer I | United States of America– Minnesota – Minneapolis | New Grad | Unknown | Unknown | Posted 10 | Mimecast |  | [Apply](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1) |
 | AAA Club Alliance | Security Officer 1 Part Time | Costa Mesa, CA | Entry | Unknown | Unknown | Posted 10 | AAA Club Alliance |  | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Security-Officer-1-Part-Time_JR202638056) |
 | AAA Club Alliance | Security Officer 1 | Costa Mesa, CA | Entry | Unknown | Unknown | Posted 10 | AAA Club Alliance |  | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Security-Officer-1_JR202638080) |
@@ -291,7 +288,7 @@ Total jobs: **394**
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - New Grad - 2026-2027 |  | New Grad | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3) |
 | Antares Nuclear | Reactor Software Engineer I-II |  | New Grad | Unknown | US citizen / clearance | 2026-07-16 | Antares Nuclear | us-citizen | [Apply](https://jobs.ashbyhq.com/Antares/78234003-fa70-41ab-b3c8-a2e703687f42) |
 | InstaLILY | Software Engineer I, General | New York, New York, United States, San Francisco, California, United States | New Grad | Unknown | Unknown | 2026-07-15 | InstaLILY | remote | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4271757009) |
-| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006) |
+| mthree | Production Support/SRE Analyst | USA · Houston, TX · New York, NY | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006) |
 | mthree | Junior Software Engineer | USA | New Grad | Unknown | No sponsorship | 2026-07-14 | mthree | visa | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006) |
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | New Grad | Unknown | Unknown | 2026-07-14 | Twitch |  | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-07-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
@@ -313,8 +310,11 @@ Total jobs: **394**
 | Four Hands | Software Engineer - New Grad | Austin, TX | New Grad | Unknown | Sponsors / OPT-CPT likely | 2026-07-08 | Four Hands | hybrid, visa | [Apply](https://job-boards.greenhouse.io/fourhands/jobs/4297618009) |
 | Faros AI | Software Engineer - New Grad |  | New Grad | Unknown | Unknown | 2026-07-08 | Faros AI |  | [Apply](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
 | SimpliSafe | Software Engineer I - Device Control | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
+| Notion | Software Engineer, Early Career (AI) |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
+| Notion | Software Engineer, Early Career |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
+| Babel Street | Data Warehouse Software Engineer I | Remote - United States; Reston, VA, United States; Somerville, Massachusetts, United States | New Grad | Unknown | Unknown | 2026-07-01 | Babel Street | remote, hybrid | [Apply](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) |
 
-_Showing 250 of 311 jobs. See `data/jobs.csv` for the full list._
+_Showing 250 of 308 jobs. See `data/jobs.csv` for the full list._
 
 ## Data Analyst + TPM Roles
 
@@ -342,10 +342,10 @@ _Showing 250 of 311 jobs. See `data/jobs.csv` for the full list._
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cox | Assistant Vice President, Enterprise Accounts EV Battery Sales | REMOTE - USA | Entry | Unknown | Unknown | Posted Tod | Cox | remote | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/REMOTE---USA/Assistant-Vice-President--Enterprise-Accounts-EV-Battery-Sales_R202680599) |
 | State of Nebraska | Scientist II-Nebraska DHHS Public Environmental Laboratory | Lincoln, NE | Entry | Unknown | Unknown | Posted 7 D | State of Nebraska |  | [Apply](https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Scientist-II-Nebraska-DHHS-Public-Environmental-Laboratory_JR2026-00028368) |
 | The Aerospace Corporation | 2026 Research Associate – Non-Destructive Evaluation (NDE) | El Segundo, CA | Entry | 2026 | Unknown | Posted 6 D | The Aerospace Corporation |  | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Research-Associate---Non-Destructive-Evaluation--NDE-_R016014) |
 | The Aerospace Corporation | 2026 Materials Physicist – Non-Destructive Evaluation (NDE) | El Segundo, CA | Entry | 2026 | Unknown | Posted 6 D | The Aerospace Corporation |  | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Materials-Physicist---Non-Destructive-Evaluation--NDE-_R016011) |
-| State of North Carolina | Chemistry Technician II | Wake County, NC · Guilford County, NC | Entry | 2026 | Unknown | Posted 6 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Chemistry-Technician-II_JR-121336) |
 | Smithfield Foods | Food Safety & Quality Assurance Technologist | Wichita, KS · Wilson, NC | Entry | 2026 | Unknown | Posted 6 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Wichita-KS/Food-Safety---Quality-Assurance-Technologist_R-2026-10472) |
 | Insulet Corporation | Materials Handler (Weekday Shift - Onsite) | US - Massachusetts | Entry | 2026 | Unknown | Posted 6 D | Insulet Corporation |  | [Apply](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts/Materials-Handler--Weekday-Shift---Onsite-_REQ-2026-16262) |
 | Barry-Wehmiller | Materials Planner | Phillips, WI | Entry | 2026 | Unknown | Posted 6 D | Barry-Wehmiller |  | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Phillips-WI/Materials-Planner_R021400) |
@@ -354,6 +354,7 @@ _Showing 250 of 311 jobs. See `data/jobs.csv` for the full list._
 | State of North Carolina | Quality Assurance/Standards Specialist - O’Berry Neuro-Medical Treatment Center | Wayne County, NC | Entry | 2026 | Unknown | Posted 5 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wayne-County-NC/Quality-Assurance-Standards-Specialist---O-Berry-Neuro-Medical-Treatment-Center_JR-121461) |
 | State of North Carolina | Forensic Scientist II | Wake County, NC | Entry | 2026 | Unknown | Posted 5 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Forensic-Scientist-II_JR-121271) |
 | State of North Carolina | Forensic Scientist I | Guilford County, NC | Entry | 2026 | Unknown | Posted 5 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Guilford-County-NC/Forensic-Scientist-I_JR-120496) |
+| State of North Carolina | Chemistry Technician II | Guilford County, NC | Entry | 2026 | Unknown | Posted 5 D | State of North Carolina |  | [Apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Guilford-County-NC/Chemistry-Technician-II_JR-120700) |
 | Smithfield Foods | Food Safety & Quality Assurance Technician - 1st Shift | Orange City, IA | Entry | 2026 | Unknown | Posted 5 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Orange-City-IA/Food-Safety---Quality-Assurance-Technician---1st-Shift_R-2026-10570) |
 | Smithfield Foods | Food Safety & Quality Assurance NSIS Technologist | Denison, IA | Entry | 2026 | Unknown | Posted 5 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Denison-IA/Job-Profile-Food-Safety---Quality-Assurance-NSIS-Technologist_R-2026-9447) |
 | General Motors | RESS Process Engineer | Spring Hill, Tennessee, United States of America | Entry | Spring | Unknown | Posted 5 D | General Motors | spring | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/RESS-Process-Engineer_JR-202616556) |
@@ -362,7 +363,6 @@ _Showing 250 of 311 jobs. See `data/jobs.csv` for the full list._
 | Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, & Adhesives (Early Career) | Space Coast, FL | New Grad | Unknown | Unknown | Posted 5 D | Blue Origin |  | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867) |
 | AeroVironment | Manufacturing Engineer I | Huntsville, AL | New Grad | Unknown | Unknown | Posted 5 D | AeroVironment |  | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Huntsville-AL/Manufacturing-Engineer-I_8333) |
 | The Boeing Company | Flight Test Manufacturing Engineer (Associate or Experienced) | USA - Oklahoma City, OK | Entry | Unknown | Unknown | Posted 4 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Flight-Test-Manufacturing-Engineer--Associate-or-Experienced-_JR2026506386-1) |
-| Jabil | Manufacturing Engineer 1 | West Chester, PA | New Grad | Unknown | Unknown | Posted 4 D | Jabil |  | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer-1_J2459895) |
 | Graco | Manufacturing Engineer I - Associate | Rogers, Minnesota, USA (David Koch Center) | New Grad | Unknown | Unknown | Posted 4 D | Graco |  | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineer-I---Associate_R0023274) |
 | General Motors | Zone Manufacturing Engineer – General Assembly (Vehicle Assembly) | Warren, Michigan, United States of America | Entry | Unknown | Unknown | Posted 4 D | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Zone-Manufacturing-Engineer---General-Assembly--Vehicle-Assembly-_JR-202617050) |
 | Bio-Techne | Research Associate - Antibody Production | Denver, CO | Entry | Unknown | Unknown | Posted 4 D | Bio-Techne |  | [Apply](https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/Denver-CO/Research-Associate---Antibody-Production_JR102027) |
