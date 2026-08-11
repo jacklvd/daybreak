@@ -15,9 +15,9 @@ Total jobs: **224**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 204 |
+| CS Roles | 203 |
 | Data Analyst + TPM Roles | 9 |
-| Chemistry, Process, QA/QC Roles | 11 |
+| Chemistry, Process, QA/QC Roles | 12 |
 
 ## US Citizen / Clearance Required
 
@@ -192,7 +192,6 @@ Total jobs: **224**
 | Outpost Technologies | Technical Marketing Intern (Analytics, Research & Automation) |  | Intern | Unknown | Unknown | 2026-06-17 | Outpost Technologies |  | [Apply](https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee) |
 | Lila Sciences | Co-Op, Software Product Management | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-16 | Lila Sciences | fall | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) |
 | AXQ Capital | Quantitative Research Intern | New York | Intern | Unknown | Unknown | 2026-06-15 | AXQ Capital | winter, summer | [Apply](https://job-boards.greenhouse.io/axq/jobs/5575450004) |
-| Lila Sciences | Co-op, Mechanical Engineer | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-06-12 | Lila Sciences | summer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | Etched | SI/PI Intern |  | Intern | Unknown | Unknown | 2026-06-10 | Etched |  | [Apply](https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3) |
 | Circleback | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-06-10 | Circleback | summer | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f) |
 | Centerfield | Software Engineer Intern |  | Intern | Unknown | Unknown | 2026-06-09 | Centerfield | hybrid | [Apply](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60) |
@@ -266,6 +265,7 @@ Total jobs: **224**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Jabil | Manufacturing Engineer - Intern | West Chester, PA | Intern | Unknown | Unknown | Posted Tod | Jabil |  | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898) |
 | Applied Materials | Chemist (Co-Op - Santa Clara) | Santa Clara,CA | Intern | Unknown | Unknown | Posted 5 D | Applied Materials |  | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---Co-Op---Santa-Clara-_R2625243) |
 | National Laboratory of the Rockies | Undergraduate (Year-Round) Intern - Analytical Chemistry | Golden, CO | Intern | Unknown | Unknown | Posted 30+ | National Laboratory of the Rockies |  | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950) |
 | Chevron Corporation | 2026-2027 Earth Scientist (Previous Intern) Full Time | Houston, Texas, United States of America | Intern | 2026 | Unknown | Posted 30+ | Chevron Corporation |  | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist--Previous-Intern--Full-Time_R000072337) |
