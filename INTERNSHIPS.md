@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **225**
+Total jobs: **224**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **225**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 5 |
 | US citizen / clearance | 15 |
-| Unknown | 197 |
+| Unknown | 196 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 202 |
+| CS Roles | 201 |
 | Data Analyst + TPM Roles | 11 |
 | Chemistry, Process, QA/QC Roles | 12 |
 
@@ -47,7 +47,6 @@ Total jobs: **225**
 | Ancestry | Machine Learning Engineer, Co-op | Remote | Intern | Unknown | Unknown | Posted Yes | Ancestry | remote | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | General Dynamics Information Technology | Summer 2027 Software Developer Internship | USA MD Annapolis Junction | Intern | Summer 2027 | Unknown | Posted Tod | General Dynamics Information Technology | summer | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | Monolithic Power Systems | Security Analyst Intern | San Jose, CA | Intern | Unknown | Unknown | Posted 9 D | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
-| Thales | CO-OP Systems Engineer- Vancouver shipyard | British Columbia Remote | Intern | Unknown | Unknown | Posted 7 D | Thales | remote | [Apply](https://thales.wd3.myworkdayjobs.com/Careers/job/British-Columbia-Remote/CO-OP-Systems-Engineer_R0336218-1) |
 | GE Appliances | Software Engineering Co-op_Summer 2027 | USA, Louisville, KY | Intern | Summer 2027 | Unknown | Posted 7 D | GE Appliances | summer | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427) |
 | Draper | Embedded Quality & Fielded Systems Intern | Cambridge, MA | Intern | Unknown | Unknown | Posted 7 D | Draper |  | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | Intern | Unknown | Unknown | Posted 30+ | Nelnet |  | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
@@ -68,11 +67,11 @@ Total jobs: **225**
 | Carnegie Mellon University | Security Services Intern - Fall Semester | Pittsburgh, PA | Intern | Unknown | Unknown | Posted 19 | Carnegie Mellon University | fall | [Apply](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Security-Services-Intern---Fall-Semester_2024907-1) |
 | Rocket Companies | Security Services Intern - Fall 2026 | Detroit, MI | Intern | Fall 2026 | Unknown | Posted 13 | Rocket Companies | fall | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-12 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-12 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-08-11 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Intern | Unknown | Unknown | 2026-08-11 | Databricks |  | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
 | Axon | RenderATL 2027 US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-11 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-11 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
-| Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-11 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-11 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
 | Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-11 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) |
 | Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-11 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
