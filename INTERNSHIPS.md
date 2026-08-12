@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **225**
+Total jobs: **224**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **225**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 5 |
 | US citizen / clearance | 15 |
-| Unknown | 197 |
+| Unknown | 196 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 203 |
+| CS Roles | 202 |
 | Data Analyst + TPM Roles | 11 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -160,7 +160,7 @@ Total jobs: **225**
 | Cybernetic Labs | Full-Stack Software Engineer (Product) - Intern - 2026-2027 |  | Intern | Winter 2026 | Unknown | 2026-07-16 | Cybernetic Labs | winter, summer | [Apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Old Mission | Software Engineer – 2027 Internship Program (June Start) | Chicago, IL, United States | Intern | Summer 2027 | Unknown | 2026-07-15 | Old Mission | summer | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | Tenstorrent | Software Intern - AI Compilers | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) |
-| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Austin, Texas, United States · Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent |  | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007) |
+| Tenstorrent | Machine Learning for Physical Design Intern - CPU/AI Hardware | Santa Clara, California, United States · Austin, Texas, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | remote, hybrid | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) |
 | Tenstorrent | Chiplet Security Research Intern | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-14 | Tenstorrent | fall | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) |
 | Georgian Partners Growth | AI/ML Engineer Intern (2027) |  | Intern | Fall 2027 | Unknown | 2026-07-14 | Georgian Partners Growth | fall | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab) |
 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Intern | Summer 2027 | Sponsors / OPT-CPT likely | 2026-07-14 | Akuna Capital | summer | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
@@ -201,7 +201,6 @@ Total jobs: **225**
 | TransMarket Group | DevOps/SRE Intern | Chicago, Illinois, United States | Intern | Unknown | Unknown | 2026-06-02 | TransMarket Group |  | [Apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
 | Mariana Minerals | Chemical Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-28 | Mariana Minerals |  | [Apply](https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a) |
 | Base Power | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) |
-| Base Power | Quantitative Developer Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) |
 | Base Power | Firmware Engineering Intern |  | Intern | Unknown | Unknown | 2026-05-26 | Base Power |  | [Apply](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7) |
 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management | summer | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
 | Stevens Capital Management | Developer Internship | Radnor, PA | Intern | Unknown | Unknown | 2026-05-24 | Stevens Capital Management |  | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
