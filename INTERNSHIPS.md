@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **213**
+Total jobs: **212**
 
 [Back to summary](README.md)
 
@@ -11,11 +11,11 @@ Total jobs: **213**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 15 |
-| Unknown | 186 |
+| Unknown | 185 |
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 192 |
+| CS Roles | 191 |
 | Data Analyst + TPM Roles | 10 |
 | Chemistry, Process, QA/QC Roles | 11 |
 
@@ -65,11 +65,14 @@ Total jobs: **213**
 | Monolithic Power Systems | Security Analyst Intern | San Jose, CA | Intern | Unknown | Unknown | Posted 10 | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-13 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | Bosch Group | Internship in the Field of Full Stack Engineering | Ulm, BW, de | Intern | Unknown | Unknown | 2026-08-13 | Robert Bosch Venture Capital |  | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143271509) |
+| Axon | US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-13 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
+| Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-13 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
+| Astranis | Software Engineer Intern - Enterprise Systems (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-13 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
+| Appian | Software Engineering Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-08-13 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
+| Appian | Information Security Engineer Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-08-13 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-13 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, CA, us | Intern | Summer 2027 | Unknown | 2026-08-12 | Western Digital Careers | summer | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | Oracle | Platform Software Engineer 1 - Full-time Intern Conversion | United States | Intern | Summer 2026 | Unknown | 2026-08-12 | Oracle Careers | summer | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) |
-| Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-12 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
-| Astranis | Software Engineer Intern - Enterprise Systems (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-12 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
 | Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-12 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | Intern | Summer 2027 | Unknown | 2026-08-11 | Walleye Capital | summer | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Intern | Unknown | Unknown | 2026-08-11 | Databricks |  | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
@@ -96,7 +99,6 @@ Total jobs: **213**
 | The Nuclear Company | Fall 2026 AI Software Engineering Intern | Washington, DC | Intern | Fall 2026 | US citizen / clearance | 2026-08-07 | The Nuclear Company | visa, us-citizen, fall | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008) |
 | Terranova | Software Engineering Intern |  | Intern | Unknown | Unknown | 2026-08-07 | Terranova | fall | [Apply](https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0) |
 | Kastle AI | Software Engineer - Intern |  | Intern | Unknown | Unknown | 2026-08-07 | Kastle AI | summer | [Apply](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee) |
-| Axon | US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
 | Axon | US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2026 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003) |
 | Axon | RenderATL 2026 US Firmware Engineering Internship | Seattle, Washington, United States | Intern | 2026 | Unknown | 2026-08-07 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
 | Workato | Intern, AI Engineering | San Francisco, California | Intern | Winter 2026 | Unknown | 2026-08-06 | Workato | remote, winter, spring | [Apply](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
@@ -133,13 +135,11 @@ Total jobs: **213**
 | Voloridge | Quantitative Research Fellowship 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009) |
 | Voloridge | Quantitative Developer Intern 2027 | Jupiter, FL | Intern | 2027 | Unknown | 2026-07-27 | Voloridge | remote | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Meshy | Fullstack Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-27 | Meshy | remote | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572) |
-| Appian | Information Security Engineer Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-07-27 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | Quadrillion | Software Engineering Intern (Summer 2027) |  | Intern | Summer 2027 | Unknown | 2026-07-24 | Quadrillion | summer | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
 | PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | Intern | Summer 2027 | Unknown | 2026-07-24 | PDT Partners | fall, summer | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Lila Sciences | Co-Op, ML Scientist for Protein Engineering | San Francisco, CA USA | Intern | Unknown | Unknown | 2026-07-24 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
 | Tenstorrent | Software Engineering Intern, Power Modeling & AI Tools | Santa Clara, California, United States | Intern | Unknown | Unknown | 2026-07-23 | Tenstorrent | fall, winter, summer | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) |
 | Hone Health | Data Engineering Intern (Fall 2026) | Remote | Intern | Fall 2026 | Unknown | 2026-07-23 | Hone Health | remote, fall | [Apply](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) |
-| Appian | Software Engineering Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-07-23 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Anthelion Capital | Quant Developer / Quant Research Intern - 2026/2027 |  | Intern | Winter 2026 | Sponsors / OPT-CPT likely | 2026-07-23 | Anthelion Capital | fall, winter, summer | [Apply](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-22 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
 | Gritt Robotics Inc | Robotics Perception Engineer Intern |  | Intern | Unknown | Unknown | 2026-07-21 | Gritt Robotics Inc |  | [Apply](https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9) |
@@ -234,7 +234,6 @@ Total jobs: **213**
 | Schweitzer Engineering Laboratories | Engineering Intern - Security | North Carolina - Charlotte | Intern | 2026 | Unknown |  | Schweitzer Engineering Laboratories |  | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern---Security_2026-22388) |
 | D. E. Shaw | Software Developer, Ph.D. Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | D. E. Shaw | Software Developer Intern (New York) – Summer 2027 |  | Intern | Summer 2027 | Unknown |  | D. E. Shaw | summer | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
-| Capital One Careers | 99109660512 08/12/2026 Business Analyst Intern - Summer 2027 McLean, VA |  | Intern | Summer 2026 | Unknown |  | Capital One Careers | summer | [Apply](https://www.capitalonecareers.com/job/mclean/business-analyst-intern-summer-2027/31238/99109660512) |
 
 ## Data Analyst + TPM Roles
 
