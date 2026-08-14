@@ -2,7 +2,7 @@
 
 Only USA or remote roles are included. Work authorization is inferred from posting text only.
 
-Total jobs: **211**
+Total jobs: **210**
 
 [Back to summary](README.md)
 
@@ -11,13 +11,13 @@ Total jobs: **211**
 | Sponsors / OPT-CPT likely | 8 |
 | No sponsorship | 4 |
 | US citizen / clearance | 15 |
-| Unknown | 184 |
+| Unknown | 183 |
 
 | Track | Count |
 | --- | ---: |
 | CS Roles | 189 |
 | Data Analyst + TPM Roles | 11 |
-| Chemistry, Process, QA/QC Roles | 11 |
+| Chemistry, Process, QA/QC Roles | 10 |
 
 ## US Citizen / Clearance Required
 
@@ -65,12 +65,12 @@ Total jobs: **211**
 | Monolithic Power Systems | Security Analyst Intern | San Jose, CA | Intern | Unknown | Unknown | Posted 11 | Monolithic Power Systems |  | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1) |
 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Intern | Summer 2027 | No sponsorship | 2026-08-14 | Roblox Careers | visa, fall, summer | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | Composio | Fullstack Engineering Internship, Product Team (Fall 2026 & Winter 2027) |  | Intern | Winter 2026 | Unknown | 2026-08-14 | Composio | fall, winter | [Apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d) |
+| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-14 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Axon | US Software Engineering Internship | Seattle, Washington, United States | Intern | 2027 | Unknown | 2026-08-13 | Axon | hybrid | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
 | Astranis | Software Engineer- Backend Intern (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-13 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Astranis | Software Engineer Intern - Enterprise Systems (Fall 2026) | San Francisco, CA | Intern | Fall 2026 | Unknown | 2026-08-13 | Astranis | fall | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
 | Appian | Software Engineering Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-08-13 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
 | Appian | Information Security Engineer Intern | McLean, Virginia | Intern | Summer 2027 | No sponsorship | 2026-08-13 | Appian | summer | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
-| Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | Intern | 2026 | Unknown | 2026-08-13 | Anduril |  | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007) |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, CA, us | Intern | Summer 2027 | Unknown | 2026-08-12 | Western Digital Careers | summer | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | Oracle | Platform Software Engineer 1 - Full-time Intern Conversion | United States | Intern | Summer 2026 | Unknown | 2026-08-12 | Oracle Careers | summer | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415) |
 | Anduril | 2027 Software Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | Intern | Summer 2027 | Unknown | 2026-08-12 | Anduril | summer | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
@@ -259,7 +259,6 @@ Total jobs: **211**
 | Applied Materials | 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA) | Gloucester,MA | Intern | Fall 2026 | Unknown | Posted 2 D | Applied Materials | fall | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503) |
 | Varda Space | Biologics Formulation Research Internship - Spring 2027 | El Segundo, California, United States | Intern | Spring 2027 | US citizen / clearance | 2026-08-07 | Varda Space | us-citizen, spring | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824834003) |
 | Canva | PhD Research Scientist Intern | San Francisco, CA, us | Intern | Unknown | Unknown | 2026-08-06 | Canva |  | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001291655) |
-| Excel Sports Management | Fall 2026 Intern, Analytics | Chicago, Illinois, United States | Intern | Fall 2026 | Unknown | 2026-07-27 | Excel Sports Management | hybrid, visa, fall | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4716581005) |
 | Neuralink | R&D Materials Engineer Intern | South San Francisco, California, United States | Intern | Unknown | Unknown | 2026-07-24 | Neuralink |  | [Apply](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
 | Gotion | Process Engineer Intern | Manteno, Illinois | Intern | 2026 | Unknown | 2026-07-21 | Gotion |  | [Apply](https://job-boards.greenhouse.io/gotion/jobs/8506211002) |
 | Lila Sciences | Co-Op, Autonomous SEM | Cambridge, MA USA | Intern | Unknown | Unknown | 2026-07-01 | Lila Sciences |  | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) |

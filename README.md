@@ -45,9 +45,9 @@ Total open jobs: **602**
 
 | Type | Count |
 | --- | ---: |
-| Internships | 211 |
+| Internships | 210 |
 | New grad | 247 |
-| Entry level | 144 |
+| Entry level | 145 |
 
 | Work Auth Signal | Count |
 | --- | ---: |
