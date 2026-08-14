@@ -15,9 +15,9 @@ Total jobs: **392**
 
 | Track | Count |
 | --- | ---: |
-| CS Roles | 306 |
+| CS Roles | 307 |
 | Data Analyst + TPM Roles | 17 |
-| Chemistry, Process, QA/QC Roles | 69 |
+| Chemistry, Process, QA/QC Roles | 68 |
 
 ## US Citizen / Clearance Required
 
@@ -194,6 +194,7 @@ Total jobs: **392**
 | Astemo | QA Engineer I | Berea, Kentucky, United States | New Grad | Unknown | Unknown | Posted 10 | Astemo |  | [Apply](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Berea-Kentucky-United-States/QA-Engineer-I_J0051198) |
 | AeroVironment | Entry-Level Software Engineer | Dayton, OH | New Grad | Unknown | Unknown | Posted 10 | AeroVironment |  | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) |
 | AAA Club Alliance | Cloud Data DevOps Engineer | Coppell, TX | Entry | Unknown | Unknown | Posted 10 | AAA Club Alliance |  | [Apply](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Cloud-Data-DevOps-Engineer_JR202638262-1) |
+| Composio | Fullstack Engineer, Product Team (New Grad) |  | New Grad | Unknown | Unknown | 2026-08-14 | Composio |  | [Apply](https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491) |
 | Voyager Technologies | Systems Engineer I - ISR | Folsom, CA | New Grad | Unknown | US citizen / clearance | 2026-08-13 | Voyager Technologies | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4243999009) |
 | Rocket Lab USA | Integration & Test Engineer I/II | Long Beach, CA | New Grad | Unknown | US citizen / clearance | 2026-08-13 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7767776003) |
 | Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | New Grad | Fall 2027 | No sponsorship | 2026-08-13 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
@@ -316,9 +317,8 @@ Total jobs: **392**
 | Iambic Therapeutics | Biological Structures Data Engineer I/II |  | New Grad | Unknown | Unknown | 2026-07-09 | Iambic Therapeutics | hybrid | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/ab45e87f-573c-41e1-86f5-c91979a6ad4c) |
 | Faros AI | Software Engineer - New Grad |  | New Grad | Unknown | Unknown | 2026-07-08 | Faros AI |  | [Apply](https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066) |
 | SimpliSafe | Software Engineer I - Device Control | Boston, MA | New Grad | Unknown | Unknown | 2026-07-07 | SimpliSafe | hybrid | [Apply](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
-| Notion | Software Engineer, Early Career (AI) |  | New Grad | Unknown | Unknown | 2026-07-06 | Notion |  | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 
-_Showing 250 of 306 jobs. See `data/jobs.csv` for the full list._
+_Showing 250 of 307 jobs. See `data/jobs.csv` for the full list._
 
 ## Data Analyst + TPM Roles
 
@@ -391,7 +391,6 @@ _Showing 250 of 306 jobs. See `data/jobs.csv` for the full list._
 | The Boeing Company | 2nd Shift Composites Manufacturing Engineer | USA - Berkeley, MO | Entry | Unknown | Unknown | Posted 2 D | The Boeing Company |  | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/XMLNAME-2nd-Shift-Composites-Manufacturing-Engineer_JR2026515525) |
 | Solar Turbines | 2026 Materials and Process Engineering, Entry Level Rotation Engineer | San Diego, California | New Grad | 2026 | Unknown | Posted 2 D | Solar Turbines |  | [Apply](https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2026-Materials-and-Process-Engineering--Entry-Level-Rotation-Engineer_R0000382200) |
 | Smithfield Foods | Food Safety & Quality Assurance Technician - 1st Shift | Orange City, IA | Entry | 2026 | Unknown | Posted 2 D | Smithfield Foods |  | [Apply](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Orange-City-IA/Food-Safety---Quality-Assurance-Technician---1st-Shift_R-2026-10570) |
-| Medtronic | Manufacturing Engineer I | North Haven, Connecticut, United States of America | New Grad | Unknown | Unknown | Posted 2 D | Medtronic |  | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/North-Haven-Connecticut-United-States-of-America/Manufacturing-Engineer-I_R74475) |
 | General Motors | RESS Process Engineer | Spring Hill, Tennessee, United States of America | Entry | Spring | Unknown | Posted 2 D | General Motors | spring | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/RESS-Process-Engineer_JR-202616556) |
 | General Motors | Manufacturing Engineer - Driveline 2nd shift | Wyoming, Michigan, United States of America | Entry | Unknown | Unknown | Posted 2 D | General Motors |  | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wyoming-Michigan-United-States-of-America/Manufacturing-Engineer---Driveline-2nd-shift_JR-202616961) |
 | BorgWarner | Materials Associate - Warehouse 12-hour Day Shift | Seneca - South Carolina - USA | Entry | Unknown | Unknown | Posted 2 D | BorgWarner |  | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Seneca---South-Carolina---USA/Materials-Associate---Warehouse-12-hour-Day-Shift_R2026-3072-1) |
