@@ -23,7 +23,7 @@ Total jobs: **391**
 
 | Company | Role | Location | Type | Season | Work Auth | Posted | Source | Tags | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX · Redmond, WA · Palo Alto, CA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX · Palo Alto, CA · Redmond, WA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Bastrop, TX · Redmond, WA · Palo Alto, CA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-08-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
 | Voyager Technologies | Systems Engineer I - ISR | Folsom, CA | New Grad | Unknown | US citizen / clearance | 2026-08-13 | Voyager Technologies | us-citizen, fall | [Apply](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4243999009) |
@@ -189,7 +189,7 @@ Total jobs: **391**
 | Niagara Bottling | Systems Engineer I | Corp-Main - Diamond Bar, CA | New Grad | Unknown | Unknown | Posted 10 | Niagara Bottling |  | [Apply](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R55951-1) |
 | Twitch | Software Engineer I, Payments | San Francisco, CA | New Grad | Unknown | Unknown | 2026-08-14 | Twitch |  | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
 | Twitch | Software Engineer I, Commerce Engineering | San Francisco, CA · Seattle, WA | New Grad | Unknown | Unknown | 2026-08-14 | Twitch | hybrid | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8457711002) |
-| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX · Redmond, WA · Palo Alto, CA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) |
+| SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Bastrop, TX · Palo Alto, CA · Redmond, WA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002) |
 | SpaceX | New Graduate Engineer, Software - '26/'27 (Starlink) | Bastrop, TX · Redmond, WA · Palo Alto, CA | New Grad | 2026 | US citizen / clearance | 2026-08-14 | SpaceX | us-citizen | [Apply](https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002) |
 | Rocket Lab USA | Manufacturing Engineer I/II | Middle River, MD | New Grad | Unknown | US citizen / clearance | 2026-08-14 | Rocket Lab USA | us-citizen | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7524182003) |
 | Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | New Grad | Fall 2027 | No sponsorship | 2026-08-14 | Roblox Careers | visa, fall | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
